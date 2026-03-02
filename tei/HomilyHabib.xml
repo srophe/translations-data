@@ -7,6 +7,7 @@
          <titleStmt>
             <title xml:lang="en" level="a" ref="http://syriaca.org/work/229">Ḥabib</title>
             <author><persName ref="http://syriaca.org/person/42">Jacob of Sarug</persName></author>
+            <editor role="translator">Benjamin Plummer Pratten</editor>
             <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
          </titleStmt>
          <publicationStmt>
