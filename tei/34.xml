@@ -5,7 +5,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title ref="http://syriaca.org/work/826">Simeon the Scribe</title>
+            <title level="m" ref="http://syriaca.org/work/826">Simeon the Scribe</title>
+            <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
             <author>
                <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
             </author>
@@ -211,7 +212,7 @@
                <choice>
                   <reg/>
                   <orig>p. 402, n. 3</orig>
-               </choice>This must be the meaning of <foreign xml:lang="syr">ܐܬܟܠܝ ܥܠ</foreign>. The
+               </choice>This must be the meaning of <foreign xml:lang="syr" dir="rtl">ܐܬܟܠܝ ܥܠ</foreign>. The
                lexicons do not give the phrase.</note>
             <note xml:id="n9" target="#a9" n="9">
                <choice>

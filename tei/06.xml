@@ -5,7 +5,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title ref="http://syriaca.org/work/798">Paul the Mourner</title>
+            <title level="m" ref="http://syriaca.org/work/798">Paul the Mourner</title>
+            <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
             <author>
                <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
             </author>

@@ -5,7 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title ref="http://syriaca.org/work/795">John the Nazarite</title>
+                <title level="m" ref="http://syriaca.org/work/795">John the Nazarite</title>
+                <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
                     <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
                 </author>
@@ -463,7 +464,7 @@
                         <reg/>
                         <orig>p. 39, n. 2</orig>
                     </choice>
-                    <foreign xml:lang="syr">ܝܠܦ</foreign>, like <foreign xml:lang="grc">πυνθάνομαι</foreign>, is often used in this sense, 
+                    <foreign xml:lang="syr" dir="rtl">ܝܠܦ</foreign>, like <foreign xml:lang="grc">πυνθάνομαι</foreign>, is often used in this sense, 
                though unknown to the lexicons; cf. ch.10 (fol.35 v˚ b) and ch. 54 (fol.124 r˚ b).</note>
                 <note xml:id="n7" target="#a7" n="7">
                     <choice>

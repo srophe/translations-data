@@ -5,7 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title ref="http://syriaca.org/work/823">Elijah and Theodore</title>
+                <title level="m" ref="http://syriaca.org/work/823">Elijah and Theodore</title>
+                <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
                     <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
                 </author>
@@ -307,7 +308,7 @@
                         <orig>p. 380, n.
                   3</orig>
                     </choice>
-                    <foreign xml:lang="syr">ܐܬܛܪܛܝ</foreign> is not elsewhere known
+                    <foreign xml:lang="syr" dir="rtl">ܐܬܛܪܛܝ</foreign> is not elsewhere known
                in this sense, but means <hi rend="singleQuotes">was stained</hi> with ref. to the
                object stained.</note>
                 <note xml:id="n10" target="#a10" n="10">
