@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -84,8 +84,7 @@
                   ejection from the desert, which (he said) was brought about through the violence
                   and contentious conduct of other solitaries, then afterwards also, when we were
                   making inquiries of him with regard to the affliction shown by his many floods of
-                  tears and constant sighs, he showed greater distress by grievous <pb n="653"/>
-                  <pb n="451"/>sobs, saying, <quote>Who then (<foreign xml:lang="grc">άρα</foreign>),
+                  tears and constant sighs, he showed greater distress by grievous <pb type="vol" n="653"/><pb type="running" rend="brackets" n="451"/>sobs, saying, <quote>Who then (<foreign xml:lang="grc">άρα</foreign>),
                      pray, is there even if he were a man possessing a heart of stone who would not
                      weep over the delusion and captivity and destruction of the race (<foreign xml:lang="grc">γένος</foreign>) of men? For lo! everyone is running against
                      himself contrary to religion, and everyone is with all his strength intent upon
@@ -102,8 +101,7 @@
                      make mourning like a jackal, and lamentation like a jackal's whelp, since the
                      force of error and destruction has borne away men who are bought by the blood
                      of God and rescued by his cross?</quote>. While the blessed man was repeating
-                  these things and more than them in his <pb n="654"/>
-                  <pb n="452"/>affliction, all
+                  these things and more than them in his <pb type="vol" n="654"/><pb type="running" rend="brackets" n="452"/>affliction, all
                   who heard him were marvelling; and, despising all this confused life, they also as
                   well were being brought to afflictions and tears with him, everyone marvelling at
                   the blessed man's labour and affliction and teaching. While he was doing and
@@ -121,8 +119,7 @@
                   tomb according to his injunction; by whose prayers together with those of all the
                   saints who please God may all we sinners who provoke our Creator be admitted to
                   mercy. Yea and Amen! And the blessed <persName ref="http://syriaca.org/person/2040">Romanus</persName> who also was a great
-                  and whole-hearted old man, <pb n="655"/>
-                  <pb n="453"/>who was
+                  and whole-hearted old man, <pb type="vol" n="655"/><pb type="running" rend="brackets" n="453"/>who was
                   <foreign>apocrisiarius</foreign> of the great convent of <placeName ref="http://syriaca.org/place/233">Thel 'Adda</placeName>, who himself also as
                   well lived in the same house of a certain great and believing man in which the
                   blessed <persName ref="http://syriaca.org/person/1630">Bassian</persName> also

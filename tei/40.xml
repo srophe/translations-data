@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -77,8 +77,7 @@
                   was by birth (<foreign xml:lang="grc">γένος</foreign>) from the district of
                   <placeName ref="http://syriaca.org/place/493">Sophanene</placeName>, from a
                   village called such-and-such.<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/> This
-                  man, <pb n="648"/>
-                  <pb n="446"/>having at a certain time come to the royal city,
+                  man, <pb type="vol" n="648"/><pb type="running" rend="brackets" n="446"/>having at a certain time come to the royal city,
                   betook himself to us; and, having been received by us as a stranger, on the second
                   day he cast himself down weeping and entreating to be received by us, and admitted
                   to the monastic order (<foreign xml:lang="grc">τάγμα</foreign>). And we on our
@@ -95,8 +94,7 @@
                   these things, we allowed him to make trial of his own self, while we also on our
                   part observed his perseverance. And, when he had thus completed two years, being
                   constant in fasting and prayer and constant vigil by night, and humility and
-                  obedience, while he was also always entreating to be admitted to <pb n="649"/>
-                  <pb n="447"/>the order and the beloved habit (<foreign xml:lang="grc">σχήμα</foreign>) of monasticism, so also upon many testimonies and admonitions
+                  obedience, while he was also always entreating to be admitted to <pb type="vol" n="649"/><pb type="running" rend="brackets" n="447"/>the order and the beloved habit (<foreign xml:lang="grc">σχήμα</foreign>) of monasticism, so also upon many testimonies and admonitions
                   he was admitted to the monastic habit (<foreign xml:lang="grc">σχήμα</foreign>).
                   And, while he was accomplishing the labour of his practices every day with many
                   tears and much earnestness and humility, and when he had reached the period of
@@ -111,8 +109,7 @@
                   giving them much admonition and correction and teaching, he was presenting a
                   petition on their behalf that they might be received. And, this having also been
                   done in order to gratify him, they also as well were taught<ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/> the devout monastic habit (<foreign xml:lang="grc">σχήμα</foreign>), living a whole-heartod and obedient life, with all
-                  earnestness and religion. After a period of some years they also were <pb n="650"/>
-                  <pb n="448"/>admitted to the rank of the diaconate; and thenceforth for many
+                  earnestness and religion. After a period of some years they also were <pb type="vol" n="650"/><pb type="running" rend="brackets" n="448"/>admitted to the rank of the diaconate; and thenceforth for many
                   years they earnestly and whole-heartedly and obediently occupied themselves with
                   us in the work of the ministry in the district of <placeName ref="http://syriaca.org/place/2747">Asia</placeName> in converting men from the
                   deceitfulness of paganism, gratifying our soul every day by their earnestness and
@@ -130,8 +127,7 @@
                   monastery called that of <placeName ref="http://syriaca.org/place/2782">Gordiana</placeName> hard by <placeName>the city of Antioch</placeName> in
                   <placeName>Caria</placeName>. And, when we returned to the royal city, the
                   blessed <persName ref="http://syriaca.org/person/1554">Abraham</persName> himself
-                  also ended the course of his life-practices in a <pb n="651"/>
-                  <pb n="449"/>good
+                  also ended the course of his life-practices in a <pb type="vol" n="651"/><pb type="running" rend="brackets" n="449"/>good
                   old age; and he was laid with his blessed spiritual brothers <persName ref="http://syriaca.org/person/1533">Aaron</persName> and <persName ref="http://syriaca.org/person/1853">Leontius</persName>. And the blessed
                   <persName ref="http://syriaca.org/person/3270">Zwtʾ</persName> was afterwards
                   admitted to the honour of the presbyterate, and he took over the charge of the

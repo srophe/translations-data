@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -83,8 +83,7 @@
                   </persName>, insomuch that he spent a
                   considerable number of years in the exile (<foreign xml:lang="grc">έξορία</foreign>), and so was at last invited, and came in, and was restored
                   to his place, and completed his time,<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> and retired, having lived many years in all religious habits, while like an
-                  ordinary <pb n="201"/>
-                  <pb n="547"/>man he used to work and labour with his hands
+                  ordinary <pb type="vol" n="201"/><pb type="running" rend="brackets" n="547"/>man he used to work and labour with his hands
                   at carpentering and building and carving, and sell and give to the poor, besides
                   all the rest of his wealth, while he lived an ordinary and poor life, down to
                   extreme old age, and thus departed from the world bearing great and noble
@@ -99,8 +98,7 @@
                   in order that he might escape and retire from the turmoil of the palace (<foreign xml:lang="grc">παλάτιον</foreign>), and settle down in quietude, and devote
                   himself to the practice of religion only; insomuch that the king assented to his
                   request and carried out his desire, and ordered him to retire as
-                  <foreign>castrensis</foreign>, because he,<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> serves two years only<ptr type="noteAnchor" xml:id="a6" target="#n6" n="6"/> many offices being subordinate <pb n="202"/>
-                  <pb n="548"/>to him,<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> and large
+                  <foreign>castrensis</foreign>, because he,<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> serves two years only<ptr type="noteAnchor" xml:id="a6" target="#n6" n="6"/> many offices being subordinate <pb type="vol" n="202"/><pb type="running" rend="brackets" n="548"/>to him,<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> and large
                   profits coming in to him, and in two years like the <foreign>praepositus</foreign>
                   he retires, and like him expends<ptr type="noteAnchor" xml:id="a8" target="#n8" n="8"/>
                   much wealth. The illustrious blessed man therefore retired, and completed two
@@ -115,8 +113,7 @@
                   crossing and scattering his wealth profusely and without stint; so that in the
                   space of one year he scattered more than fifteen or twenty hundredweights
                   (<foreign xml:lang="grc">κεντηνάριον</foreign>),<ptr type="noteAnchor" xml:id="a10" target="#n10" n="10"/> until he had used up all the gold. And his slaves and
-                  all who were attached to him <pb n="203"/>
-                  <pb n="549"/>began to murmur and find
+                  all who were attached to him <pb type="vol" n="203"/><pb type="running" rend="brackets" n="549"/>began to murmur and find
                   fault with him, so that they received us and many others with many complaints
                   against him, inasmuch as we had been habitually in his company from the beginning;
                   so that, when we saw that his soul was thus intoxicated with the fervour of divine
@@ -134,8 +131,7 @@
                         then (<foreign xml:lang="grc">άρα</foreign>) can guarantee me life till the
                         evening? And, if it has happened that the end overtake me and this which has
                         been committed to me remain after me, who will tell me into whose hands it will
-                        come? <pb n="204"/>
-                        <pb n="550"/>and perhaps those who find it will spend it on
+                        come? <pb type="vol" n="204"/><pb type="running" rend="brackets" n="550"/>and perhaps those who find it will spend it on
                         harlots, and I shall be called to answer for it.<ptr type="noteAnchor" xml:id="a14" target="#n14" n="14"/> And if, sir, you advise me so, I will now do your
                         bidding</quote>. Then he freed his slaves, and gave gifts to them, and to the
                   freeborn who were attached to him, saying, <quote>See, be no longer grudging, and
@@ -151,8 +147,7 @@
                   with him, though they were still murmuring against him and finding fault with him.
                   But he said to them several times, <quote>You do not think the things of God but
                      those of men,<ptr type="noteAnchor" xml:id="a17" target="#n17" n="17"/> and you concern
-                     yourselves about <pb n="205"/>
-                     <pb n="551"/>your belly and your purses; and you
+                     yourselves about <pb type="vol" n="205"/><pb type="running" rend="brackets" n="551"/>your belly and your purses; and you
                      do not know that we gave away the whole of what was given us by God that he may
                      give us many times as much, and we may not be called to account for it through
                      administering it badly.</quote> But, after he had come to want, and was
@@ -171,8 +166,7 @@
                      the way that is broad that leads to destruction<ptr type="noteAnchor" xml:id="a18" target="#n18" n="18"/>
                   </quote>. And thus this man of God began and ended
                   in this brave conflict (<foreign xml:lang="grc">άγών</foreign>), while he had now
-                  <pb n="206"/>
-                  <pb n="552"/>become dried and shrivelled from the labours of
+                  <pb type="vol" n="206"/><pb type="running" rend="brackets" n="552"/>become dried and shrivelled from the labours of
                   asceticism, and the whole of his body had become like dry wood. And thus he ended
                   his life in that same villa, and was laid above the blessed <persName ref="http://syriaca.org/person/2558">Mishael</persName>. But his brother
                   <persName ref="http://syriaca.org/person/3224">John</persName>, who also

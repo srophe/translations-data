@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -75,8 +75,7 @@
                   a blessing is given by our Lord,<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/>
                   and he conducted himself in this way in spiritual knowledge in order to attain to
                   excellence. Then, having learned that he did not beg for anything from anyone, we
-                  sent him a <pb n="180"/>
-                  <pb n="526"/>present of one <foreign>tremissis</foreign>
+                  sent him a <pb type="vol" n="180"/><pb type="running" rend="brackets" n="526"/>present of one <foreign>tremissis</foreign>
                   by a <persName ref="http://syriaca.org/person/3720">certain gentlemen</persName>
                   who was occupied with us in God's service, that it might assist him to supply his
                   needs, and in order that we might thereby discover the object that he had before
@@ -95,8 +94,7 @@
                   away. And so that man came, and related all these things to us. Then we were
                   assured that that poor man was a spiritual person, and a bondman of God, and was
                   poor of his own will for the sake of eternal life. After these things in the time
-                  of the winter-cold. <pb n="181"/>
-                  <pb n="527"/>having seen that he was uncovered
+                  of the winter-cold. <pb type="vol" n="181"/><pb type="running" rend="brackets" n="527"/>having seen that he was uncovered
                   and sore bested, we bought him a tunic and a cloak, and sent them by that man,
                   begging him to put them on and warm himself during the winter. But he on seeing
                   them turned his face away, and showed displeasure against him, saying, <quote>Go
@@ -115,8 +113,7 @@
                   gentleman observed him, and secretly went out after him, standing facing him; and
                   he saw him standing in prayer with his hands stretched out to heaven, and suddenly
                   an awe-inspiring spectacle that was laid upon his face (<foreign xml:lang="grc">πρόσωπον</foreign>), and flashed like lightning, and rays of fire were
-                  proceeding <pb n="182"/>
-                  <pb n="528"/>from his face (<foreign xml:lang="grc">πρόσωπον</foreign>), and an awful bow of fire that was stretched out above him
+                  proceeding <pb type="vol" n="182"/><pb type="running" rend="brackets" n="528"/>from his face (<foreign xml:lang="grc">πρόσωπον</foreign>), and an awful bow of fire that was stretched out above him
                   while he stood within it, and a great light surrounded him. And, when that man saw
                   this awful spectacle on that poor man as he was praying, he was frightened, and
                   fell on his face on the ground. And after a little time he rose and fled and came
@@ -133,8 +130,7 @@
                   he used to sleep, and he fell at his feet, weeping and trembling from his fear.
                   But the blessed man knew the cause of his fear, and said to him: <quote>Wherefore,
                      man, did you come out after my poverty, to inquire into things which do not
-                     concern you?</quote>. And, adjuring him by the living God, he continued <pb n="183"/>
-                  <pb n="529"/>beseeching him to inform him what he was. And he also
+                     concern you?</quote>. And, adjuring him by the living God, he continued <pb type="vol" n="183"/><pb type="running" rend="brackets" n="529"/>beseeching him to inform him what he was. And he also
                   required oaths from him that he would not make any disclosure or give any
                   information to men about him. And he on his side said: <quote>Only from the abbot
                      (<foreign xml:lang="grc">άββάς</foreign>) I cannot conceal it; but to others
@@ -152,8 +148,7 @@
                      and there is no one who speaks with me or who worries me. And beg the abbot
                      (<foreign xml:lang="grc">άββάς</foreign>) that, though these things are
                      known to him, he will leave me as I am, and not show any difference toward
-                     me.</quote> The man who was with me having repeated all these <pb n="184"/>
-                  <pb n="530"/>things to me, I sent and begged him, if possible, to come to us
+                     me.</quote> The man who was with me having repeated all these <pb type="vol" n="184"/><pb type="running" rend="brackets" n="530"/>things to me, I sent and begged him, if possible, to come to us
                   secretly at suppertime, and eat with us,<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> and he would not consent, sending me a message that we should attend to
                   things that are helpful and lasting. One night I was suddenly attacked by the
                   disease of fever; and in the morning, when the man who was with me who used to go
@@ -173,8 +168,7 @@
                   things which that man used to relate that he saw in that poor man, and moreover
                   that one of his companions came to him and saw him with him, and he himself
                   refused to speak to him, in consequence of the large number of these we have on
-                  account of the length <pb n="185"/>
-                  <pb n="531"/>of the history refrained from
+                  account of the length <pb type="vol" n="185"/><pb type="running" rend="brackets" n="531"/>of the history refrained from
                   speaking. But, when we had departed to another place, that saint ended his course
                   in the same city and was buried; and, when we came and heard of it, we were much
                   distressed at having been deprived of his society, even at second-hand. And we

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -83,8 +83,7 @@
                   while his parents desired to yoke him in worldly intercourse with a wife, and
                   expected that he would also be their heir, because he was indeed their only child,
                   and<ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/> advised him to take a wife,
-                  as she had been <pb n="662"/>
-                  <pb n="460"/>betrothed and provided, he on his side
+                  as she had been <pb type="vol" n="662"/><pb type="running" rend="brackets" n="460"/>betrothed and provided, he on his side
                   opposed, and he would answer his parents, saying, <quote>As for me why should I go
                      and fall into the turmoil of this world, and give material to sin and death? If
                      I indeed obey you, then I shall also be bound by the world and many sins, and,
@@ -102,8 +101,7 @@
                   especially in the devout <placeName ref="http://syriaca.org/place/2778">convent of
                      Fyṭr</placeName> the devout and great blessed men <persName ref="http://syriaca.org/person/3763">Habib</persName> and <persName ref="http://syriaca.org/person/1524">Zʿura</persName>, who shine at the
                   beginning of these histories<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> like
-                  rays of light; so that after the decease of <persName ref="http://syriaca.org/person/3763">Habib</persName> the <pb n="663"/>
-                  <pb n="461"/>mighty in spiritual strength, when his perfect disciple <persName ref="http://syriaca.org/person/1524">Zʿura</persName> at last earned the
+                  rays of light; so that after the decease of <persName ref="http://syriaca.org/person/3763">Habib</persName> the <pb type="vol" n="663"/><pb type="running" rend="brackets" n="461"/>mighty in spiritual strength, when his perfect disciple <persName ref="http://syriaca.org/person/1524">Zʿura</persName> at last earned the
                   privilege of succeeding him in the administration, and also of ascending the
                   pillar and accomplishing the course of his practices on it, and, when this blessed
                   <persName ref="http://syriaca.org/person/1524">Zʿura</persName> had for a
@@ -119,8 +117,7 @@
                   tongue. And so he went up with him, and lived with his disciples and with him,
                   imitating their practices and occupied in spiritual employment; insomuch that he
                   was consequently desirous of being admitted to the devout monastic habit (<foreign xml:lang="grc">σχήμα</foreign>) also, and the blessed men would not allow him,
-                  saying <quote>It is <pb n="664"/>
-                     <pb n="462"/>better both for you and for us that
+                  saying <quote>It is <pb type="vol" n="664"/><pb type="running" rend="brackets" n="462"/>better both for you and for us that
                      you should go in and out of the city and the palace (<foreign xml:lang="grc">παλάτιον</foreign>) as a layman, and carry communications (<foreign xml:lang="grc">άποκρίσεις</foreign>) for us, and not go about the city clad
                      in the habit (<foreign xml:lang="grc">σχήμα</foreign>) and cause the habit
                      (<foreign xml:lang="grc">σχήμα</foreign>) to be made an object of
@@ -139,8 +136,7 @@
                   great scale, having also added to his spiritual labours the extra labour of
                   hospitality and the relief of the poor, living and delighting also in voluntary
                   poverty, and rejoicing in it, so that, if it happened also that there was a
-                  superfluity of anything <pb n="665"/>
-                  <pb n="463"/>in his cell, he would set
+                  superfluity of anything <pb type="vol" n="665"/><pb type="running" rend="brackets" n="463"/>in his cell, he would set
                   himself to scatter it among the needy. Since many of the chamberlains and of the
                   distinguished members of the senate (<foreign xml:lang="grc">σύγκλητος</foreign>)
                   were acquainted with him because of the blessed man,<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/> and moreover loved him on account of his venerable
@@ -156,8 +152,7 @@
                   partridge-cages (<foreign xml:lang="grc">κλωβός</foreign>) and sold them, and
                   gained his living, with his two slaves, who also served him devoutly; for, when
                   they went out to monasteries or anywhere, then they also continually practised
-                  vigils and fasting and <pb n="666"/>
-                  <pb n="464"/>recitation of service and
+                  vigils and fasting and <pb type="vol" n="666"/><pb type="running" rend="brackets" n="464"/>recitation of service and
                   constant prayers in company with all the members of the convent; and, when they
                   were remaining continuously in the cell, the blessed <persName ref="http://syriaca.org/person/3155">Tribunus</persName> was constantly
                   occupied in the same way night and day, and what is especially deserving of
@@ -174,8 +169,7 @@
                   tenement. And, since the porter (<foreign xml:lang="grc">όστιάριος</foreign>)
                   himself was not there, but as if by the opposition of Satan his wife was present,
                   who was a young woman and was very worldly in her appearance,<ptr type="noteAnchor" xml:id="a12" target="#n12" n="12"/> she said to him <quote>Come with me
-                     and I will myself show <pb n="667"/>
-                     <pb n="465"/>you the rooms that are
+                     and I will myself show <pb type="vol" n="667"/><pb type="running" rend="brackets" n="465"/>you the rooms that are
                      advertised</quote>. And, when she had taken the key (<foreign xml:lang="grc">κλείδα</foreign>) and gone up and opened them, they both went in. And, as he
                   was going round to look, while she on her side was displaying a snare of sin
                   before him, a sinful passion was aroused in her, and she went on madly laughing in
@@ -191,8 +185,7 @@
                   and threw her off and withdrew himself from her, reproving and rebuking her
                   sternly and saying, <quote>The Lord rebuke you, woman, and the fiend who clothed
                      you in so much shamelessness and wickedness that you should dare to defile the
-                     path of <pb n="668"/>
-                     <pb n="466"/>intercourse with your husband, and hold
+                     path of <pb type="vol" n="668"/><pb type="running" rend="brackets" n="466"/>intercourse with your husband, and hold
                      intercourse with another in violation of the law (<foreign xml:lang="grc">νόμος</foreign>), and think to stain me the sinner with you</quote>. And so
                   this brave man like <persName>Joseph</persName> the just fled and left that house
                   and all that neighbourhood in great trepidation, so that he would relate these

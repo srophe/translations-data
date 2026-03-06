@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -80,8 +80,7 @@
                   birth (<foreign xml:lang="grc">γένος</foreign>) from <placeName ref="http://syriaca.org/place/2798">Ingilene</placeName> from a village called
                   <placeName ref="http://syriaca.org/place/2866">ʿbwbnt</placeName>; and he lived
                   in the holy monastery of the blessed Mar <persName>Samuel</persName>.<ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/> And, occasion having once called him
-                  to go up himself to the <pb n="646"/>
-                  <pb n="444"/>royal city with some blessed men
+                  to go up himself to the <pb type="vol" n="646"/><pb type="running" rend="brackets" n="444"/>royal city with some blessed men
                   from the same convent, he conceived a desire to live with us and with the blessed
                   <persName ref="http://syriaca.org/person/1533">Aaron</persName> and the rest,
                   and he remained with us, living a whole-hearted and laborious life, so that once
@@ -101,8 +100,7 @@
                   <persName ref="http://syriaca.org/person/74">John</persName>, who was a
                   presbyter, himself also too attained to ordination to the great and honourable
                   yoke of the episcopacy;<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> that is,
-                  <pb n="647"/>
-                  <pb n="445"/>both of them were with compulsion and by great effort
+                  <pb type="vol" n="647"/><pb type="running" rend="brackets" n="445"/>both of them were with compulsion and by great effort
                   brought to this against their will by the use of many artifices. When the blessed
                   <persName ref="http://syriaca.org/person/1853">Leontius</persName> had
                   completed twenty years more or less in the convent that is with us in divine

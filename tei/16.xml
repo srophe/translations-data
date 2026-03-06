@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -81,8 +81,7 @@
                   presence say these things: <quote>Wherefore do we wretched men, who were created
                      for the same expression of praise in like manner as these, and to whom a mouth
                      has been given and a tongue and power of speech, cease from the praise of the
-                     merciful Creator, and busy ourselves with the vain <pb n="230"/>
-                            <pb n="230"/>things of this false and deceitful world? A great thing it is how our heart
+                     merciful Creator, and busy ourselves with the vain <pb type="vol" n="230"/><pb type="running" rend="brackets" n="230"/>things of this false and deceitful world? A great thing it is how our heart
                      is sunk and our mind blinded, and we do not consider the bounties of him who
                      created us, and brought us into existence out of nothing, how we, feeble dust
                      of the earth, <quote>live and move and exist</quote>,<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/> how the good Creator gave us the breath of this
@@ -98,8 +97,7 @@
                      spiritual life according to its spirituality, and again besides these things
                      his grace like a watchful guardian stands carefully over our life by night and
                      by day and delivers and guards us from mishaps and from all detriment that evil
-                     things may chance to do, and while this our merciful <pb n="231"/>
-                            <pb n="231"/>Creator performs all these gracious acts in relation to us, and gave us all
+                     things may chance to do, and while this our merciful <pb type="vol" n="231"/><pb type="running" rend="brackets" n="231"/>Creator performs all these gracious acts in relation to us, and gave us all
                      these spiritual and bodily gifts, our wretched heart is sunk in the mire of
                      sin, and neglects to give thanks for these things. For we truly ought not only
                      to thank and praise him who created us as the angels do, but even many times
@@ -116,8 +114,7 @@
                   these things with ecstatic wonder, he was filling all his hearers with similar
                   wonder, while, his mind being uplifted by ecstatic contemplation of the glories of
                   the heavenly beings, he said many things beside that are greater than these. And
-                  the occasion which called him to enter the limits <pb n="232"/>
-                        <pb n="232"/>of
+                  the occasion which called him to enter the limits <pb type="vol" n="232"/><pb type="running" rend="brackets" n="232"/>of
                   men's habitation and say these things to them was as follows. In earlier times he
                   used to spend eight months on the mountains among caves and rocks, and for the
                   four severe winter months he would come down to a monastic convent which he knew
@@ -133,8 +130,7 @@
                   also populous) that other hamlets are settled from it within its boundaries. </ab>
                     <ab xml:id="section-16.2" n="2"> The blessed <persName ref="http://syriaca.org/person/2097">Simeon</persName> was amazed to see in
                   what a rugged mountainous district human beings were living, and moreover that
-                  they possessed houses <pb n="233"/>
-                        <pb n="233"/>and cattle and were settled there
+                  they possessed houses <pb type="vol" n="233"/><pb type="running" rend="brackets" n="233"/>and cattle and were settled there
                   in confidence (one being three miles distant from his neighbour, and another five
                   and another two according to chance), and he was also astonished that all the
                   mountains were so full of people; and then, seeing some <persName ref="http://syriaca.org/person/3699">shepherds</persName> at a distance from
@@ -149,8 +145,7 @@
                   like some wild beasts, upon these words laughed at the blessed man, and they say:
                      <quote>How, blessed sir, does the oblation that a man receives profit him? For
                      what is the oblation?</quote>. When the blessed man heard these words, his
-                  bones shook from his fright and his <pb n="234"/>
-                        <pb n="234"/>tears gushed out,
+                  bones shook from his fright and his <pb type="vol" n="234"/><pb type="running" rend="brackets" n="234"/>tears gushed out,
                   and he said to them: <quote>Tell me, my sons, are you Christians or Jews?</quote>.
                   But they were indignant at these words, and they say: <quote>O! indeed, blessed
                      man, we are Christians, do not call us Jews.</quote> The blessed man says to
@@ -167,8 +162,7 @@
                   who were speaking to the blessed man were as he used to state to us about thirty
                   years old. to them again: <quote>Are you, my sons, only in this state, or are all
                      who are living on these mountains the same?</quote>. They say to him:
-                     <quote>Sir, it is not <pb n="235"/>
-                            <pb n="235"/>only we who are so, but there
+                     <quote>Sir, it is not <pb type="vol" n="235"/><pb type="running" rend="brackets" n="235"/>only we who are so, but there
                      are men on these mountains which you see who, unless they have heard from their
                      fathers, who carried them to church and had them baptized, do not know what a
                      church is. And this same thing happens now also to those who have children born
@@ -185,8 +179,7 @@
                      And now what hope have you toward God? for lo! you are unaware even of what
                      Christianity is.</quote> And, having spoken with them and warned them, he left
                   them and departed. And, being troubled in his thoughts, he would say to himself,
-                     <pb n="236"/>
-                        <pb n="236"/>as he himself declared, <quote>How is it that these
+                     <pb type="vol" n="236"/><pb type="running" rend="brackets" n="236"/>as he himself declared, <quote>How is it that these
                      men are like animals on these mountains?</quote>. Then he considered, and he
                   said in his heart as if from God, <quote>Perhaps it was indeed for this reason
                      that God's grace led me to the mountains here, in order that there may be
@@ -204,8 +197,7 @@
                   approach this village, and learn what its condition also was. And on approaching
                   he saw in it a little church overshadowed with vines, and he rejoiced, and said:
                      <quote>Lo! here there is a sign of the presence of Christians.</quote>
-                        <pb n="237"/>
-                        <pb n="237"/>And, when he had come up to it, he went in and saw that
+                        <pb type="vol" n="237"/><pb type="running" rend="brackets" n="237"/>And, when he had come up to it, he went in and saw that
                   it was full of wood and stones and dust; and the blessed man wept bitterly. But,
                   some men from the village having seen an old anchorite enter the church, one of
                   the old men came up to him, and received his blessing; and the blessed man asked
@@ -224,8 +216,7 @@
                      I wish to take up my abode in it for a few days.</quote> And they swept and
                   scoured (?)<ptr type="noteAnchor" xml:id="a8" target="#n8" n="8"/> and tidied. And he said
                   to him: <quote>Gather together for me to-morrow all the souls that are in this
-                     hamlet, men and <pb n="238"/>
-                            <pb n="238"/>women and children, and small as well
+                     hamlet, men and <pb type="vol" n="238"/><pb type="running" rend="brackets" n="238"/>women and children, and small as well
                      as great.</quote> And on hearing about some strange sight that they had never
                   seen they assembled together before him in the morning; and he conversed with them
                   in words of admonition, and said to them: <quote>Wherefore, O men, do you hold
@@ -241,8 +232,7 @@
                      are moreover deprived of the communion of the venerated body and blood of God,
                      and this is not reckoned by you as anything?</quote>. While the blessed man was
                   repeating such words to them, like some irrational animal, which when a man speaks
-                     <pb n="239"/>
-                        <pb n="239"/>to it in order that it may be instructed only hears
+                     <pb type="vol" n="239"/><pb type="running" rend="brackets" n="239"/>to it in order that it may be instructed only hears
                   and looks at him, so they also heard what he was speaking, and looked at him in
                   astonishment, and they had nothing to say. But he again said to them: <quote>Do
                      you not speak?</quote>. They said to him: <quote>What, sir, can we say to you?
@@ -258,8 +248,7 @@
                      and blood and water flowed from him as a propitiation for men, and that he died
                      and by his death slew our death, and rose after three days, it is written and
                      raised us with him, having trodden the road and shown us the resurrection that
-                     shall be ours, and before he suffered broke his body and blood<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/> in an upper room and <pb n="240"/>
-                            <pb n="240"/>blessed it and gave it to his disciples and said, <quote>This
+                     shall be ours, and before he suffered broke his body and blood<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/> in an upper room and <pb type="vol" n="240"/><pb type="running" rend="brackets" n="240"/>blessed it and gave it to his disciples and said, <quote>This
                         is my body that is broken on behalf of the life of the world for the
                         forgiveness of sins</quote>,<ptr type="noteAnchor" xml:id="a10" target="#n10" n="10"/>
                      and again that he said before, <quote>Everyone who eateth my body and drinketh
@@ -277,8 +266,7 @@
                      length of time during which thorns and briars have been springing up in it, so
                      that a man who wishes to till it first plucks up these thorns and burns them,
                      and then puts in his seed, so do you also go and fast this week and and pray,
-                     and <pb n="241"/>
-                            <pb n="241"/>break bread on the first day of the week, and
+                     and <pb type="vol" n="241"/><pb type="running" rend="brackets" n="241"/>break bread on the first day of the week, and
                      bring it me; and all of you, great and small, meet together, and come and
                      present yourselves</quote>. And they consented to his proposal, and went and
                   fasted, and came. He says to them: <quote>Wherefore have your sons not been made
@@ -296,8 +284,7 @@
                   learned that this thing had taken place he deprived of Christian fellowship, and
                   they were set apart as pagans and Jews. And then they began to feel a little fear,
                   both of God and of the blessed man himself, while he continued sending and
-                  fetching all who were on the <pb n="242"/>
-                        <pb n="242"/>mountains to the house, and
+                  fetching all who were on the <pb type="vol" n="242"/><pb type="running" rend="brackets" n="242"/>mountains to the house, and
                   converting them afresh, as if from paganism; and thus he used to gather them all
                   together like wild animals. After a short time, when he had gained information
                   about the children of each one of them, who had male children and who female, and
@@ -315,8 +302,7 @@
                      it as long as they live; and do you go everyone in peace</quote>. And they
                   believed it, and went away, having induced the little ones to remain by these
                   words, <quote>You will receive presents, and we will mix them for you.<ptr type="noteAnchor" xml:id="a14" target="#n14" n="14"/> Remain all of you</quote>. Then
-                  they all remained, about ninety, males and <pb n="243"/>
-                        <pb n="243"/>females. And
+                  they all remained, about ninety, males and <pb type="vol" n="243"/><pb type="running" rend="brackets" n="243"/>females. And
                   he shut the doors, and came up and separated and arranged them with the help of
                   the <persName ref="http://syriaca.org/person/3701">man</persName>man who knew
                   them, separating one in three, and the females moreover on the same system;<ptr type="noteAnchor" xml:id="a15" target="#n15" n="15"/> and, if there were two females and
@@ -335,8 +321,7 @@
                   those who were troublesome. When the news arrived, the women assembled with
                   lamentations, crying, <quote>Alas! what has taken place and what has befallen
                      us?</quote>. And some were binding themselves under a curse, saying, <quote>My
-                     son shall not <pb n="244"/>
-                            <pb n="244"/>again be shaven, and the name
+                     son shall not <pb type="vol" n="244"/><pb type="running" rend="brackets" n="244"/>again be shaven, and the name
                         <quote>son of the covenant</quote> shall not again be called over
                      him</quote>. And some of them from the rage of their souls even betook
                   themselves to abuse of the blessed man; and so also the men. But he held his
@@ -357,8 +342,7 @@
                      been marked in his name. I for my part have testified to you; you know</quote>.
                   But they came up, and laid their hands upon them and dragged them away and removed
                   them, blaspheming. The blessed man says to them: <quote>Have mercy upon your
-                     souls, my sons, and do not be obstinate and deprive <pb n="245"/>
-                            <pb n="245"/>yourselves of your children, and incur blame</quote>. They said: <quote>Let
+                     souls, my sons, and do not be obstinate and deprive <pb type="vol" n="245"/><pb type="running" rend="brackets" n="245"/>yourselves of your children, and incur blame</quote>. They said: <quote>Let
                      us be deprived this evening and we will not make our children
                      shavelings</quote>. He says to them: <quote>Beware, for, if you take them away,
                      I for my part have testified, and I testify again, that neither of them will
@@ -375,8 +359,7 @@
                      <quote>I, my sons, did not curse these either (far be it!); but God took them
                      away, that he might chastise you yourselves for your presumption against his
                      word; since it was not in our name, but in the name of God himself and in his
-                     word that I marked them. And now <pb n="246"/>
-                            <pb n="246"/>go repent and pray
+                     word that I marked them. And now <pb type="vol" n="246"/><pb type="running" rend="brackets" n="246"/>go repent and pray
                      to God that he will forgive you, lest you also perish as well</quote>. And they
                   in fear and entreating him departed. And from that time among all of them great
                   and low, if the old man wished to tonsure anyone, there was none who presumed to
@@ -393,8 +376,7 @@
                   he should curse them. And accordingly twenty-six years passed while he was there,
                   and he was still in this life, and we were always receiving his blessing, and were
                   also in intercourse with him;<ptr type="noteAnchor" xml:id="a20" target="#n20" n="20"/> and
-                  we used to learn from him about the <pb n="247"/>
-                        <pb n="247"/>uncivilized
+                  we used to learn from him about the <pb type="vol" n="247"/><pb type="running" rend="brackets" n="247"/>uncivilized
                   character of that people and about their subjugation and about all the torments
                   that they had inflicted on him, when he was now old and decrepit, and these
                   disciples of his also had become grown women and men, and they were now becoming

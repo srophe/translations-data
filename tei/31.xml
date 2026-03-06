@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -77,8 +77,7 @@
                   occupied in the practices of angels. These are two brothers, and in the time of
                   their boyhood they served for pay with traders, and travelled with them, each of
                   them in his own direction, that is, to the regions of the
-                     <persName>Persians</persName> both of them. And they formed in their mind <pb n="577"/>
-                        <pb n="375"/>the purpose of following a religious life; and they
+                     <persName>Persians</persName> both of them. And they formed in their mind <pb type="vol" n="577"/><pb type="running" rend="brackets" n="375"/>the purpose of following a religious life; and they
                   determined that whatever God provided for them should go to their own use, and
                   that of everyone else whom they saw to be a stranger like them and in need. And
                   thus they thenceforth did; for they carried on their business, and distributed to
@@ -94,8 +93,7 @@
                      without extortion and without fraud and contention, and without bargaining and
                      oaths. If it suits you buy (or sell). Wherefore are you making havoc of (?)
                      oaths and allowing Satan to thrust you into sin, when you are under no
-                     necessity <pb n="578"/>
-                            <pb n="376"/>to buy (or sell) whether you want or not?
+                     necessity <pb type="vol" n="578"/><pb type="running" rend="brackets" n="376"/>to buy (or sell) whether you want or not?
                      Now, if it suits you, take it without oaths; and if not, pray for
                   us</quote>.<!-- Brooks' use of quotations here is really confusing. -->
                </ab>
@@ -116,8 +114,7 @@
                      go and carry on business ourselves on our own account out of that which Grace
                      has provided for us; that it may in be our power and choice to give to God out
                      of that which he gives us without fear of others.</quote> And so after twenty
-                  years they returned to <pb n="579"/>
-                        <pb n="377"/>their country i. e. to <placeName ref="http://syriaca.org/place/8">Amida</placeName>. Now they had two sisters
+                  years they returned to <pb type="vol" n="579"/><pb type="running" rend="brackets" n="377"/>their country i. e. to <placeName ref="http://syriaca.org/place/8">Amida</placeName>. Now they had two sisters
                   who also had been engaged in practices of asceticism and sanctity in virgin
                   fashion from their childhood, and at all times constantly devoted themselves to
                   sorrow and tears and petitions and prayers, and that while they were mourning over
@@ -135,8 +132,7 @@
                   the gratitude and the blessings of the poor and needy every day, and further the
                   business carried on without deceit and extortion and lying ascended like the
                   vapour of incense at all times from the devout men themselves to him who knows
-                  all, and so according to the riches of his mercy he <pb n="580"/>
-                        <pb n="378"/>who
+                  all, and so according to the riches of his mercy he <pb type="vol" n="580"/><pb type="running" rend="brackets" n="378"/>who
                   has not deserted and does not desert any who trust in him showed his favour
                   openly, and his blessing rested on all that they did. And thus in a short time
                   they attained to great wealth, while even they themselves marvelled and wondered
@@ -155,8 +151,7 @@
                      <quote>I will pour blessings upon you till ye shall say
                      <quote>Enough</quote>
                         </quote>.<ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/>
-                  Thus therefore it happened to these men from <pb n="581"/>
-                        <pb n="379"/>God,
+                  Thus therefore it happened to these men from <pb type="vol" n="581"/><pb type="running" rend="brackets" n="379"/>God,
                   insomuch that they were unequal to the task of bringing forth and giving, while
                   their house was turned into a hospice (<foreign xml:lang="grc">ξενοδοχείον</foreign>) for strangers and other persons in need And accordingly
                   there were a multitude (<foreign xml:lang="grc">όχλος</foreign>) of many persons
@@ -174,8 +169,7 @@
                   whose name was <persName ref="http://syriaca.org/person/1705">Elijah</persName>
                   they would urge, for the sake of the security (<foreign xml:lang="grc">άσφάλεια</foreign>)<ptr type="noteAnchor" xml:id="a6" target="#n6" n="6"/> of the
                   house, to take a wife; and he yielded to the pressure, and he alone took a wife,
-                  while with him also the Scripture-saying was fulfilled which says, <quote>A <pb n="582"/>
-                            <pb n="380"/>good woman shall be given to a man who feareth the
+                  while with him also the Scripture-saying was fulfilled which says, <quote>A <pb type="vol" n="582"/><pb type="running" rend="brackets" n="380"/>good woman shall be given to a man who feareth the
                      Lord</quote>.<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> For this woman,
                   when she came in and saw that they were bent on running in the path of
                   righteousness, began and quickened the running, and passed them all, in sorrow and
@@ -194,8 +188,7 @@
                   that on account of the fame of their excellent mode of life, when occasions called
                   us to the royal city,<ptr type="noteAnchor" xml:id="a10" target="#n10" n="10"/> we used to
                   make our lodging with them, and it might happen that we even passed several days
-                  in their house both on the <pb n="583"/>
-                        <pb n="381"/>way up and on the way back,
+                  in their house both on the <pb type="vol" n="583"/><pb type="running" rend="brackets" n="381"/>way up and on the way back,
                   since they had now made a martyrs' chapel in one of the chambers of their
                   dwelling, and at the hour of their own assembly for service they used to meet
                   there, and anyone who was known and honoured by them they would receive there.
@@ -210,8 +203,7 @@
                   were especially astonished at the greatness of their kindness and the direction of
                   their will toward God, so that, whenever they saw us great and small, they would
                   thus with as little intermission as possible refuse to leave us, but, thinking of
-                  us that we were in truth actually Christians, each of them would <pb n="584"/>
-                        <pb n="382"/>ask to hear from us about his thoughts and about the other modes of
+                  us that we were in truth actually Christians, each of them would <pb type="vol" n="584"/><pb type="running" rend="brackets" n="382"/>ask to hear from us about his thoughts and about the other modes of
                   life, and <quote>How must I deal with such-and-such a thought?</quote> and
                      <quote>What labour will bring me near to God?</quote>, each of them separately
                   according to his station, whether women or men.<ptr type="noteAnchor" xml:id="a12" target="#n12" n="12"/> And we like what our Lord said also to the scribes and
@@ -229,8 +221,7 @@
                   the whole of <placeName ref="http://syriaca.org/place/486">Syria</placeName>, and
                   as far as <placeName ref="http://syriaca.org/place/716">ʿArab</placeName>
                         <ptr type="noteAnchor" xml:id="a14" target="#n14" n="14"/> and <placeName ref="http://syriaca.org/place/109">Callinicus</placeName> and the desert, accompanied by two bondmen, and he did
-                  so in <pb n="585"/>
-                        <pb n="383"/>the dress (<foreign xml:lang="grc">σχήμα</foreign>) of a secular trader without being known, and he was making
+                  so in <pb type="vol" n="585"/><pb type="running" rend="brackets" n="383"/>the dress (<foreign xml:lang="grc">σχήμα</foreign>) of a secular trader without being known, and he was making
                   spiritual gains. And so by the love of God which they showed in their trade these
                   admirable men would every day send great loads to heaven, and completed the days
                   of their life in practices which it surpasses even the power of words to describe,

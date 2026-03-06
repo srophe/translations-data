@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -79,8 +79,7 @@
                   from the foundations of the world had been sitting in the darkness of idolatry,
                   when each of them laboured earnestly with us down to the end of the life that is
                   derived from the body, so that these devout men also were laid together in the
-                  sepulchre, while all of them were by birth (<foreign xml:lang="grc">γένος</foreign>) <pb n="659"/>
-                  <pb n="457"/>from <placeName ref="http://syriaca.org/place/486">Syria</placeName>,<ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/>
+                  sepulchre, while all of them were by birth (<foreign xml:lang="grc">γένος</foreign>) <pb type="vol" n="659"/><pb type="running" rend="brackets" n="457"/>from <placeName ref="http://syriaca.org/place/486">Syria</placeName>,<ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/>
                   <persName ref="http://syriaca.org/person/1664">Cyriac</persName>, who laboured
                   with us for some years before everyone after these first old men,<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/>, was by his birth (<foreign xml:lang="grc">γένος</foreign>) from the city of <placeName ref="http://syriaca.org/place/134">Maiferkat</placeName>
                   <ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> and the blessed <persName ref="http://syriaca.org/person/1547">Abraham</persName>, who was powerful in
@@ -97,8 +96,7 @@
                   rugged mountains of <placeName ref="http://syriaca.org/place/2747">Asia</placeName> each one of them ran zealously and mightily in his time, and
                   was strengthened to abolish paganism, and overthrow idolatry, and uproot altars
                   and destroy shrines (<foreign xml:lang="grc">ναός</foreign>) and cut down trees in
-                  ardent religious zeal; and<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> each <pb n="660"/>
-                  <pb n="458"/>one of them in his time together with the holy old men
+                  ardent religious zeal; and<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> each <pb type="vol" n="660"/><pb type="running" rend="brackets" n="458"/>one of them in his time together with the holy old men
                   who were before them worked earnestly, and all of them also toiled and laboured
                   with us with joy and great earnestness in building ninety-two churches and ten
                   monasteries in four provinces (<foreign xml:lang="grc">ύπαρχίας</foreign>),<ptr type="noteAnchor" xml:id="a6" target="#n6" n="6"/> which were erected by the help of

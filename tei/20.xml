@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -83,8 +83,7 @@
                   himself also possessed such great pre-eminence of character that the period during
                   which the whole of the sole of his foot was lying and resting on the ground during
                   the hour of service was reckoned by him as sin (<quote>I have removed myself from
-                        <pb n="274"/>
-                            <pb n="274"/>fervour toward God</quote>); so that it was
+                        <pb type="vol" n="274"/><pb type="running" rend="brackets" n="274"/>fervour toward God</quote>); so that it was
                   impossible for anyone to see him (and neither did this man so act in common with
                   all, but specially<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/>) without his
                   eyes extended towards heaven, his soul also being in this way drawn upward with
@@ -100,8 +99,7 @@
                   also under his robe, that is the palms themselves, were secretly extended, and
                   every part of him was being drawn upwards, while not a sentence was allowed to
                   pass out from his mouth without an expression of praise or thanksgiving Between
-                  each several sentence, <quote>Praise to thee, Lord</quote>; <pb n="275"/>
-                        <pb n="275"/>again, <quote>Thanks to thee, our Hope</quote>; at another again,
+                  each several sentence, <quote>Praise to thee, Lord</quote>; <pb type="vol" n="275"/><pb type="running" rend="brackets" n="275"/>again, <quote>Thanks to thee, our Hope</quote>; at another again,
                      <quote>Blessed art thou, our Creator. Praise to thy mercy, our Saviour</quote>;
                   and thus his tongue would give birth to these fruits all the time of his service,
                   and would send them to heaven in rapid succession without ceasing. This
@@ -118,8 +116,7 @@
                      not vexed, sir, that I cannot confess.</quote> But I, because I thought that
                   perhaps he would be ashamed in the presence of many persons, took him apart, and
                   said to him: <quote>In case the temptation of fornication has come in your way,
-                     say, and be not ashamed; because this happened to mighty men also, <pb n="276"/>
-                            <pb n="276"/>and they repented at once, and were forgiven. And now say,
+                     say, and be not ashamed; because this happened to mighty men also, <pb type="vol" n="276"/><pb type="running" rend="brackets" n="276"/>and they repented at once, and were forgiven. And now say,
                      and I myself will repent with you</quote>. But he said, <quote>My sin, sir, is
                      more grievous and more lamentable than fornication</quote>. But I again, being
                   greatly distressed, raised my thoughts to terrible and grievous things, in which
@@ -138,8 +135,7 @@
                      the service of God, and performed that of <persName ref="http://syriaca.org/person/3651">Satan</persName>, and I fell, and
                      laughed over that brother while I was standing at the service. And lo! this is
                      my disaster</quote>. When I on my part heard this, I also was smitten with the
-                  same sin as he, <pb n="277"/>
-                        <pb n="277"/>and I laughed over all the depths and
+                  same sin as he, <pb type="vol" n="277"/><pb type="running" rend="brackets" n="277"/>and I laughed over all the depths and
                   heights of sins which up to now we had thinking that this might be. And, being
                   amazed at the blessed man's spirituality, to think what a height of wickedness the
                   saints reckon such a little shortcoming as is neglected by us so that we ourselves
@@ -158,8 +154,7 @@
                      any other. But, if you fall into any sin, beware lest <persName ref="http://syriaca.org/person/3651">Satan</persName> lead you into despair
                      and say to you, <quote>You have provoked, you will not be accepted</quote>;
                      but, whenever you have any ulcer of sin, lay the poultice of repentance<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/>
-                            <pb n="278"/>
-                            <pb n="278"/>upon it immediately, and do not despair</quote>. And
+                            <pb type="vol" n="278"/><pb type="running" rend="brackets" n="278"/>upon it immediately, and do not despair</quote>. And
                   so he accepted the advice, and went away; and from that time forward he used to
                   perform remorseful repentance for that sin by day and by night. </ab>
                     <ab xml:id="section-20.2" n="2"> Next it has been my desire to record something on the
@@ -176,8 +171,7 @@
                   many also from whom the leaven of their worldliness does not pass away even when
                   they are in a convent many years, because the thorns and briers of their loose and
                   dissolute and sensual customs in the wordly estate were not from the beginning
-                  cleansed, <pb n="279"/>
-                        <pb n="279"/>and then the pure unalloyed seed of the devout
+                  cleansed, <pb type="vol" n="279"/><pb type="running" rend="brackets" n="279"/>and then the pure unalloyed seed of the devout
                   and venerable habit (<foreign xml:lang="grc">σχήμα</foreign>) of religion falls
                   outwardly upon them, and they have put it on at once on the first day, and from
                   this time it has been in <persName ref="http://syriaca.org/person/3651">Satan</persName>'s power easily to drag and entrap and lead many into
@@ -194,8 +188,7 @@
                      your thoughts to this purpose?</quote>; and, after the man whoever he be has
                   settled all these points, so that they may know the genuineness of his desire, if
                   again he in truth possesses this in his mind, they inquire of him, <quote>Lo! how
-                     long have you <pb n="280"/>
-                            <pb n="280"/>had this resolution in you?</quote>;
+                     long have you <pb type="vol" n="280"/><pb type="running" rend="brackets" n="280"/>had this resolution in you?</quote>;
                   and on learning all these things they allow him to stand at the gate for thirty
                   days, saying, <quote>Beware lest your thoughts urge you to return for any reason,
                      for the sake of kindred (<foreign xml:lang="grc">γένος</foreign>), or for the
@@ -213,8 +206,7 @@
                   comes inside, while they give him free admission and also require him to be
                   regular in attending service and watching with the brotherhood, and the weekly
                      ministration,<ptr type="noteAnchor" xml:id="a8" target="#n8" n="8"/> and all the the
-                  menial labour of the monastery for about three months, making trial of <pb n="281"/>
-                        <pb n="281"/>his earnestness and observing his alacrity. And, if they see him
+                  menial labour of the monastery for about three months, making trial of <pb type="vol" n="281"/><pb type="running" rend="brackets" n="281"/>his earnestness and observing his alacrity. And, if they see him
                   to be eager to receive the mark, and if he is vigilant and presents a petition,
                   then indeed he is again called, and many things are said to him: <quote>You have
                      tried, and you have seen. Is it too hard for you? after you have received the
@@ -231,8 +223,7 @@
                      in the venerable robe (<foreign xml:lang="grc">στολή</foreign>) of his habit
                         (<foreign xml:lang="grc">σχήμα</foreign>), and he will place on your hand
                      also the ring of observance of his commandments</quote>. And so they leave him
-                  again for three more months; and again he presents a petition to be <pb n="282"/>
-                        <pb n="282"/>tonsured, while this also is their part, to urge him himself to
+                  again for three more months; and again he presents a petition to be <pb type="vol" n="282"/><pb type="running" rend="brackets" n="282"/>tonsured, while this also is their part, to urge him himself to
                   seek intercessors.<ptr type="noteAnchor" xml:id="a10" target="#n10" n="10"/> And again they
                   require at his hands, <quote>Look to your thoughts. It is expedient for you now to
                      turn back and it is open to you to do so. Can you endure, even after yet other
@@ -251,8 +242,7 @@
                   and then he comes before the altar; and again great cautions are pronounced, and,
                      <quote>In case you seek to turn back now, it is open to you</quote>. And so
                   they array him in the habit (<foreign xml:lang="grc">σχήμα</foreign>), the first
-                  foundation which he laid <pb n="283"/>
-                        <pb n="283"/>having been laid by him unto
+                  foundation which he laid <pb type="vol" n="283"/><pb type="running" rend="brackets" n="283"/>having been laid by him unto
                   his end. At these things I was greatly astonished, and they pleased me much; for
                   these men are in truth brought to religion. </ab>
                 </div>

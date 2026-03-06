@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -85,8 +85,7 @@
                   glory, secondly, for a memorial and remembrance of the righteousness of the same
                   just and righteous men, who at different times endeavoured to please God and do
                   his will, thirdly again, that those who should afterwards read and receive it
-                  through the <pb n="625"/>
-                        <pb n="423"/>writings might be imitators of their
+                  through the <pb type="vol" n="625"/><pb type="running" rend="brackets" n="423"/>writings might be imitators of their
                   practices, and eager to run the course of religion like them, since then, as we
                   said before, we ourselves observed all these things, we considered it to be a
                   matter of right and religion now also to make a record of the upright men and
@@ -105,8 +104,7 @@
                   in ill-matched fashion. This saint then was by birth (<foreign xml:lang="grc">γένος</foreign>) from the country of the Amidenes,<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> 
                   that is from Ingilene from a village 
                   called <placeName ref="http://syriaca.org/place/2753">Beth Marka</placeName>,<ptr type="noteAnchor" xml:id="a8" target="#n8" n="8"/> 
-                  which is indeed in our neighbourhood, <pb n="626"/>
-                        <pb n="424"/>and, while this man was a layman, and was
+                  which is indeed in our neighbourhood, <pb type="vol" n="626"/><pb type="running" rend="brackets" n="424"/>and, while this man was a layman, and was
                   powerful of stature and of more than ordinary strength, he became also a son of
                   the covenant<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/> in the church of his
                   village. And, when he had completed about thirty years, even as many were advising
@@ -123,8 +121,7 @@
                   rose in the middle of the night and prayed to the Lord to direct his way that he
                   might go after him, and grant him the privilege of doing his will; and he directed
                   his way to the great man of God, <persName ref="http://syriaca.org/person/1980">Paul the anchorite</persName>, who was also a performer of mighty works and
-                  miracles, a record of whose history <pb n="627"/>
-                        <pb n="425"/>we have also
+                  miracles, a record of whose history <pb type="vol" n="627"/><pb type="running" rend="brackets" n="425"/>we have also
                   introduced at small proportion and in defective fashion into the histories which
                   precede this.<ptr type="noteAnchor" xml:id="a12" target="#n12" n="12"/> When then the blessed
                      <persName ref="http://syriaca.org/person/1875">Mare</persName> reached this
@@ -142,8 +139,7 @@
                   subjection with sorrow and repentance, insomuch that many were surprised at his
                   labours, and even that holy old man himself, when he saw the immoderate severity
                   of his practices, would strongly reprove him, and admonish him not to exceed the
-                     <pb n="628"/>
-                        <pb n="426"/>bounds of moderation in his dealing with his body; a
+                     <pb type="vol" n="628"/><pb type="running" rend="brackets" n="426"/>bounds of moderation in his dealing with his body; a
                   thing which he also repeated to us ourselves, when we once came to the holy old
                   man in order to be blessed by him and receive his prayer, and to visit the blessed
                      <persName ref="http://syriaca.org/person/1875">Mare</persName> also, concerning
@@ -160,8 +156,7 @@
                   earnestly to accomodate himself to the will of his spiritual father. But he fell
                   on his face weeping and saying, <quote>Forgive me, my fathers; the body has not
                      received what the contumacy of its arrogant behaviour against the soul
-                     deserves, and I have not yet done to it <pb n="629"/>
-                            <pb n="427"/>anything
+                     deserves, and I have not yet done to it <pb type="vol" n="629"/><pb type="running" rend="brackets" n="427"/>anything
                      adequate to my sins and the vices in my soul which arise from the body; but I
                      am contriving means to bring it into subjection and subdue it, that even now it
                      may cease injuring my soul</quote>, with many similar things which he would
@@ -177,8 +172,7 @@
                   certain great men and solitaries, and ask for their prayers, and eagerly observe
                   their practices, and set himself to imitate their labours with all his soul,
                   insomuch that after these things he gave himself to the life of a recluse in one
-                  of the deserts; and thus he thenceforth went on distinguishing himself <pb n="630"/>
-                        <pb n="428"/>by laborious practices for a long period of time. And, when he
+                  of the deserts; and thus he thenceforth went on distinguishing himself <pb type="vol" n="630"/><pb type="running" rend="brackets" n="428"/>by laborious practices for a long period of time. And, when he
                   had completed about 15 years in this conflict (<foreign xml:lang="grc">άγών</foreign>), a great disturbance arose in the city of Alexandria on
                   account of the faith,<ptr type="noteAnchor" xml:id="a14" target="#n14" n="14"/> insomuch that
                   many were expelled and driven from their places, men who would not consent to
@@ -195,8 +189,7 @@
                      <persName ref="http://syriaca.org/person/779">queen</persName>, and the rough
                   character of his meeting with them, and the insulting words which he addressed to
                   them, and his audacity and his contemptuous conduct moreover to them of this we
-                  have not thought it well to make a written record<ptr type="noteAnchor" xml:id="a16" target="#n16" n="16"/> in the history of his life not only on account <pb n="631"/>
-                        <pb n="429"/>of their violence,<ptr type="noteAnchor" xml:id="a17" target="#n17" n="17"/> and the insults and the contemptuous conduct which he used toward the
+                  have not thought it well to make a written record<ptr type="noteAnchor" xml:id="a16" target="#n16" n="16"/> in the history of his life not only on account <pb type="vol" n="631"/><pb type="running" rend="brackets" n="429"/>of their violence,<ptr type="noteAnchor" xml:id="a17" target="#n17" n="17"/> and the insults and the contemptuous conduct which he used toward the
                   rulers of the world, but further also because perhaps, even if they had been
                   written, the difficulty of believing among the hearers would be very great and not
                   small, that these things could easily be said not only to kings, the holders of
@@ -210,8 +203,7 @@
                      man is in truth a spiritual philosopher</quote>; his dress being as we
                   described it above, hideous through the patching together of unsightly and
                   ill-matched rags differing from one another, and fastenings whereby they were
-                  joined together by unsightly cords of hair and of wool, insomuch that <pb n="632"/>
-                        <pb n="430"/>every aperture (?)<ptr type="noteAnchor" xml:id="a19" target="#n19" n="19"/> made by a fastening of his garments covered more than two or three fingers'
+                  joined together by unsightly cords of hair and of wool, insomuch that <pb type="vol" n="632"/><pb type="running" rend="brackets" n="430"/>every aperture (?)<ptr type="noteAnchor" xml:id="a19" target="#n19" n="19"/> made by a fastening of his garments covered more than two or three fingers'
                   lengths, insomuch that no mean poor man in the world was anywhere to be seen who
                   was clothed in them or perhaps would ever consent to be clothed in them, not even
                   if he had nothing to cover his nakedness. But, when the victorious king observed
@@ -227,8 +219,7 @@
                   when it came and she offered it him bound up, and began entreating him to accept
                   it and divide it between the poor and his needs, then after gazing sternly at it
                   he grasped the bag (<foreign xml:lang="grc">μαρσύπιον</foreign>) containing the
-                     hundred-<pb n="633"/>
-                        <pb n="431"/>weight (<foreign xml:lang="grc">xevτnváρtov</foreign>) in one hand, and hurled it and threw it no small
+                     hundred-<pb type="vol" n="633"/><pb type="running" rend="brackets" n="431"/>weight (<foreign xml:lang="grc">xevτnváρtov</foreign>) in one hand, and hurled it and threw it no small
                   distance, so that all the chamberlains and everyone who saw it were seized with
                   great astonishment, to think that he was so powerful and of such well-knit frame,
                   as we stated at the beginning, and since he had flung<ptr type="noteAnchor" xml:id="a22" target="#n22" n="22"/> it to a distance just as if it were something full of
@@ -245,8 +236,7 @@
                   and was spoken of with astonishment by many persons. When the blessed man was
                   passing along a street of the city, his eyes were fixed on the ground, since he
                   had determined in his mind never to see the face of men in it. And he left it; and
-                  so he went over to <placeName ref="http://syriaca.org/place/2845">Sycae</placeName> beyond the water,<ptr type="noteAnchor" xml:id="a24" target="#n24" n="24"/> and climbed the mountain to the north-west of it, where <pb n="634"/>
-                        <pb n="432"/>there are also graves; and there he resided and performed the
+                  so he went over to <placeName ref="http://syriaca.org/place/2845">Sycae</placeName> beyond the water,<ptr type="noteAnchor" xml:id="a24" target="#n24" n="24"/> and climbed the mountain to the north-west of it, where <pb type="vol" n="634"/><pb type="running" rend="brackets" n="432"/>there are also graves; and there he resided and performed the
                   labour of his practices, satisfying his needs with wild herbs. But the <persName ref="http://syriaca.org/person/779">queen</persName>, because she was a
                   believer and knew that she had distressed him in the matter of the hundredweight
                   of gold (<foreign xml:lang="grc">κεντηνάριον</foreign>), made careful search for
@@ -263,8 +253,7 @@
                   blessed man every day; and he was compelled to remove to other places; and again
                   they would find it out and discover him. And thenceforth many persons used to
                   repair to him to receive his prayer; and they were specially astonished at seeing
-                  his <pb n="635"/>
-                        <pb n="433"/>unsightly clothing. And he asked and palm-leaves,
+                  his <pb type="vol" n="635"/><pb type="running" rend="brackets" n="433"/>unsightly clothing. And he asked and palm-leaves,
                   were brought to him, out of which he supplied his needs by the work of his hands,
                   since he absolutely refused to allow anything to enter his mouth except from the
                   labour of his hands. And, if he was prevented from working with his hands on
@@ -278,8 +267,7 @@
                   the other great senators (<foreign xml:lang="grc">συγχλητικός</foreign>) coming to
                   and fro to the blessed man, thought that he was receiving gold and storing it in
                   his hut; and so in the middle of the night they fell upon him and surrounded him,
-                  and they flung out their hands to <pb n="636"/>
-                        <pb n="434"/>seize him and bind
+                  and they flung out their hands to <pb type="vol" n="636"/><pb type="running" rend="brackets" n="434"/>seize him and bind
                   him. But he, being stronger than they, threw their hands of him as if they were
                   sick and tortured (?)<ptr type="noteAnchor" xml:id="a26" target="#n26" n="26"/> men, and he
                   went on entreating them, saying, <quote>Nay, my sons, do not lose your soul. Why
@@ -296,8 +284,7 @@
                   seized his hair with one hand, and threw him on his face. And another ran up to
                   smite him with the sword, and he on his side smote him with the club, and stopped
                   him; and his sword fell and he took hold of him, and threw him on the top of his
-                  companion, and the third, and the fourth. When <pb n="637"/>
-                        <pb n="435"/>the
+                  companion, and the third, and the fourth. When <pb type="vol" n="637"/><pb type="running" rend="brackets" n="435"/>the
                   others saw it they began to run away, and he ran after them; and he overtook three
                   more of them; and of every man whom he smote with the club he made himself master;
                   and thus he mastered seven of them. And he returned and bound the seven of them,
@@ -313,8 +300,7 @@
                   had been admonishing them till the morning, those also who came to him saw them,
                   and they went on threatening to deliver them up to the prefect (<foreign xml:lang="grc">ύπαρχος</foreign>). But he on his side would not consent, but
                   released them and sent them away with much advice and admonition; but their clubs
-                  and their swords he took from them. But three of them ran away and escaped <pb n="638"/>
-                        <pb n="436"/>from his hands. When these things had thus fallen out,
+                  and their swords he took from them. But three of them ran away and escaped <pb type="vol" n="638"/><pb type="running" rend="brackets" n="436"/>from his hands. When these things had thus fallen out,
                   and it had become known to <persName ref="http://syriaca.org/person/2284">the
                      king</persName> and the prefect (<foreign xml:lang="grc">ύπαρχος</foreign>) and
                   the rest of the senators (<foreign xml:lang="grc">συγκλητικός</foreign>), these
@@ -331,8 +317,7 @@
                   determined in his mind never to support himself on the labour and sweat, that is
                   on the sins, of others.<ptr type="noteAnchor" xml:id="a28" target="#n28" n="28"/> And, while
                   he was going about on these mountains and among the villas (<foreign xml:lang="grc">προάστειον</foreign>), he saw a villa<ptr type="noteAnchor" xml:id="a29" target="#n29" n="29"/> suited for a life of retreat, and he considered that,
-                  if he performed spiritual employment in it, it would <pb n="639"/>
-                        <pb n="437"/>suit him for manual labour also as well and for the employment of providing for
+                  if he performed spiritual employment in it, it would <pb type="vol" n="639"/><pb type="running" rend="brackets" n="437"/>suit him for manual labour also as well and for the employment of providing for
                   his necessary requirements. And so he spoke to one of the chamberlains,<ptr type="noteAnchor" xml:id="a30" target="#n30" n="30"/> and he bought it from another
                   chamberlain for live pounds (<foreign xml:lang="grc">λίτρα</foreign>) of gold,<ptr type="noteAnchor" xml:id="a31" target="#n31" n="31"/> and thenceforth he used to sow and
                   reap in it, and supply his own private needs and those of those of the other
@@ -347,8 +332,7 @@
                   and stoutly always reproving <persName ref="http://syriaca.org/person/2284">the
                      king</persName> and <persName ref="http://syriaca.org/person/779">queen</persName> with great freedom (<foreign xml:lang="grc">παρρησία</foreign>) without fear, and everyone marvelled at his teaching and
                   at his deeds and at his words, and at the stoutness of his soul in addition to
-                  that of his body and in addition to his thoughts,<ptr type="noteAnchor" xml:id="a34" target="#n34" n="34"/> then by the sudden destruction ot the plague, as <pb n="640"/>
-                        <pb n="438"/>has been stated above, everyone was in perturbation and
+                  that of his body and in addition to his thoughts,<ptr type="noteAnchor" xml:id="a34" target="#n34" n="34"/> then by the sudden destruction ot the plague, as <pb type="vol" n="640"/><pb type="running" rend="brackets" n="438"/>has been stated above, everyone was in perturbation and
                   doubt and confusion, insomuch that the blessed man passed his time in affliction
                   and great sorrow, and occupied himself with constant prayer and petition to God,
                   while he asked of God, and a revelation was made to him about his own personal
@@ -364,8 +348,7 @@
                   revelation about his end, then, the coffin (?) being open which he had prepared
                   for himself to be laid in it, while he was kneeling and praying on behalf of the
                   whole world of men, on the third day he yielded up his spirit. And, this having
-                     <pb n="641"/>
-                        <pb n="439"/>been made known to <persName ref="http://syriaca.org/person/2284">the king</persName> and <persName ref="http://syriaca.org/person/779">queen</persName>, with great zeal they sent
+                     <pb type="vol" n="641"/><pb type="running" rend="brackets" n="439"/>been made known to <persName ref="http://syriaca.org/person/2284">the king</persName> and <persName ref="http://syriaca.org/person/779">queen</persName>, with great zeal they sent
                   some of the leading and eminent men of the palace (<foreign xml:lang="grc">παλάτιον</foreign>), chamberlains and senators (<foreign xml:lang="grc">συγχλητικός</foreign>) and bishops and elergymen and many monks, and thus they
                   buried the blessed man's body with a great procession. We have recorded these few
                   things out of many for the sake of a memorial and in order to gain his blessing

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -83,8 +83,7 @@
                   fact and the fact further that even one only of the triumphs of each of the
                   saints that has been related is sufficient to indicate the divine power hidden
                   in him who wrought it, just as it is in the power of expert tasters to know
-                  <pb n="37"/>
-                        <pb n="37"/>the whole taste of a tree from one fruit only, on this account we abstain from
+                  <pb type="vol" n="37"/><pb type="running" rend="brackets" n="37"/>the whole taste of a tree from one fruit only, on this account we abstain from
                   recording many signs in order, only presenting the triumphs gained by their
                   labours and the manner of the signs to the memory of expert hearers. This
                   perfect blessed man therefore, who is in truth one worthy to be third in this
@@ -101,8 +100,7 @@
                      pleasure upon the earth and were wanton, and ye fed your bodies as for a
                      day of slaughter</quote>.<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/>
                     </ab>
-                    <pb n="38"/>
-                    <pb n="38"/>
+                    <pb type="vol" n="38"/><pb type="running" rend="brackets" n="38"/>
                     <ab xml:id="section-3.2" n="2">
                   When then the blessed man through hearing these things turned his
                   thoughts upon himself, he in zeal decided for himself that he would be a man
@@ -120,8 +118,7 @@
                   fervent zeal decided for himself that he would eat no food at all of any
                   kind except ordinary bread, and water and salt or ordinary lentils, while
                   in place of herbs he used to mix with these the leaves of a certain large
-                  <pb n="39"/>
-                        <pb n="39"/>tree that was inside the court of that monastery called <foreign>shigra</foreign>,<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> eating from
+                  <pb type="vol" n="39"/><pb type="running" rend="brackets" n="39"/>tree that was inside the court of that monastery called <foreign>shigra</foreign>,<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> eating from
                   it all the summer, and in the winter again drying the produce of it and
                   eating what was left, while all the members of his convent would urge
                   him to desist from this distressing practice that was distressing his body,
@@ -135,8 +132,7 @@
                   of at least inquiring<ptr type="noteAnchor" xml:id="a6" target="#n6" n="6"/>
                         <quote>How am I to<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> turn the mountain<ptr type="noteAnchor" xml:id="a8" target="#n8" n="8"/> over</quote> or 
                   <quote>dig out the rock?</quote>, but silently take the iron and begin; so that they often
-                  <pb n="40"/>
-                        <pb n="40"/>made a kind of trial of him, and he would at once without delay begin
+                  <pb type="vol" n="40"/><pb type="running" rend="brackets" n="40"/>made a kind of trial of him, and he would at once without delay begin
                   what was ordered him, until that man whoever he were said to him <quote>Stop</quote>,
                   and then he would cease.
                </ab>
@@ -156,8 +152,7 @@
                   was anyone who was present and saw him, he thought that he had a <persName ref="http://syriaca.org/person/3680">demon</persName>,
                   in that he had become silent and had secretly in his spirit entered upon a
                   secret contest with powers (<foreign xml:lang="grc">άρχας</foreign>.) and authorities, and during the intervals
-                  <pb n="41"/>
-                        <pb n="41"/>of the contest he was so hard smitten that others would approach him and
+                  <pb type="vol" n="41"/><pb type="running" rend="brackets" n="41"/>of the contest he was so hard smitten that others would approach him and
                   speak with him and think that he was dead. And so for ten years this saint
                   contended; and at last, when God saw his confidence in him and his
                   steadfastness, he gave him strength and victory over his enemies, and from
@@ -173,8 +168,7 @@
                   afterwards he attained to authority over unclean spirits, and over great works
                   of healing; but, if we record these severally, as we have also stated above,
                   many sheets of parchment (<foreign xml:lang="grc">χάρτης</foreign>) will not suflice us. When the blessed
-                  <pb n="42"/>
-                        <pb n="42"/>
+                  <pb type="vol" n="42"/><pb type="running" rend="brackets" n="42"/>
                         <persName ref="http://syriaca.org/person/1320">John</persName> had completed twenty-five years in this life of perfection, heretical
                   machinations assailed his convent,<ptr type="noteAnchor" xml:id="a10" target="#n10" n="10"/> and all the leading men in it submitted
                   under compulsion and great constraint (<foreign xml:lang="grc">άνάγκη</foreign>); and accordingly the blessed
@@ -192,8 +186,7 @@
                         </quote>.
                   And so they found a certain monastery and took up their abode in it, while
                   the fame of the blessed <persName ref="http://syriaca.org/person/1320">John</persName> was heard also over the whole district, and
-                  <pb n="43"/>
-                        <pb n="43"/>accordingly all who were sick with various diseases and who had evil spirits
+                  <pb type="vol" n="43"/><pb type="running" rend="brackets" n="43"/>accordingly all who were sick with various diseases and who had evil spirits
                   ran to him, and the divine power that was in him would confidently heal
                   them all, while everyone was amazed and thanked God; so that we also went
                   to him in the district of the saint's martyrdom, i. e. in his exile (<foreign xml:lang="grc">έξορία</foreign>), and,
@@ -208,8 +201,7 @@
                   amazed at him, because after severe labour he was even so not remiss; for
                   there was an enclosure in that monastery, and one fig-tree inside it, and he
                   Went and brought sand and laid it on the south side of that tree, and he filled
-                  <pb n="44"/>
-                        <pb n="44"/>a large jar with cold water and hung it on it; and he continued kneeling
+                  <pb type="vol" n="44"/><pb type="running" rend="brackets" n="44"/>a large jar with cold water and hung it on it; and he continued kneeling
                   over against it on that sand all through the extreme noonday heat, while
                   we were parched even by the shade in consequence of the heat. Again,
                   when they had passed a short time, they were again driven from that place
@@ -225,8 +217,7 @@
                   the other lines in God's sight. The blessed man said : I. <quote>Among all the
                      courses of justice nothing is greater in God's sight than submission that is
                      perfect in performing its obligations, in which are comprised all the types of
-                     <pb n="45"/>
-                            <pb n="45"/>virtue that bring near to God</quote>. II. Again a second question was presented
+                     <pb type="vol" n="45"/><pb type="running" rend="brackets" n="45"/>virtue that bring near to God</quote>. II. Again a second question was presented
                   to the same blessed man by us. <quote>If, as you have said, our father, submission 
                      is thus greater than everything, how is it that we see triumphs won
                      by solitaries and hermits who had not submission, and by the other blessed
@@ -242,8 +233,7 @@
                      that on the dreadful day of judgment to many among those who as you said
                      were distinguished by acts of power and by signs and by miracles the words
                      of our Lord will be spoken in answer, which in his parables he said to those
-                     <pb n="46"/>
-                            <pb n="46"/>who said to him, <quote>My Lord, have we not in thy name prophesied, and in thy
+                     <pb type="vol" n="46"/><pb type="running" rend="brackets" n="46"/>who said to him, <quote>My Lord, have we not in thy name prophesied, and in thy
                         name done acts of power?</quote>, and he on his side will say to them, <quote>Verily I say
                            unto you I know you not</quote>.<ptr type="noteAnchor" xml:id="a19" target="#n19" n="19"/> And again in the case of those who finished
                      their courses in submission for God's sake, setting their will aside and doing
@@ -261,8 +251,7 @@
                     <ab xml:id="section-3.4" n="4">
                   Again the third question. <quote>And what is the submission which is so great
                      in your eyes, O our father?, and how should the man conduct himself who
-                     <pb n="47"/>
-                            <pb n="47"/>has set himself to practise submission, and how should he attain to this virtue
+                     <pb type="vol" n="47"/><pb type="running" rend="brackets" n="47"/>has set himself to practise submission, and how should he attain to this virtue
                      which have mentioned, which you have magnified beyond all classes of
                      virtue, and what models are suited for the man who is submissive to
                      observe?</quote> The answer of the same blessed man. <quote>There are many models;
@@ -278,8 +267,7 @@
                         that is at variance with religion, carrying in himself the model of the
                         patriarch <persName>Abraham</persName>, who made no question or objection against him who
                         ordered him <quote>Take thy son thine only son him whom thou lovest, Isaac, and
-                           <pb n="48"/>
-                                <pb n="48"/>go offer him up to me as a whole burnt-offering upon one of the mountains</quote>.<ptr type="noteAnchor" xml:id="a23" target="#n23" n="23"/>
+                           <pb type="vol" n="48"/><pb type="running" rend="brackets" n="48"/>go offer him up to me as a whole burnt-offering upon one of the mountains</quote>.<ptr type="noteAnchor" xml:id="a23" target="#n23" n="23"/>
                         And, when this man received the order concerning his only son, he did not
                         judge the saying that preceded it which he said to him <quote>In Isaac shall thy
                            seed be called</quote>, and <quote>His seed shall be as the sand of the seas and as the
@@ -295,8 +283,7 @@
                         against him who ordered him to carry out these two orders which thus
                         seemed outwardly to be opposite to and inconsistent with one another; but he
                         even undoubtingly believed and trusted him who promised, and to him who
-                        <pb n="49"/>
-                            <pb n="49"/>instigated him to kill the son of promise he assented, and he made ready to
+                        <pb type="vol" n="49"/><pb type="running" rend="brackets" n="49"/>instigated him to kill the son of promise he assented, and he made ready to
                         do it without inquiry; so that in virtue of this will that was submissive to
                         faith and of obedience he attained the position of chief in the kingdom
                         of heaven. So therefore he who is made submissive for God's sake
@@ -313,8 +300,7 @@
                         all that are torn, to visit the sick, to concern himself about the relief
                         of his brethren in all ways, to keep watch and vigil and pray and sigh
                         before God at all seasons, and <quote>keep his tongue from evil, and his lips
-                           <pb n="50"/>
-                                <pb n="50"/>that they speak no guile, and eschew evil and do good, and seek peace and
+                           <pb type="vol" n="50"/><pb type="running" rend="brackets" n="50"/>that they speak no guile, and eschew evil and do good, and seek peace and
                            run after it</quote>,<ptr type="noteAnchor" xml:id="a25" target="#n25" n="25"/> and this is complete submission, and <quote>blessed is that bondman</quote>,
                         (i. e. disciple) <quote>whom his Lord shall come and find so doing</quote>.<ptr type="noteAnchor" xml:id="a26" target="#n26" n="26"/> He who
                         serves God by these lines of conduct has nothing equal to his virtue in all the
@@ -332,8 +318,7 @@
                   thus: <!-- The translation has an opening double bracket here that I don't understand. --><quote>Wretched man that I am! Who will deliver me from this body of
                      death?</quote>
                         <ptr type="noteAnchor" xml:id="a29" target="#n29" n="29"/> Who is he, pray, who will understand the wiles of this fiend, the
-                  <pb n="51"/>
-                        <pb n="51"/>stainer and darkener of the soul, and will cry in affliction to God to come
+                  <pb type="vol" n="51"/><pb type="running" rend="brackets" n="51"/>stainer and darkener of the soul, and will cry in affliction to God to come
                   to his aid, and rescue him from his fraud and from his filthiness? In the
                   case therefore of this passion, our brother, he who wishes to escape from
                   it and keep true purity, and be purified from all pollution of the flesh and of
@@ -349,8 +334,7 @@
                   open to cheat and submerge and defile the soul that promises purity to its
                   Lord, and strive by their deceits rather than that which is open<ptr type="noteAnchor" xml:id="a31" target="#n31" n="31"/> to stain
                   and submerge with many kinds of filthinesses, from the mention of which
-                  <pb n="52"/>
-                        <pb n="52"/>I am precluded by great shame. But by reason of the workings of these
+                  <pb type="vol" n="52"/><pb type="running" rend="brackets" n="52"/>I am precluded by great shame. But by reason of the workings of these
                   filthinesses I am filled with many sighs, because there are many who, while
                   taking precaution against open fornication, are in other matters secretly by
                   means of fleshly desire grievously defiling the soul as well as the body
@@ -366,8 +350,7 @@
                   and somehow lapse, secretly or openly, even so he should not despair of
                   himself, and deliver himself to the service of foulness, but turn straightway,
                   bearing the affliction of his disease, to the gracious <persName>Physician</persName>, who will
-                  <pb n="53"/>
-                        <pb n="53"/>easily apply the plaster of his mercy to his infirmity. And further, even if
+                  <pb type="vol" n="53"/><pb type="running" rend="brackets" n="53"/>easily apply the plaster of his mercy to his infirmity. And further, even if
                   the man who has been smitten receive healing, and after it be again
                   smitten with another stroke, he should not even so neglect to run a second
                   time to the <persName>Physician</persName>'s door, even if he be smitten many times, or refrain
@@ -383,8 +366,7 @@
                   in that, having fallen through a lapse, and having been a little besmirched
                   with mire, instead of running to have their stains washed away, through
                   he shameful teaching of those who caused them to lapse they resolved to
-                  <pb n="54"/>
-                        <pb n="54"/>throw themselves completely into the pit of filthiness, and voluntarily
+                  <pb type="vol" n="54"/><pb type="running" rend="brackets" n="54"/>throw themselves completely into the pit of filthiness, and voluntarily
                   remain in the very submersion of their putrescence, which leads them to the
                   submersion of condemnation in which there is no absolution, and to the
                   wound for which there is no remedy, and bitter lamentation for which there
@@ -401,8 +383,7 @@
                   wherein is weeping and gnashing of teeth, according to the saying of the
                   Life-Giver;<ptr type="noteAnchor" xml:id="a33" target="#n33" n="33"/> since they have themselves seceded from him who have joined
                   themselves to the destroyer of their lives, with whom if they remain, they
-                  <pb n="55"/>
-                        <pb n="55"/>will also be tormented with him; from whom and from all whose doings
+                  <pb type="vol" n="55"/><pb type="running" rend="brackets" n="55"/>will also be tormented with him; from whom and from all whose doings
                   may we all be preserved, by the abundant mercy of the Lord of all.
                </ab>
                     <ab xml:id="section-3.6" n="6">

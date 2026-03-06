@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -85,8 +85,7 @@
                      better for us than roving and going about aimlessly</quote>. And, when they had
                   trained some men and taught them the psalms, and shown them how to conduct
                   affairs, they conceived the plan of leaving them there as it were to govern
-                  themselves and depar<pb n="300"/>
-                  <pb n="300"/>ting, and erecting another place.
+                  themselves and depar<pb type="vol" n="300"/><pb type="running" rend="brackets" n="300"/>ting, and erecting another place.
                   And thus they continued doing for twenty-five years, during which they erected
                   twelve monasteries; most of which I know, which they erected in the district, and
                   the rest, because they were some way off, I have not seen; but the men I saw at

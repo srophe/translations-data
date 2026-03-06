@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -79,8 +79,7 @@
                     </head>
                     <ab xml:id="section-58.1" n="1"> It did not therefore seem to us to be just and a fitting
                   thing that we should withold the good deposit which was committed to us by old men
-                  our holy <pb n="207"/>
-                        <pb n="553"/>fathers concerning the original foundation of
+                  our holy <pb type="vol" n="207"/><pb type="running" rend="brackets" n="553"/>fathers concerning the original foundation of
                   this our <placeName ref="http://syriaca.org/place/399">holy convent</placeName> of
                   the house of Mar <persName ref="http://syriaca.org/person/3218">John</persName> at
                      <placeName ref="http://syriaca.org/place/8">Amida</placeName>, and concerning
@@ -100,8 +99,7 @@
                   and he gained distinction also in the conflict (<foreign xml:lang="grc">άγών</foreign>) of persecution; and he fell asleep and finished the course of
                   his great and divine practices in the second exile (<foreign xml:lang="grc">έξορία</foreign>) itself in the district of <placeName ref="http://syriaca.org/place/2769">Claudias</placeName>, in the <placeName ref="http://syriaca.org/place/2795">monastery called that of the
                      Huts</placeName>, while the whole <placeName ref="http://syriaca.org/place/399">convent</placeName> also dwelt in it for about twelve years,<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> and built it and set it up and made
-                  plantations there. As then we received and <pb n="208"/>
-                        <pb n="554"/>learned from
+                  plantations there. As then we received and <pb type="vol" n="208"/><pb type="running" rend="brackets" n="554"/>learned from
                   these blessed men, that is in the first place from this blessed <persName ref="http://syriaca.org/person/3251">Samuel</persName>, we record the history,
                   which he often related in our presence; which is as follows. Before this
                      <placeName ref="http://syriaca.org/place/399">convent</placeName> was firmly
@@ -120,8 +118,7 @@
                      (<foreign xml:lang="grc">γένος</foreign>) he was a Syrian. </ab>
                     <ab xml:id="section-58.2" n="2"> While then the blessed man was winning distinction in the
                   labour of seclusion, and gaining renown and reverence from many, two other blessed
-                     <pb n="209"/>
-                        <pb n="555"/>men came to him, and they also were renowned and
+                     <pb type="vol" n="209"/><pb type="running" rend="brackets" n="555"/>men came to him, and they also were renowned and
                   famous men, and teachers and firstrate scribes, one of whom was named <persName ref="http://syriaca.org/person/3251">Samuel</persName> and the other <persName ref="http://syriaca.org/person/3227">Jonathan</persName>, who had been living
                   in <placeName ref="http://syriaca.org/place/1528">the monastery of the
                      Edessenes</placeName>
@@ -143,8 +140,7 @@
                   practices, and departed from the world, having left as his successor in the
                   government of the <placeName ref="http://syriaca.org/place/399">convent</placeName> the blessed <persName ref="http://syriaca.org/person/3251">Samuel</persName>. But the blessed <persName ref="http://syriaca.org/person/3227">Jonathan</persName> had removed from the
                      <placeName ref="http://syriaca.org/place/399">convent</placeName> during the
-                  blessed man's lifetime; and when he had fallen asleep he came back, and <pb n="210"/>
-                        <pb n="556"/>lived with the blessed <persName ref="http://syriaca.org/person/3251">Samuel</persName>, and they lived together
+                  blessed man's lifetime; and when he had fallen asleep he came back, and <pb type="vol" n="210"/><pb type="running" rend="brackets" n="556"/>lived with the blessed <persName ref="http://syriaca.org/person/3251">Samuel</persName>, and they lived together
                   in brotherly and spiritual fashion, until the decease of the blessed <persName ref="http://syriaca.org/person/3251">Samuel</persName>; so that, when this man
                   had made a great addition to the <placeName ref="http://syriaca.org/place/399">convent</placeName>, he also as well departed from the world; and over the
                   government of it after him he left the blessed <persName ref="http://syriaca.org/person/3227">Jonathan</persName>. And this man again by
@@ -161,8 +157,7 @@
                   that he was secretly providing for his household and making them gifts from the
                      <placeName ref="http://syriaca.org/place/399">convent</placeName>; and, while
                   he for his part defended himself from these charges on every point, they on their
-                     <pb n="211"/>
-                        <pb n="557"/>side could not abandon such a suspicion, but (the
+                     <pb type="vol" n="211"/><pb type="running" rend="brackets" n="557"/>side could not abandon such a suspicion, but (the
                   informants stated) by the operation of <persName>Satan</persName> contended the
                   more against him, so that afterwards (they stated) he himself also besides was
                   instigated by the impetuosity of anger, and gave up not only the headship and the
@@ -180,8 +175,7 @@
                   by passion. And his successor was a brave and valiant blessed man, whose own name
                   also was <persName ref="http://syriaca.org/person/3185">Abraham</persName>, who
                   from the beginning of his government began to win distinction and show prowess and
-                  gain renown on a great and extensive scale, <pb n="212"/>
-                        <pb n="558"/>while he
+                  gain renown on a great and extensive scale, <pb type="vol" n="212"/><pb type="running" rend="brackets" n="558"/>while he
                   also in a short time greatly increased and extended the <placeName ref="http://syriaca.org/place/399">convent</placeName>, being also formidable
                   and severe and stern toward all the chief men and magnates of the city and of the
                   district; insomuch that his fame penetrated even to the king,<ptr type="noteAnchor" xml:id="a10" target="#n10" n="10"/> and he was summoned by an order to
@@ -201,8 +195,7 @@
                   made bishop in the land of the <placeName ref="http://syriaca.org/place/2758">Urtaye</placeName> in the district of <placeName ref="http://syriaca.org/place/2758">Anzetene</placeName>;<ptr type="noteAnchor" xml:id="a12" target="#n12" n="12"/> and, when this happened, both he and all the members
                   of his <placeName ref="http://syriaca.org/place/399">convent</placeName> were
                   smitten with sorrow and distress, and they continued begging and entreating him to
-                  appoint a head and governor for them in his <pb n="213"/>
-                        <pb n="559"/>place, while
+                  appoint a head and governor for them in his <pb type="vol" n="213"/><pb type="running" rend="brackets" n="559"/>place, while
                   he refused to do this, saying to them, <quote>Now that I for my part have been
                      deprived by my sins of residence with you, do you look out, and deliberate
                      among yourselves, and the man whom you know to be suited for you set over you
@@ -221,8 +214,7 @@
                   laid before the altar. Then (the informants stated) the blessed man turned and
                   looked behind him at the lines of the companies, and passed down the middle and
                   laid his hand on a certain old man who held a low place among the members of the
-                     <placeName ref="http://syriaca.org/place/399">convent</placeName>, <pb n="214"/>
-                        <pb n="560"/>and drew him out, dragging him by force, and brought him before
+                     <placeName ref="http://syriaca.org/place/399">convent</placeName>, <pb type="vol" n="214"/><pb type="running" rend="brackets" n="560"/>and drew him out, dragging him by force, and brought him before
                   the altar (whose name also was <persName ref="http://syriaca.org/person/3185">Abraham</persName>), while he objected and wept and refused. And he on his
                   side made a prayer and took him and clad him in the hood of the archimandriteship,
                   and put the staff of the pastorate of the <placeName ref="http://syriaca.org/place/399">convent</placeName> in his hand, even as he
@@ -239,8 +231,7 @@
                   and thought of themselves that<ptr type="noteAnchor" xml:id="a15" target="#n15" n="15"/> they
                   were wise and learned and teachers, and of whom each one was confident concerning
                   himself that it would be he who would be raised by force to the governorship, when
-                  they saw that he had appointed an old man and a shepherd who held <pb n="215"/>
-                        <pb n="561"/>a low place to the governorship, showed displeasure and indignation
+                  they saw that he had appointed an old man and a shepherd who held <pb type="vol" n="215"/><pb type="running" rend="brackets" n="561"/>a low place to the governorship, showed displeasure and indignation
                   and found fault and began to murmur. And, when the blessed man saw it, he said to
                   them: <quote>You know, my sons, that for my part I at first committed the matter
                      to your discretion. But, now that you threw the burden upon me, I on my side
@@ -259,8 +250,7 @@
                   many stood forth in envy and bitter strife against the same blessed <persName ref="http://syriaca.org/person/3185">Abraham</persName> saying, <quote>He set
                      as head over us a man who is a peasant and a shepherd holding a low
                      place</quote>. And so they made one company (<foreign xml:lang="grc">κοινήν</foreign>), and rose up in strife, and separated themselves; and sixty
-                  men <pb n="216"/>
-                        <pb n="562"/>left the monastery in one body for such a reason as
+                  men <pb type="vol" n="216"/><pb type="running" rend="brackets" n="562"/>left the monastery in one body for such a reason as
                   this. And they went and occupied a site and built a monastery for themselves and a
                   well-known martyrs' chapel which exists even to the present time, in the
                      <placeName ref="http://syriaca.org/place/2751">village called that of Beth Bar
@@ -281,8 +271,7 @@
                   assistance, since, after the city-gates were shut, he would take a party of forty
                   and fifty men, and they would go and work with them, and give assistance all the
                   night, and thus they would return to the monastery in the morning; because (the
-                  informant stated) <pb n="217"/>
-                        <pb n="563"/>when they were shepherds also they
+                  informant stated) <pb type="vol" n="217"/><pb type="running" rend="brackets" n="563"/>when they were shepherds also they
                   used to feed the flocks together, so that (the informant stated) jesting with one
                   another they would say, <quote>Woe to us if God requires from us the stolen sheep
                      that we have eaten</quote>. And so (it was stated) the two heroic old men
@@ -301,8 +290,7 @@
                      <persName>Thomas</persName> at Beth <placeName ref="http://syriaca.org/place/1508">Gubrin</placeName>,<ptr type="noteAnchor" xml:id="a23" target="#n23" n="23"/> so that, when we had first zealously directed our
                   course to the <placeName>city of Alexandria</placeName>, and had arrived at this
                      <placeName ref="http://syriaca.org/place/399">convent</placeName>,<ptr type="noteAnchor" xml:id="a24" target="#n24" n="24"/> we found that venerable old man
-                  sitting, though he was unable to <pb n="218"/>
-                        <pb n="564"/>see from age. But, when
+                  sitting, though he was unable to <pb type="vol" n="218"/><pb type="running" rend="brackets" n="564"/>see from age. But, when
                   we approached him to make obeisance to him and receive his blessing, he asked us
                   saying, <quote>Whence are you, my sons?</quote> And we on our side answered him,
                   saying, <quote>We are, sir, from the district of <placeName ref="http://syriaca.org/place/8">Amida</placeName>
@@ -322,8 +310,7 @@
                      Mar <persName ref="http://syriaca.org/person/3185">Abraham</persName> the great
                      who became a bishop, when I was a boy, when the numbers also amounted to four
                      hundred men. And, when <persName ref="http://syriaca.org/person/2286">Kawad</persName> came to <placeName ref="http://syriaca.org/place/8">Amida</placeName>, we fled and we all went inside and took up our abode in
-                     the school (<foreign xml:lang="grc">σχολή</foreign>) called <pb n="219"/>
-                            <pb n="565"/>that of the <placeName ref="http://syriaca.org/place/2758">Urtaye</placeName> within the wall, about three hundred men, the rest
+                     the school (<foreign xml:lang="grc">σχολή</foreign>) called <pb type="vol" n="219"/><pb type="running" rend="brackets" n="565"/>that of the <placeName ref="http://syriaca.org/place/2758">Urtaye</placeName> within the wall, about three hundred men, the rest
                      having been scattered and fled. And, when the city was taken and the
                         <persName>Persians</persName> came in and began to slaughter, we all stood
                      up sorrowing and weeping for the service of our death and of our lives' end,
@@ -339,8 +326,7 @@
                   tears; so that for a long time he was unable<ptr type="noteAnchor" xml:id="a25" target="#n25" n="25"/> on account of his sobs to relate them before us. And
                   again another old man of many days (and he too had venerable white hairs), who
                   during the same times of the prosperity of this <placeName ref="http://syriaca.org/place/399">convent</placeName> had been in his boyhood
-                  an inmate in it, <pb n="220"/>
-                        <pb n="566"/>who was in the renowned <placeName ref="http://syriaca.org/place/1528">monastery of the Orientals at
+                  an inmate in it, <pb type="vol" n="220"/><pb type="running" rend="brackets" n="566"/>who was in the renowned <placeName ref="http://syriaca.org/place/1528">monastery of the Orientals at
                      Edessa</placeName>,<ptr type="noteAnchor" xml:id="a26" target="#n26" n="26"/> who was
                   called <persName ref="http://syriaca.org/person/3239">Paul</persName> of
                      <placeName ref="http://syriaca.org/place/724">Arzen</placeName>,<ptr type="noteAnchor" xml:id="a27" target="#n27" n="27"/> who also departed from the world a
@@ -358,8 +344,7 @@
                      lines till they enter the precincts and are piled upon the building, and thus
                      that extensive building was built, though it was not completed on account of
                      the deportation by the <persName>Persians</persName> and the scattering of the
-                     brotherhood; so that, since a heap (?)<ptr type="noteAnchor" xml:id="a29" target="#n29" n="29"/> remained after the <persName>Persians</persName>, a large <pb n="221"/>
-                            <pb n="567"/>portion of the monastery was quarried and built from
+                     brotherhood; so that, since a heap (?)<ptr type="noteAnchor" xml:id="a29" target="#n29" n="29"/> remained after the <persName>Persians</persName>, a large <pb type="vol" n="221"/><pb type="running" rend="brackets" n="567"/>portion of the monastery was quarried and built from
                      it; and the whole of the martyrs' chapel dedicated to <persName>Kyra
                         Maria</persName> was also built from it, and further much was also quarried
                      and brought in from it for the church and the city.</quote>
@@ -375,8 +360,7 @@
                      <placeName ref="http://syriaca.org/place/399">convent</placeName> in peace<ptr type="noteAnchor" xml:id="a33" target="#n33" n="33"/> And to succeed him in the headship
                   and government of the <placeName ref="http://syriaca.org/place/399">convent</placeName> the blessed <persName ref="http://syriaca.org/person/3255">Sergius</persName> was appointed, who by his birth (<foreign xml:lang="grc">γένος</foreign>) came from the village of <placeName ref="http://syriaca.org/place/2780">Gadara</placeName> which was in the north;
                   who in the first persecution that arose against the church<ptr type="noteAnchor" xml:id="a34" target="#n34" n="34"/> was the first to go out in banishment with all the
-                  rest of the convents, and gained distinction in the conflicts (<foreign xml:lang="grc">άγών</foreign>) of persecution, <pb n="222"/>
-                        <pb n="568"/>and in
+                  rest of the convents, and gained distinction in the conflicts (<foreign xml:lang="grc">άγών</foreign>) of persecution, <pb type="vol" n="222"/><pb type="running" rend="brackets" n="568"/>and in
                   all the labours of monasticism, as well as in excellent government all the time of
                   his life. And he ended his course during the same persecution; and he died and was
                   buried in the monastery called that of Mar <placeName ref="http://syriaca.org/place/2813">Mama</placeName>.<ptr type="noteAnchor" xml:id="a35" target="#n35" n="35"/> But to succeed him a great blessed senior was
@@ -393,8 +377,7 @@
                   after his prophecy also (which was shown to be exact truth) did he escape, but
                   they constrained him and he took his place at the head with earnestness as it is
                      written<ptr type="noteAnchor" xml:id="a39" target="#n39" n="39"/> excellently and like a
-                  teacher, expounding and admonishing day and night with service and with vigil,<ptr type="noteAnchor" xml:id="a40" target="#n40" n="40"/> he would also at all times <pb n="223"/>
-                        <pb n="569"/>adjure and warn everyone to bestow care and earnestness
+                  teacher, expounding and admonishing day and night with service and with vigil,<ptr type="noteAnchor" xml:id="a40" target="#n40" n="40"/> he would also at all times <pb type="vol" n="223"/><pb type="running" rend="brackets" n="569"/>adjure and warn everyone to bestow care and earnestness
                   upon finding spiritual life, and many were in fact enlightened by his teaching,
                   and by his admonition were brought to open their hearts and to sorrow and tears,
                   wondering and giving thanks to God. But his prayer and the gift of revelations and
@@ -412,8 +395,7 @@
                   also the whole community was residing. But after five years, when the recall from
                   banishment came, we ourselves were privileged to carry and convey his holy bones
                   into the <placeName ref="http://syriaca.org/place/399">convent</placeName>
-                        <pb n="224"/>
-                        <pb n="570"/>of the house of Mar <persName ref="http://syriaca.org/person/3218">John</persName> itself.<ptr type="noteAnchor" xml:id="a43" target="#n43" n="43"/> And to succeed him there was
+                        <pb type="vol" n="224"/><pb type="running" rend="brackets" n="570"/>of the house of Mar <persName ref="http://syriaca.org/person/3218">John</persName> itself.<ptr type="noteAnchor" xml:id="a43" target="#n43" n="43"/> And to succeed him there was
                   appointed our blessed master and teacher from our boyhood, whose name was
                      <persName ref="http://syriaca.org/person/3183">Abba</persName>; who also was by
                   his birth (<foreign xml:lang="grc">γένος</foreign>) from the district of
@@ -432,8 +414,7 @@
                   into the steep towering mountains of the village called ʾbdhyr;<ptr type="noteAnchor" xml:id="a46" target="#n46" n="46"/> and we took up our abode there in a
                      <placeName ref="http://syriaca.org/place/2826">monastery called that of the
                      Nut</placeName>. And after three years<ptr type="noteAnchor" xml:id="a47" target="#n47" n="47"/> we left and went into the district of <placeName ref="http://syriaca.org/place/2769">Claudias</placeName>, and took up our abode
-                  in the <pb n="225"/>
-                        <pb n="571"/>monastery of the Huts,<ptr type="noteAnchor" xml:id="a48" target="#n48" n="48"/> which we also mentioned above in our history. And the
+                  in the <pb type="vol" n="225"/><pb type="running" rend="brackets" n="571"/>monastery of the Huts,<ptr type="noteAnchor" xml:id="a48" target="#n48" n="48"/> which we also mentioned above in our history. And the
                   blessed <persName ref="http://syriaca.org/person/3183">Abba</persName>, having
                   been arrested and maltreated by the <persName>Synodites</persName>, fled and went
                   up to the royal city; and, when he had passed some time there with the concourse
@@ -450,8 +431,7 @@
                      <placeName ref="http://syriaca.org/place/399">convent</placeName>, since he had
                   gone for the purpose of visiting it, and fell asleep and was buried in his
                   monastery, as he desired and prayed.<ptr type="noteAnchor" xml:id="a52" target="#n52" n="52"/> After him was appointed the blessed <persName ref="http://syriaca.org/person/3255">Sergius</persName> of <placeName ref="http://syriaca.org/place/8">Amida</placeName>, who comes of a
-                  distinguished family from the city itself, called the <pb n="226"/>
-                        <pb n="572"/>house of Bar <persName>Deba</persName>.<ptr type="noteAnchor" xml:id="a53" target="#n53" n="53"/> This man was placed by his parents in the same <placeName ref="http://syriaca.org/place/399">convent</placeName> from his childhood, and
+                  distinguished family from the city itself, called the <pb type="vol" n="226"/><pb type="running" rend="brackets" n="572"/>house of Bar <persName>Deba</persName>.<ptr type="noteAnchor" xml:id="a53" target="#n53" n="53"/> This man was placed by his parents in the same <placeName ref="http://syriaca.org/place/399">convent</placeName> from his childhood, and
                   he was brought up in it from the days of the blessed <persName ref="http://syriaca.org/person/3200">Cosmas</persName> the archimandrite, and
                   he gained distinction also in all the conflicts (<foreign xml:lang="grc">άγών</foreign>) of persecution from the beginning down to the present year,
                   which is the year eight hundred and seventy-seven, the year in which <persName ref="http://syriaca.org/person/2284">Justinian</persName> departed from the
@@ -467,8 +447,7 @@
                   clothes and delicious foods and unguents and so on, and clothed and covered<ptr type="noteAnchor" xml:id="a56" target="#n56" n="56"/> himself with garments of hair, and
                   embraced asceticism and abstinence, and fasting and services and protracted
                   prayers by day and night, and what is more admirable than all, the practice of
-                  observing the divine commandments, having stored up in his mind the <pb n="227"/>
-                        <pb n="573"/>words of our Saviour who says, <quote>He who loveth me keepeth
+                  observing the divine commandments, having stored up in his mind the <pb type="vol" n="227"/><pb type="running" rend="brackets" n="573"/>words of our Saviour who says, <quote>He who loveth me keepeth
                      my word</quote>, and again <quote>Let your speech be <quote>Yea, yea</quote>
                      and <quote>Nay, nay</quote>.</quote>,<ptr type="noteAnchor" xml:id="a57" target="#n57" n="57"/> and so decided it for himself that an oath should never proceed from
                   his mouth. And he persevered and kept and maintained his resolution even down to

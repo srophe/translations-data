@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -71,8 +71,7 @@
                <head type="main">Next the Twenty-Sixth History, of the Holy <persName ref="http://syriaca.org/person/2125">Thomas</persName> the Persecuted Man and
                   Martyr, Bishop of <placeName ref="http://syriaca.org/place/66">Damascus</placeName>.</head>
                <ab xml:id="section-26.1" n="1"> Whereas we have though enigmatically and obscurely set
-                  down a nar<pb n="541"/>
-                  <pb n="339"/>rative concerning the divine dispensation
+                  down a nar<pb type="vol" n="541"/><pb type="running" rend="brackets" n="339"/>rative concerning the divine dispensation
                   through these two brave warriors and true pastors <persName ref="http://syriaca.org/person/74">John</persName> and <persName ref="http://syriaca.org/person/50">John</persName>, we must after the same
                   pattern introduce into the series that is connected with them this third saint
                   also, <persName ref="http://syriaca.org/person/2125">Thomas</persName> the bishop,

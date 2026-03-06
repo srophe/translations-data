@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -83,8 +83,7 @@
                   from everywhere desired to join that spiritual unity, and the blessed men did not
                   keep their door shut, but received everyone, it happened that a certain <persName ref="http://syriaca.org/person/1932">blessed man</persName>
                   <ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/> came thither, who by his habit
-                  (<foreign xml:lang="grc">σχήμα</foreign>) <pb n="261"/>
-                  <pb n="261"/>was an
+                  (<foreign xml:lang="grc">σχήμα</foreign>) <pb type="vol" n="261"/><pb type="running" rend="brackets" n="261"/>was an
                   anchorite, and this man desired to be received in one of the convents in
                   obedience,<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> and remain. And on
                   his tendering this request to one of the blessed archimandrites he examined him as
@@ -103,8 +102,7 @@
                   themselves, besides guests, died there, and were laid in the grave. And after
                   twenty days the lot reached the <persName ref="http://syriaca.org/person/1932">blessed man</persName>
                   <ptr type="noteAnchor" xml:id="a10" target="#n10" n="10"/> who had
-                  been received; and he was. <pb n="262"/>
-                  <pb n="262"/>suddenly smitten, and was
+                  been received; and he was. <pb type="vol" n="262"/><pb type="running" rend="brackets" n="262"/>suddenly smitten, and was
                   struck dumb, while his soul was convulsed and snorts proceeded from his throat,
                   and he was bereſt of his senses and was in torture, not being among the dead or
                   among the living. And, whereas it was the custom, when the end was overtaking a
@@ -117,8 +115,7 @@
                   and much incense and many forms of propitiation. And the Lord of the world<ptr type="noteAnchor" xml:id="a12" target="#n12" n="12"/> even came and relics of the saints,
                   and there was no release, nor relaxation from that intense, terrible, painful
                   convulsion for ten days, insomuch that a hundred and twenty men were thus ranged
-                  round him, and were standing and marvelling, and weeping and <pb n="263"/>
-                  <pb n="263"/>distressing themselves at the agitation of that soul, and at that
+                  round him, and were standing and marvelling, and weeping and <pb type="vol" n="263"/><pb type="running" rend="brackets" n="263"/>distressing themselves at the agitation of that soul, and at that
                   terrible and violent driving; and from distress and grief they sat thus round him
                   two and three days, marvelling and weeping, and not eating or drinking, and
                   despising all human life. But, when it had lasted ten days, Grace in accordance
@@ -133,8 +130,7 @@
                   in the midst of his sobs: <quote>What to do to you, afflicted man, we know not, in
                      order to ask you <quote>Is it because<ptr type="noteAnchor" xml:id="a14" target="#n14" n="14"/> you are conscious in your soul of grievous delinquencies that you
                         are dying and departing from life, and only torture remains for you in the
-                        bodily life?</quote>, and <pb n="264"/>
-                     <pb n="264"/>to say <quote>Is there
+                        bodily life?</quote>, and <pb type="vol" n="264"/><pb type="running" rend="brackets" n="264"/>to say <quote>Is there
                         an impediment upon you and is your soul bound by it?</quote>. Who will
                      inform us of this, unless the abụndant mercy of your Creator have pity on
                      you?</quote>. Then again, as if by divine instigation, the other senior who was
@@ -151,8 +147,7 @@
                      shall we do? If we were accepted as ourselves making the release in place of
                      the man who laid the bond, we have done so many times. But come now let us
                      fetch a man, and let us all stand sureties in him that, God willing, we will
-                     send a petition to his archimandrite to release <pb n="265"/>
-                     <pb n="265"/>him.
+                     send a petition to his archimandrite to release <pb type="vol" n="265"/><pb type="running" rend="brackets" n="265"/>him.
                      Perhaps the merciful God will accept us, and release him from this
                      torture</quote>. And, when they had determined upon these things, a certain
                   deacon whose name was Addai rose, and came and knelt before his bed, and said:

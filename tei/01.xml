@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -85,8 +85,7 @@
                  if the great and marvellous deeds that can be easily wrought through
                  apostles only which God wrought through him be narrated, lest they be as
                  it were hard to believe; but, committing the greatness of these to the
-                 knowledge of him who is true and does not lie, who said, <quote>Whoever belie<pb n="6"/>
-                            <pb n="6"/>veth 
+                 knowledge of him who is true and does not lie, who said, <quote>Whoever belie<pb type="vol" n="6"/><pb type="running" rend="brackets" n="6"/>veth 
                     on me shall do greater than these signs which I do</quote>,<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/> we leave this
                  [also] to him and to those to whom it has not been hard to believe his word,
                  bringing these few things (a small proportion) to record for the glory of God.
@@ -103,8 +102,7 @@
                  tell only the things that concern this man who was our contemporary. This
                  man therefore came from a village called <placeName ref="http://syriaca.org/place/2779">Fyțr</placeName>, from which his master
                  also came; and he first planted <placeName ref="http://syriaca.org/place/2778">that monastery</placeName>, and then this blessed <persName ref="http://syriaca.org/person/3763">Habib</persName>
-                        <pb n="7"/>
-                        <pb n="7"/>went to him, when he was about ten years old, and he received him, and
+                        <pb type="vol" n="7"/><pb type="running" rend="brackets" n="7"/>went to him, when he was about ten years old, and he received him, and
                  he continued to dwell with him, and he exercised him in spiritual ways of
                  life, marking his tender age, and what devoutness and what orderliness he
                  possessed from his youth. But, when that old man had completed ninety
@@ -119,8 +117,7 @@
                  made a remission; and then afterwards <persName ref="http://syriaca.org/person/3763">the blessed man</persName> used to perform
                  frequent mighty works in every place against those who contended against
                  him, and when he spoke God would perform in action everything that he
-                 <pb n="8"/>
-                        <pb n="8"/>said without delay, because he saw his zeal and readiness and the keenness
+                 <pb type="vol" n="8"/><pb type="running" rend="brackets" n="8"/>said without delay, because he saw his zeal and readiness and the keenness
                  of his purpose. But, when the owner of the ass heard it, his knees knocked
                  together in fear, lest the power of the saint's curse should light upon him
                  also; and he arose and took all his parchments (<foreign xml:lang="grc">χάρτης</foreign>), and brought them
@@ -136,8 +133,7 @@
                  fear fell on all who heard it. And <persName ref="http://syriaca.org/person/3763">the blessed man</persName> went on continuing
                  to busy himself greatly in matters of debt-remission, becoming a deliverance 
                  for the poor and his<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> fame increasing. But the wife of the man
-                 <pb n="9"/>
-                        <pb n="9"/>who had died and his children took all their parchments <foreign xml:lang="grc">χάρτης</foreign>, and
+                 <pb type="vol" n="9"/><pb type="running" rend="brackets" n="9"/>who had died and his children took all their parchments <foreign xml:lang="grc">χάρτης</foreign>, and
                  brought them to <persName ref="http://syriaca.org/person/3763">the blessed man</persName>, and thus returned them to their owners.
               </ab>
                     <ab type="section" xml:id="section-1.2" n="2">
@@ -158,8 +154,7 @@
                     forgive this man. And again, if thy grace knoweth that it is for the sake
                     of thy name and for the sake of the deliverance of the wronged that I have
                     come out, in order that this same thing may be made known to this man and
-                    <pb n="10"/>
-                            <pb n="10"/>to everyone else, do with him as thy grace knoweth how</quote>. Then Grace
+                    <pb type="vol" n="10"/><pb type="running" rend="brackets" n="10"/>to everyone else, do with him as thy grace knoweth how</quote>. Then Grace
                  exacted forthwith from the man requital for the old man; and that same day
                  the Lord smote him, and half of him became withered, one of his eyes and
                  one of his arms, and the whole of his side, and one of his feet, and he
@@ -179,8 +174,7 @@
                  to subject to afflictions. And in consequence of this fear everyone who had
                  debtors of ancient standing would remit the debt; and some of them brought
                  their deeds to the blessed man himself, and entreated him to bless them;
-                 <pb n="11"/>
-                        <pb n="11"/>while the fear and the terror of him went out thenceforth in every place
+                 <pb type="vol" n="11"/><pb type="running" rend="brackets" n="11"/>while the fear and the terror of him went out thenceforth in every place
                  because he himself also travelled in all the districts of Syria. And, as it is
                  written in the blessed Job, <quote>Who hath contended with him and hath had
                     peace?</quote>,<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> so was it fulfilled in this spiritual old man, so that no one resisted
@@ -197,8 +191,7 @@
                  this, and as if by way of precaution against being deceived said to her,
                  <quote>Your own faith has given you light; and, if not, I for my part am a sinner</quote>. 
                  And so this miracle was proclaimed all over the city, while everyone
-                 <pb n="12"/>
-                        <pb n="12"/>gave thanks to God. While he was exerting his activity in the same city,
+                 <pb type="vol" n="12"/><pb type="running" rend="brackets" n="12"/>gave thanks to God. While he was exerting his activity in the same city,
                  certain persons from the country of the <persName>Persians</persName> heard of it because he was
                  near there, and they brought him two women, one who was persecuted by a
                  demon, and another who was barren of offspring, having been many years
@@ -219,8 +212,7 @@
                  spent much money upon it; and for three years running hail came down
                  and made terrible havoc of that vineyard; and, when that time came in
                  the fourth year, he set forth and went weeping to the old man, and continued
-                 <pb n="13"/>
-                        <pb n="13"/>entreating him to pray for him. But the old man said to him : <quote>Wherefore,
+                 <pb type="vol" n="13"/><pb type="running" rend="brackets" n="13"/>entreating him to pray for him. But the old man said to him : <quote>Wherefore,
                     my son, is havoc made of that vineyard?</quote>. And he said : <quote>Sir, I know not</quote>,
                  The old man says to him : <quote>Has that plantation done any sin or crime, or
                     offended God?</quote> He says to him, <quote>No</quote>. He says to him: <quote>Know and see
@@ -239,8 +231,7 @@
                     because, my Lord, this vineyard has been deemed worthy to have thy living
                     and life-giving body and blood offered in it, accept the person of the sinner
                     thy bondman, my Lord, and cause this cloud to pass away from him</quote>. And
-                 <pb n="14"/>
-                        <pb n="14"/>the Lord heard the old man's voice; and that cloud passed away, and did not
+                 <pb type="vol" n="14"/><pb type="running" rend="brackets" n="14"/>the Lord heard the old man's voice; and that cloud passed away, and did not
                  harm even one leaf in it; and lo! from that time, through the power of the
                  blessed man's prayers, that vineyard remained without hail falling in it,
                  while havoc was made of every thing round it, and it alone escaped.<ptr type="noteAnchor" xml:id="a10" target="#n10" n="10"/>
@@ -259,8 +250,7 @@
                  woman in a certain village who had a mad demon in her, a woman who
                  barked at people like a noxious beast, and tore their clothes, and violently
                  assaulted many, and, when they brought her to the old man, she continued
-                 <pb n="15"/>
-                        <pb n="15"/>howling at him and seeking to run away. And the old man stretched out
+                 <pb type="vol" n="15"/><pb type="running" rend="brackets" n="15"/>howling at him and seeking to run away. And the old man stretched out
                  his hand, and made the sign over her; and he laid an inhibition upon him
                  and said, <quote>In the name of the Lord you are barred from his creation</quote>
                  And the same hour he went out of her, and she was healed; and that woman
@@ -281,8 +271,7 @@
                  began to practise the art. And the same day the sentence for their presumption 
                  overtook them; for the tongue of one was seized with an impediment
                  so that she could not speak at all, and the arm of the other withered and
-                 <pb n="16"/>
-                        <pb n="16"/>became like wood, and would not turn. And immediately [certain persons]
+                 <pb type="vol" n="16"/><pb type="running" rend="brackets" n="16"/>became like wood, and would not turn. And immediately [certain persons]
                  ran carrying [that] poor woman's fee to her, weeping, and entreating [her] to
                  go with them and [entreat] the old man; and she went with them, and they
                  continued entreating him to forgive them. But [he] in order not to requite
@@ -299,8 +288,7 @@
                  door, and the door to be shut in his face so that he should not come in;
                  and the old man continued standing at the door and sending him an
                  entreaty [the whole day]. And he [...] was distressed and he wept [...]<ptr type="noteAnchor" xml:id="a11" target="#n11" n="11"/>
-                        <pb n="17"/>
-                        <pb n="17"/>distressed [...] in confidence in the divine
+                        <pb type="vol" n="17"/><pb type="running" rend="brackets" n="17"/>distressed [...] in confidence in the divine
                  power that was in him, he said to them, <quote>Go; and, when you have seen
                     these beasts, say to them [in] a loud [voice], <quote>
                                 <persName ref="http://syriaca.org/person/3763">Habib</persName> the sinner [says that] you
@@ -316,8 +304,7 @@
                  [began] vigorously to walk wholly in the footsteps of the saint. But, after
                  the [old] <persName ref="http://syriaca.org/person/3763">Habib</persName> had marvellously run in this path of heroism, and of acts
                  of power [and] miracles and signs [and] mighty deeds, and deliverance [of]
-                 <pb n="18"/>
-                        <pb n="18"/>those who are wronged and of orphans [and of] poor men and of widows,
+                 <pb type="vol" n="18"/><pb type="running" rend="brackets" n="18"/>those who are wronged and of orphans [and of] poor men and of widows,
                  he was carried to the mansion that is a release from the troubles [of] the
                  body, and fell asleep in peace, having confitently committed his monastery
                  and his labour and the care of the distressed to <persName ref="http://syriaca.org/person/1524">Zʿura</persName> his disciple, who

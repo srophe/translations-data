@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -77,8 +77,7 @@
                      <persName>Paul</persName> who says that in <persName>Christ Jesus</persName> is
                   no male nor female,<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> it has seemed
                   good to us to introduce the history of persons also who were by nature females;
-                  for the subject of their lives does <pb n="167"/>
-                        <pb n="167"/>not fall short of
+                  for the subject of their lives does <pb type="vol" n="167"/><pb type="running" rend="brackets" n="167"/>not fall short of
                   the standard of the series of the histories of the saints; since neither is the
                   course of life of these persons lower than that of<ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/> the high path in which each one of these walked, but
                   their habits of life also are great, and surpass written narratives. These
@@ -96,8 +95,7 @@
                   with ecstasy, and she remained standing there three days and three nights, while
                   men came and saw her; and the custodians wished to drive her away; and on seeing
                   that she was a feeble old woman, and further that she was standing in prayer they
-                  let her <pb n="168"/>
-                        <pb n="168"/>alone. And from that time she used to sit there
+                  let her <pb type="vol" n="168"/><pb type="running" rend="brackets" n="168"/>alone. And from that time she used to sit there
                   in the temple, and again she continued going round and praying for three years,
                   without entering anyone's house or speaking with human beings. And she did not
                   sleep outside the church, or yet ask anything from human beings; but she would sit
@@ -113,8 +111,7 @@
                   came to the place where she happened to be, she would sit in the same way, and for
                   three and four days, and as much as a week she would sit silent, with her mind
                   wrapt up in heaven. Usually her seat was in front of <placeName ref="http://syriaca.org/place/2781">Golgotha</placeName>, while she sat with
-                  her eyes raised, and looking <pb n="169"/>
-                        <pb n="169"/>in ecstatic wonder and
+                  her eyes raised, and looking <pb type="vol" n="169"/><pb type="running" rend="brackets" n="169"/>in ecstatic wonder and
                   weeping, just as if she were looking at God fastened to the cross and standing
                   there, with the result that, while she sat there. in admiration every day, those
                   who saw her looked upon her as a mad woman, or as some old person who had become
@@ -131,8 +128,7 @@
                   entreating her to pray for them. But the blessed woman when she saw it, inasmuch
                   as she was struck with fear lest she should be honoured by men and lose her
                   labour, fled thence immediately, being distressed at her expulsion from the holy
-                     <pb n="170"/>
-                        <pb n="170"/>place, inasmuch as she had intended to remain there
+                     <pb type="vol" n="170"/><pb type="running" rend="brackets" n="170"/>place, inasmuch as she had intended to remain there
                   in that occupation all her lifetime. And so she departed, and went down again to
                      <placeName>the East</placeName>; and she determined that all her life she would
                   once every year offer worship in the place where God suffered. And thus she did,
@@ -148,8 +144,7 @@
                   by her will and her words. But she herself shrank greatly from such things, and it
                   was not pleasing to her that anyone should say anything of the kind to her; and,
                   if anyone wished to press her, he did not see her again. For this devout woman
-                  guarded herself carefully against pride <pb n="171"/>
-                        <pb n="171"/>and repressed
+                  guarded herself carefully against pride <pb type="vol" n="171"/><pb type="running" rend="brackets" n="171"/>and repressed
                   vain glory, lest she should lose her labour. But her sister <persName ref="http://syriaca.org/person/3025">Euphemia</persName>, who was younger than
                   she, had in her childhood been united to a <persName ref="http://syriaca.org/person/3610">husband</persName>, and had had one
                      <persName ref="http://syriaca.org/person/3232">daughter</persName>, who herself
@@ -169,8 +164,7 @@
                   high and sublime order of life, while she in fact carried out both, the observance
                   of abstinence and the practice of relief of the distressed. But this admirable
                   woman decided in her mind not to introduce into her house other men's bread that
-                  was not gained by the work of her hands; and, if it <pb n="172"/>
-                        <pb n="172"/>came
+                  was not gained by the work of her hands; and, if it <pb type="vol" n="172"/><pb type="running" rend="brackets" n="172"/>came
                   in, neither she her daughter tasted any of it. But, because they were fine and
                   excellent workwomen, they would weave two pounds only of goat's wool yarn for a
                      <foreign rend="italics">denarius</foreign>, which she received from great
@@ -186,8 +180,7 @@
                      wish me to go and buy you some fine wheaten bread?</quote> And, whatever the
                   man, whoever he might be, said, if her head-covering was in its place,<ptr type="noteAnchor" xml:id="a8" target="#n8" n="8"/> she did not leave him till she had
                   satisfied him. And, if she had no coppers at hand, she would run to her house and
-                  take some article of their furniture and go and pawn it, and thus she would <pb n="173"/>
-                        <pb n="173"/>satisfy that indigent man; and there could not be any
+                  take some article of their furniture and go and pawn it, and thus she would <pb type="vol" n="173"/><pb type="running" rend="brackets" n="173"/>satisfy that indigent man; and there could not be any
                   sick poor man among those lying in the streets who escaped her so that she did not
                   visit him either twice or once in the day, inasmuch as she was capable of running
                   about all day. But she would go round the courts of the houses and ask, <quote>Is
@@ -203,8 +196,7 @@
                      consolation. Blessed are you for the number of unending blessings that are
                      prepared for you in that world, in return for these distresses which are
                      passing by upon you. Look at <persName>Lazarus</persName>, how because he
-                     endured and was patient and did not murmur he inherited the <pb n="174"/>
-                            <pb n="174"/>kingdom of heaven.</quote> And so the poor used to call her
+                     endured and was patient and did not murmur he inherited the <pb type="vol" n="174"/><pb type="running" rend="brackets" n="174"/>kingdom of heaven.</quote> And so the poor used to call her
                         <quote>
                             <persName ref="http://syriaca.org/person/3025">our comfort and our
                         visitor</persName>
@@ -224,8 +216,7 @@
                   herself to the employment which she had taken upon herself, the work of her hands,
                   except at night. And therefore her daughter laboured simple-mindedly and without
                   murmuring night and day, and she would say if any of her companions or anyone else
-                  said to her, <quote>Your mother leaves you to <pb n="175"/>
-                            <pb n="175"/>work alone
+                  said to her, <quote>Your mother leaves you to <pb type="vol" n="175"/><pb type="running" rend="brackets" n="175"/>work alone
                      all day</quote>, she on her part would say,<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/>
                         <quote>My mother's labour is greater than all labours; and I receive strength from
                      God through her prayers.</quote> And therefore this blessed woman had a little
@@ -242,8 +233,7 @@
                   displeased and would say, <quote>A truce to this charity of yours, since you wish
                      to pollute me with the mire of your sins; my own blots are sufficient for me.
                      God puts strength in me and in that poor girl who is with me, both to work for
-                     our necessities, and to <pb n="176"/>
-                            <pb n="176"/>minister to our brethren
+                     our necessities, and to <pb type="vol" n="176"/><pb type="running" rend="brackets" n="176"/>minister to our brethren
                      according to our power.</quote> And so they never ate except from the proceeds
                   of their labour in their house, unless perhaps one of them might be constrained on
                   some occasion to perform an act of friendship<ptr type="noteAnchor" xml:id="a10" target="#n10" n="10"/> somewhere. But in this way they were continually
@@ -260,8 +250,7 @@
                   fulfilled; but, when the persecution took place, and all the convents round the
                   city were expelled from their places, and the adversaries occupied them, then that
                   blessed woman, like a harbour (<foreign xml:lang="grc">λιμήν</foreign>) which
-                  receives ships from all <pb n="177"/>
-                        <pb n="177"/>sides that they may lie to and
+                  receives ships from all <pb type="vol" n="177"/><pb type="running" rend="brackets" n="177"/>sides that they may lie to and
                   be at peace in it, so herself also received and relieved the persecuted and
                   afflicted from every place; and, because there was no place for the convents to
                   enter away from the heretics, they were constrained to find quarters with her as
@@ -278,8 +267,7 @@
                   night, lest by the sight of her she should harm anyone, or be herself harmed by
                   anyone through the sight. And so from that time that martyrs' chapel harboured not
                   fewer than ten or fifteen, and as many as twenty, while with the labour of their
-                  hands which they disposed of outside <pb n="178"/>
-                        <pb n="178"/>she would therefore
+                  hands which they disposed of outside <pb type="vol" n="178"/><pb type="running" rend="brackets" n="178"/>she would therefore
                   buy wheat and lentils and herbs, and make bread and cook lentils and herbs from
                   evening to evening, and thus she would relieve them, as many as came, while she
                   herself was occupied in her ministration the whole day, and moreover also the
@@ -295,8 +283,7 @@
                   came, she would go out and go to some persons of high position, and make instant
                   demands of them, saying: <quote>A mighty matter it is that you do toward
                         <persName>Christ</persName>, whose property all your good things are. And
-                     now lo! you are smearing off <pb n="179"/>
-                            <pb n="179"/>your superfluities on
+                     now lo! you are smearing off <pb type="vol" n="179"/><pb type="running" rend="brackets" n="179"/>your superfluities on
                      him, and you think that your charity is great. <quote>Woe to you, rich men;
                         wail and weep for the calamities that are coming upon you</quote>
                             <ptr type="noteAnchor" xml:id="a16" target="#n16" n="16"/>
@@ -315,8 +302,7 @@
                      of pure bread and splendid rugs, while God is knocked down in the street and
                      swarms with lice and faints from his hunger, and you do not fear him? and how
                      will you call upon him and he answer you, when you treat him with such
-                     contempt? Or how will you <pb n="180"/>
-                            <pb n="180"/>ask forgiveness from him?
+                     contempt? Or how will you <pb type="vol" n="180"/><pb type="running" rend="brackets" n="180"/>ask forgiveness from him?
                      Or how can you expect him to deliver you from hell?</quote> And thus she would
                   pass judgment upon them, so that those who were secular (?) were a little offended
                   against her in accordance with the saying <quote>The fool loveth not one who
@@ -332,8 +318,7 @@
                   and everyone recognised her on seeing her even at a distance by her quick and
                   rapid walk, since she would walk in this way summer and winter in mud and snow and
                   frost without anything whatever on her feet, with her toes bruised and her nails
-                  torn out and the <pb n="181"/>
-                        <pb n="181"/>blood flowing from her wounds, and she
+                  torn out and the <pb type="vol" n="181"/><pb type="running" rend="brackets" n="181"/>blood flowing from her wounds, and she
                   would not consent even to treat them, while everyone was very sorry for her on
                   account of the state in which they saw her; for indeed we ourselves too would
                   often jest with her and say to her, <quote>Do not kill yourself in so cruel a way,
@@ -350,8 +335,7 @@
                   one peerless mode of life was strenuously applying herself to store up
                   righteousness. When then the blessed woman had completed a period of thirty years
                   more or less in such practices, and her house thundered night and day with the
-                  praises of the <pb n="182"/>
-                        <pb n="182"/>saints from all quarters, Satan who is
+                  praises of the <pb type="vol" n="182"/><pb type="running" rend="brackets" n="182"/>saints from all quarters, Satan who is
                   always envious of good things did not neglect to stir up a trial against them, in
                   order to make them lose the benefit of their great and spiritual business and
                   deprive them of it. Then he stirred up against them the heretical envy of those
@@ -366,8 +350,7 @@
                   confidence that fights with death even used vehement language, saying, <quote>As
                      for me, may the Lord <persName>Jesus Christ</persName> deliver me from
                      communicating with those who divide him, and with those who proclaim a
-                     quaternity in place of the Holy Trinity</quote>,<ptr type="noteAnchor" xml:id="a21" target="#n21" n="21"/> and, when those who <pb n="183"/>
-                        <pb n="183"/>deserved
+                     quaternity in place of the Holy Trinity</quote>,<ptr type="noteAnchor" xml:id="a21" target="#n21" n="21"/> and, when those who <pb type="vol" n="183"/><pb type="running" rend="brackets" n="183"/>deserved
                   these words had heard them, they were seized with furious, vehement, passionate
                   indignation, and they ordered the blessed woman to be confined in the lowest
                   dungeon of the prison as a punishment for <quote>this audacity</quote>. And so she
@@ -384,8 +367,7 @@
                   they left, and went to her blessed sister <persName ref="http://syriaca.org/person/1880">Mary</persName>, and it was their wish to
                   go up to <placeName>Jerusalem</placeName>; and they went up and prayed, and
                   returned. And so these blessed women were buffeted by the trials (<foreign xml:lang="grc">άγών</foreign>) of persecution for five years; and, having
-                  received one another’s blessing, afterwards, thinking that the fury against <pb n="184"/>
-                        <pb n="184"/>them had perhaps abated, they returned to <placeName ref="http://syriaca.org/place/8">Amida</placeName> and came in secretly, and
+                  received one another’s blessing, afterwards, thinking that the fury against <pb type="vol" n="184"/><pb type="running" rend="brackets" n="184"/>them had perhaps abated, they returned to <placeName ref="http://syriaca.org/place/8">Amida</placeName> and came in secretly, and
                   they resided in a certain <persName ref="http://syriaca.org/person/3615">gentleman</persName>'s house. And, when it began to become known, and the
                   adversaries began to speak about them, those in whose house they were residing
                   were alarmed, and they besought them to depart, lest (as they said) their house
@@ -401,8 +383,7 @@
                   and said to her: <quote>My daughter, be comforted in <persName>Christ</persName>,
                      and keep yourself in purity for the Lord your Lord to whom you were betrothed;
                      and be not distressed, for I am not deserting you (far be it from me, my
-                     beloved); but I am committing you to the Child of my <pb n="185"/>
-                            <pb n="185"/>blessed Lady <persName ref="http://syriaca.org/person/3232">Maria</persName>,
+                     beloved); but I am committing you to the Child of my <pb type="vol" n="185"/><pb type="running" rend="brackets" n="185"/>blessed Lady <persName ref="http://syriaca.org/person/3232">Maria</persName>,
                      and to the holy one herself, that by her prayers you may be preserved, and may
                      become a temple for the indwelling of the Holy Spirit of God</quote>. And after
                   laying many charges upon her, and saying positively, <quote>I for my part am going
@@ -421,8 +402,7 @@
                   sorrow, since her whole hope was now this, to go to her blessed aunt, and share
                   her manner of life until her end. And for this reason they prevented it, lest she
                   should hear the news and be overwhelmed with anguish. These saints therefore in
-                     <pb n="186"/>
-                        <pb n="186"/>this way both finished their marvellous courses
+                     <pb type="vol" n="186"/><pb type="running" rend="brackets" n="186"/>this way both finished their marvellous courses
                   together within eight days, each of them carrying the great load of her
                   merchandise. The blessed <persName ref="http://syriaca.org/person/1880">Mary</persName> completed sixty years in the course of sanctity from her birth
                   down to her departure, walking in the road of perfection, and labouring toward

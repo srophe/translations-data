@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -71,8 +71,7 @@
                <head type="main">Next the Seventh History of the Old Man <persName ref="http://syriaca.org/person/1555">Abraham</persName> the Layman, the
                   Recluse.</head>
                <ab xml:id="section-7.1" n="1"> We wish next to place on record the history of the old
-                  man <persName ref="http://syriaca.org/person/1555">Abraham</persName> also, <pb n="119"/>
-                  <pb n="119"/>who was called <hi rend="singleQuotes">the
+                  man <persName ref="http://syriaca.org/person/1555">Abraham</persName> also, <pb type="vol" n="119"/><pb type="running" rend="brackets" n="119"/>who was called <hi rend="singleQuotes">the
                      consecrated</hi>, and had reached old age being about sixty years old. This man
                   one day, when the gospel (<foreign xml:lang="grc">έυαγγέλιον</foreign>) was being
                   read, heard that our Lord said, <quote>Whoever shall leave wife or children etc.
@@ -89,8 +88,7 @@
                      What have I gained either from children or from wife, or from the whole world,
                      except that I have consumed my life in it in vanity, and idly wasted my
                      moments, and passed my days evilly?, and lo! I have come to the gate of the
-                     grave. Who will shelter me there in that judgment? or who will rescue <pb n="120"/>
-                     <pb n="120"/>me from my sins? But now even for this little
+                     grave. Who will shelter me there in that judgment? or who will rescue <pb type="vol" n="120"/><pb type="running" rend="brackets" n="120"/>me from my sins? But now even for this little
                      remainder of my life that remains to me I will go and repent of my sins, and
                      then I will die, having hope in that parable of the labourers which our Lord
                      spake, that, even after the day had declined and one hour only was left for
@@ -108,8 +106,7 @@
                   they encouraged him and they say to him: <quote>You are doing right, our father,
                      if you are turning in repentance toward God; since he is merciful and will
                      receive you</quote>. After they had held much conversation with him, because
-                  they supposed that he intended to live with <pb n="121"/>
-                  <pb n="121"/>them, they
+                  they supposed that he intended to live with <pb type="vol" n="121"/><pb type="running" rend="brackets" n="121"/>them, they
                   said to him: <quote>After you are tonsured, where do you intend to live?</quote>
                   But he said to them: <quote>Rise give me the blessing and take my hair, and where
                      God wishes I will live</quote>. They say to him: <quote>We seek to learn
@@ -126,8 +123,7 @@
                   his abode in it, after requesting a man to bring him his little food every first
                   day of the week. And so he would stand and recite a service and pray constantly
                   and weep, while everyone was struck with astonishment at him, and some mockers
-                  would <pb n="122"/>
-                  <pb n="122"/>say, <quote>Come let us go and be blessed by
+                  would <pb type="vol" n="122"/><pb type="running" rend="brackets" n="122"/>say, <quote>Come let us go and be blessed by
                      <persName ref="http://syriaca.org/person/1555">Abraham</persName> the
                      consecrated recluse</quote>, and others, uttering words that came from the evil
                   one, would say, <quote>If he had shut up his wife with him, he would be doing
@@ -144,8 +140,7 @@
                   for his sins; and so men used to go by stealth, and listen to the sound of his
                   sobs, and they were astonished at him. And the old man persevered in his
                   repentance for eight years. And in the eighth year, when he was near his end,
-                  there used to be hail in these villages <pb n="123"/>
-                  <pb n="123"/>every year<ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/> and they were smitten, and their
+                  there used to be hail in these villages <pb type="vol" n="123"/><pb type="running" rend="brackets" n="123"/>every year<ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/> and they were smitten, and their
                   crops also were utterly ruined. And, when the time arrived and that terrible cloud
                   had come up according to its custom, on the first day of the week, when some
                   persons were present at his lodging, they began to weep, because the cloud was
@@ -161,8 +156,7 @@
                   boundaries of that village, the signal of light remained until that cloud had
                   passed. And so through the power of the old man's prayers that village was
                   delivered and escape from that terrible rod of chastisement, which injured not one
-                  leaf within its boundaries; and, <pb n="124"/>
-                  <pb n="124"/>outside all its
+                  leaf within its boundaries; and, <pb type="vol" n="124"/><pb type="running" rend="brackets" n="124"/>outside all its
                   boundaries all round, not even the leaves remained upon the trees.<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> Then the boundaries of that village
                   exulted, while they themselves made proclamation concerning the power of the
                   prayers of the blessed <persName ref="http://syriaca.org/person/1555">Abraham</persName>, everyone being astonished and giving thanks to God. And

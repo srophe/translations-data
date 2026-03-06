@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -75,8 +75,7 @@
                   order that no flesh. may boast before him',<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/> this strengthener of the weak is wont to display its operation not only
                   through men of great size or mighty strength, but also in weak, feeble, powerless
                   women, insomuch that it gives them such force and courage that they show mighty
-                  valour in fight not only <hi rend="singleQuotes">with flesh and blood</hi> (or <pb n="542"/>
-                        <pb n="340"/>with insidious passions and the enticements of fleshly
+                  valour in fight not only <hi rend="singleQuotes">with flesh and blood</hi> (or <pb type="vol" n="542"/><pb type="running" rend="brackets" n="340"/>with insidious passions and the enticements of fleshly
                   lusts and so on), <quote>but against principalities (<foreign xml:lang="grc">άρχας</foreign>) and authorities, and against the rulers of the world of
                      this darkness, and against evil spirits under heaven</quote>,<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> so that against these they show
                   mighty prowess and mock at them as a mighty man mocks at a party of babes and
@@ -91,8 +90,7 @@
                   learning accurately from her, was by her birth (<foreign xml:lang="grc">γένος</foreign>) from <placeName ref="http://syriaca.org/place/285">Arzun</placeName>
                         <ptr type="noteAnchor" xml:id="a6" target="#n6" n="6"/> of the
                   Persians. And, when this woman was a girl of eight, that is of high family
-                     (<foreign xml:lang="grc">γένος</foreign>), from her <pb n="543"/>
-                        <pb n="341"/>very beginning the light of her life rose in her mind, until men marvelled at
+                     (<foreign xml:lang="grc">γένος</foreign>), from her <pb type="vol" n="543"/><pb type="running" rend="brackets" n="341"/>very beginning the light of her life rose in her mind, until men marvelled at
                   her sorrow and modesty and devoutness; and her name given her by her <persName ref="http://syriaca.org/person/3706">parents</persName>, as by way of prophecy,
                   was <quote>blessing</quote>,<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> who
                   truly received a heavenly blessing. This virtuous woman formed the plan of going
@@ -108,7 +106,7 @@
                   her soul in the Lord's hands and fled. And after traversing three or 
                   four<ptr type="noteAnchor" xml:id="a12" target="#n12" n="12"/> miles she found 
                         a large <persName ref="http://syriaca.org/person/3658">party</persName> of 
-                            women <pb n="544"/><pb n="342"/>and men travelling along the road 
+                            women <pb type="vol" n="544"/><pb type="running" rend="brackets" n="342"/>and men travelling along the road 
                         to <placeName ref="http://syriaca.org/place/104">Jerusalem</placeName>; and, having joined
                   them and made inquiries and learnt it, she rejoiced and would exult and praise
                   God, and would say: <quote>Blessed am I, for the Lord has vished for my salvation,
@@ -124,8 +122,7 @@
                   learned that there was a large <placeName ref="http://syriaca.org/place/3049">women's monastery</placeName> betwen <placeName ref="http://syriaca.org/place/674">Ascalon</placeName> and <placeName ref="http://syriaca.org/place/87">Gaza</placeName>; and thither she directed
                   her steps; and she made her wish know to the portress. And, since that <placeName ref="http://syriaca.org/place/3049">monastery</placeName> was severe (?),<ptr type="noteAnchor" xml:id="a14" target="#n14" n="14"/> that old woman said to her:
                      <quote>You, my daughter, cannot live here, since you are a girl, and you cannot
-                     bear <pb n="545"/>
-                            <pb n="343"/>burdens and labours; and moreover also your own
+                     bear <pb type="vol" n="545"/><pb type="running" rend="brackets" n="343"/>burdens and labours; and moreover also your own
                      delicacy is unsuited for a monastery</quote>. But the devout woman because she
                   was a stranger and in a strange country was distressed; and she remained sitting
                   before the gate and weeping for seven days, while they tried to drive her away and
@@ -142,8 +139,7 @@
                      not suffered me to be ruined, and will not suffer me</quote>. And so (she said)
                   they gave thanks to God. But she from that time began to follow great modes of
                   life, and austere practices of labours and abstinence and devoutness, though they
-                     <pb n="546"/>
-                        <pb n="344"/>tried to prevent her and used to smite her on account
+                     <pb type="vol" n="546"/><pb type="running" rend="brackets" n="344"/>tried to prevent her and used to smite her on account
                   of her childish age, that she might not apply herself to these things more than
                   all the <persName ref="http://syriaca.org/person/3662">sisters</persName>; and she
                   on her side would increase them the more; so that she would go for two and three
@@ -162,8 +158,7 @@
                   practising these habits for about ten years, a persecution was set on foot against
                   their <placeName ref="http://syriaca.org/place/3049">monastery</placeName> to make
                   them either submit<ptr type="noteAnchor" xml:id="a15" target="#n15" n="15"/> or quit.<ptr type="noteAnchor" xml:id="a16" target="#n16" n="16"/>
-                        <pb n="547"/>
-                        <pb n="345"/>Since it was a large and celebrated convent, the
+                        <pb type="vol" n="547"/><pb type="running" rend="brackets" n="345"/>Since it was a large and celebrated convent, the
                   majority of them were detained and conformed, and some were scattered this way and
                   that. But the blessed woman was pressed by two alternatives, one of removing from
                   the <placeName ref="http://syriaca.org/place/3049">monastery</placeName>, and the
@@ -181,8 +176,7 @@
                   determination, <quote>We too will go with you to the desert</quote>. And, when
                   they refused to give way, they embarked on a ship and crossed to <placeName ref="http://syriaca.org/place/572">Alexandria</placeName>. And the blessed
                   woman heard a report of a place in the desert beyond <placeName ref="http://syriaca.org/place/2819">the house of Mar Menas</placeName>;<ptr type="noteAnchor" xml:id="a18" target="#n18" n="18"/> and she directed her steps thither,
-                     <pb n="548"/>
-                        <pb n="346"/>it being about two miles from <placeName ref="http://syriaca.org/place/2820">a village named Mendis</placeName>; which
+                     <pb type="vol" n="548"/><pb type="running" rend="brackets" n="346"/>it being about two miles from <placeName ref="http://syriaca.org/place/2820">a village named Mendis</placeName>; which
                   finally became the abode of the blessed Syrians,<ptr type="noteAnchor" xml:id="a19" target="#n19" n="19"/> but took its beginning from the blessed woman.<ptr type="noteAnchor" xml:id="a20" target="#n20" n="20"/> And there was there a tower that had
                   been erected for protection against barbarians; and the other five also went in
                   with virtuous zeal, and they took up their abode in it. And one of them went in
@@ -195,8 +189,7 @@
                   her walk she went and discovered that cave; and immediately she threw herself
                   inside it without her <persName ref="http://syriaca.org/person/3660">companions</persName> or anyone else being aware of it; and she took no food
                   or anything. And thenceforth like that which is written of Ishmael the son of
-                  Abraham, that he lived in the desert of Paran and was there instructed <pb n="549"/>
-                        <pb n="347"/>in the bow,<ptr type="noteAnchor" xml:id="a21" target="#n21" n="21"/> so it
+                  Abraham, that he lived in the desert of Paran and was there instructed <pb type="vol" n="549"/><pb type="running" rend="brackets" n="347"/>in the bow,<ptr type="noteAnchor" xml:id="a21" target="#n21" n="21"/> so it
                   would be fitting to say of this woman also that she lived in a cave in the desert,
                   and was instructed in struggles and acts of valour against powerful demons, who
                   show the power of their wickedness more especially in the desert. But her
@@ -213,8 +206,7 @@
                   were the fiends, who had displayed fearful and horrible shapes before her there,
                   was not frightened out of crying in prayer. But they, when they saw that she did
                   not answer them, left her; and they went and informed her <persName ref="http://syriaca.org/person/3660">companions</persName>; and so they all ran
-                  to that cave; and they found the blessed woman in the same position, <pb n="550"/>
-                        <pb n="348"/>kneeling and praying; and with difficulty, when they had spoken
+                  to that cave; and they found the blessed woman in the same position, <pb type="vol" n="550"/><pb type="running" rend="brackets" n="348"/>kneeling and praying; and with difficulty, when they had spoken
                   many words to her, was she brought to believe that it was they, since the day
                   before also demons had clothed themselves in their shapes and come to her to
                   dislodge her from that place. And they, while weeping, continued making this
@@ -230,8 +222,7 @@
                   lift her up and were unable to do so. Again after these things they demanded from
                   her a sure promise, lest she should depart even from that place also and not let
                   them know; and she gave them the promise. And again they continued begging her
-                  that they <pb n="551"/>
-                        <pb n="349"/>might make a little dish of lentils and bring
+                  that they <pb type="vol" n="551"/><pb type="running" rend="brackets" n="349"/>might make a little dish of lentils and bring
                   it her, inasmuch as it was now ten days that she had not tasted anything. But she
                   on her side refused even to hear of it, saying: <quote>You seek to concern
                      yourselves about my food, while I am lying flat on my face, and to make me eat
@@ -247,8 +238,7 @@
                   been much persecuted, and driven from one place to another, when he learned where
                   these blessed women were, and also about the quietude and pleasantness of that
                   desert, set forth and directed his steps thither with his disciples, one of whom
-                  was brother of her who had been made head of the same blessed women, who <pb n="552"/>
-                        <pb n="350"/>also was a man of marvellous modes of life, whose name
+                  was brother of her who had been made head of the same blessed women, who <pb type="vol" n="552"/><pb type="running" rend="brackets" n="350"/>also was a man of marvellous modes of life, whose name
                   was Samuel; and the name of the old man himself was <persName ref="http://syriaca.org/person/3234">Maro</persName>; and the old man <persName ref="http://syriaca.org/person/3234">Maro</persName> was by birth (<foreign xml:lang="grc">γένος</foreign>) an Amidene, while his disciple Samuel with his
                      <persName ref="http://syriaca.org/person/3662">sister</persName> came from the
                   neighbourhood of <placeName ref="http://syriaca.org/place/78">Edessa</placeName>.
@@ -264,8 +254,7 @@
                   But she was occupied with the same thought, <quote>Now that God has brought his
                      bondmen to this place, neither is it possible for those of our female sex
                         (<foreign xml:lang="grc">γένος</foreign>) to pass their lives among them
-                     (since the evil one's attack <pb n="553"/>
-                            <pb n="351"/>upon saints is generally
+                     (since the evil one's attack <pb type="vol" n="553"/><pb type="running" rend="brackets" n="351"/>upon saints is generally
                      made through women even when they are absent, how much more therefore in their
                      presence!), even if so be we<ptr type="noteAnchor" xml:id="a25" target="#n25" n="25"/>
                      continue to run with caution after spiritual things. But now let us withdraw
@@ -282,8 +271,7 @@
                   woman through strength proceeding from Grace received mighty power over fiends,
                   since they would thenceforth set themselves in array against her night and day in
                   the form (<foreign xml:lang="grc">τύπος</foreign>) of human beings, and they would
-                  come against her with all varieties of weapons; and she like a strong man who <pb n="554"/>
-                        <pb n="352"/>despises the sickly men who threaten him would mock at
+                  come against her with all varieties of weapons; and she like a strong man who <pb type="vol" n="554"/><pb type="running" rend="brackets" n="352"/>despises the sickly men who threaten him would mock at
                      them.<ptr type="noteAnchor" xml:id="a28" target="#n28" n="28"/> And the fame of her
                   strength was heard everywhere, so that the fame of her perfection instigated us
                   also to see her as well as the holy men who were there, fifteen years after she
@@ -299,8 +287,7 @@
                   and decaying and putrefying within graves, and the loathsome worm creeping about
                   in the midst of their putrefying remains, and they who see these things are led
                   astray by the vanities of this false world, and how again the thought of the
-                  rapidly-approaching terrible hour of the dissolution of this world does <pb n="555"/>
-                        <pb n="353"/>not rise in men's hearts, and that they are about to
+                  rapidly-approaching terrible hour of the dissolution of this world does <pb type="vol" n="555"/><pb type="running" rend="brackets" n="353"/>not rise in men's hearts, and that they are about to
                   stand before the terrible judgment-seat (<foreign xml:lang="grc">βήμα</foreign>)
                   ol God, saying, <quote>It is a great absurdity that we hear of the pit of fire,
                      and the abysses of flame, and the darkness, and the rest of the torments, and
@@ -316,8 +303,7 @@
                   prevailed and had no fear whatever of the fiends, and she had become firm and
                   immoveable like adamant, insomuch that the demons themselves used to cry to her,
                      <quote>This is a woman, but she has become stone, and from flesh iron</quote>.
-                  These things the demons used to say to her. And, <pb n="556"/>
-                        <pb n="354"/>inasmuch as she was so firm, that blessed man, whenever the visions pressed hard
+                  These things the demons used to say to her. And, <pb type="vol" n="556"/><pb type="running" rend="brackets" n="354"/>inasmuch as she was so firm, that blessed man, whenever the visions pressed hard
                   upon him, used to come to her as to a strong person; and while I was there, he
                   came, stricken and smitten in his mind and perturbed. And when she saw him she
                   understood; and she asked him <quote>Why are you distressed, father?</quote> But
@@ -334,8 +320,7 @@
                      have made the mighty and invincible power of <persName>Christ</persName>, which
                      cast down and overthrew and brought to naught all the power of Satan, appear
                      less than that of the fiends, so that <persName>Christ</persName> now seems to
-                     be a runaway and one that <pb n="557"/>
-                            <pb n="355"/>can be overcome by the
+                     be a runaway and one that <pb type="vol" n="557"/><pb type="running" rend="brackets" n="355"/>can be overcome by the
                      demons, and they are found to be strong and vanquishers of the power of God.
                      How are you a disciple of him who said: <quote>Ye shall trample on all the
                         power of the enemy</quote>?<ptr type="noteAnchor" xml:id="a30" target="#n30" n="30"/>
@@ -352,8 +337,7 @@
                      and return to your cell; and he as his custom is will make all the power of the
                      evil one weak before you</quote>. But the blessed man, being struck with shame
                   at the woman's words and trembling greatly from his shame, consented to go. And,
-                  when <pb n="558"/>
-                        <pb n="356"/>we had risen up from before her and were speaking
+                  when <pb type="vol" n="558"/><pb type="running" rend="brackets" n="356"/>we had risen up from before her and were speaking
                   and expressing astonishment at her spiritual strength and her courage, I said to
                   him: <quote>How is it that this blessed woman's face (<foreign xml:lang="grc">πρόσωπον</foreign>) is not visible?</quote> He on his side said to me:
                      <quote>One day while we were speaking I said to her <quote>For what reason do

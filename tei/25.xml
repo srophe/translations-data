@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -78,8 +78,7 @@
                   history aims at showing and describing the circumstances of the perfect lives
                   which the saints lived, therefore we say that in the order of our history we will
                   insert spiritual pastors,<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/> and will
-                  also in our work state the circumstances of their activity <pb n="527"/>
-                        <pb n="325"/>in God's church, since they also were complete and perfect in both
+                  also in our work state the circumstances of their activity <pb type="vol" n="527"/><pb type="running" rend="brackets" n="325"/>in God's church, since they also were complete and perfect in both
                   forms of beauty;<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> and for this
                   reason, though we seem to be passing from one subject to another, we did not think
                   it alien to the excellent purpose to describe and hand down to remembrance for the
@@ -98,8 +97,7 @@
                   on his throne,<ptr type="noteAnchor" xml:id="a6" target="#n6" n="6"/> he heard of his
                   manner of life and of his teaching, and sent and seized him and made him bishop in
                   one of the cities of <placeName>Egypt</placeName> which is called <placeName ref="http://syriaca.org/place/2788">Hephaestu</placeName>. After a period of
-                  such-and-such a number<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> of <pb n="528"/>
-                        <pb n="326"/>years during which the blessed man had distinguished
+                  such-and-such a number<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> of <pb type="vol" n="528"/><pb type="running" rend="brackets" n="326"/>years during which the blessed man had distinguished
                   himself in his pastorate, to which he had been called by the providence of God
                   against his own will, preparations for persecutions were then stirred up against
                   her whom one of the doctors names <quote>the <persName>Egyptian</persName>
@@ -120,8 +118,7 @@
                   often used to go to visit the same saints, as well as the blessed man the perfect
                   and great old man <persName ref="http://syriaca.org/person/1524">Zʿura</persName>
                   the celebrated <persName>Syrian</persName>
-                        <pb n="529"/>
-                        <pb n="327"/>from the country of Sophanene,<ptr type="noteAnchor" xml:id="a12" target="#n12" n="12"/> who also was confined with them; and thenceforth they
+                        <pb type="vol" n="529"/><pb type="running" rend="brackets" n="327"/>from the country of Sophanene,<ptr type="noteAnchor" xml:id="a12" target="#n12" n="12"/> who also was confined with them; and thenceforth they
                   were kept in custody there, though the Christ-loving <persName ref="http://syriaca.org/person/779">Theodora</persName>, who was perhaps
                   appointed queen by God to be a support for the persecuted against the cruelty of
                   the times, showed great attention to them. as well as the other persecuted men
@@ -137,8 +134,7 @@
                   and representing their trouble; but even there they gained no hearing, as it was
                   indeed in truth impossible for them to live if an ordination (<foreign xml:lang="grc">χειροτονία</foreign>) were performed there, if the adversaries
                   heard of it. But this holy <persName ref="http://syriaca.org/person/74">John</persName>, when he heard these things, would shed bitter tears every day
-                  for the distress of <persName>Christ</persName>'s <pb n="530"/>
-                        <pb n="328"/>church, insomuch he that would often say in our presence: <quote>We for our part
+                  for the distress of <persName>Christ</persName>'s <pb type="vol" n="530"/><pb type="running" rend="brackets" n="328"/>church, insomuch he that would often say in our presence: <quote>We for our part
                      have been named pastors of God's church to no purpose, since we have suffered
                      her lambs to be torn by wolves, and have come and sat down by ourselves, and
                      have not consented to die for the sake of religion. What is the benefit that we
@@ -158,8 +154,7 @@
                      precious blood;<ptr type="noteAnchor" xml:id="a15" target="#n15" n="15"/> for, even if I
                      die on its behalf, it is a boast to me</quote>. Then he concocted pretexts, and
                   under pretexts of illnesses he went and begged the patriarch and the custodians
-                  for permission to go into the city to see physicians; and, because they heard <pb n="531"/>
-                        <pb n="329"/>mention of illness, therefore they did not prevent him
+                  for permission to go into the city to see physicians; and, because they heard <pb type="vol" n="531"/><pb type="running" rend="brackets" n="329"/>mention of illness, therefore they did not prevent him
                   from going, and this matter also about the cause of his coming was made known to
                      <persName ref="http://syriaca.org/person/779">the queen</persName>; and by
                   divine dispensation she also received him with great joy, and she gave orders that
@@ -178,8 +173,7 @@
                   up and become openly known, envy like <persName>Cain</persName>'s was sown in the
                   hearts of many who were inside and not outside; and they used to address mandates
                   to him, saying, <quote>We are standing in a lion's mouth, and you are causing him
-                     to rend us all and cast us away in one hour</quote>. <pb n="532"/>
-                        <pb n="330"/>But he said, <quote>As for the lion that is coming let no man stand before him;
+                     to rend us all and cast us away in one hour</quote>. <pb type="vol" n="532"/><pb type="running" rend="brackets" n="330"/>But he said, <quote>As for the lion that is coming let no man stand before him;
                      let him send him against me myself only; since it is I as you say that have
                      provoked him, and God will do as he wishes. The mouths of lions are wont to be
                      closed by command from on high<ptr type="noteAnchor" xml:id="a18" target="#n18" n="18"/>
@@ -196,8 +190,7 @@
                   did not immediately apply a hand of ordination without witnesses and persons to
                   present. But, when those whose envy...<ptr type="noteAnchor" xml:id="a20" target="#n20" n="20"/> saw it, and he also made them hostile to him, who were believers,
                   members of his company (<foreign xml:lang="grc">συνοδία</foreign>), and some of
-                  them also even bishops, they <pb n="533"/>
-                        <pb n="331"/>went and told <persName ref="http://syriaca.org/person/779">the queen</persName> about him, having
+                  them also even bishops, they <pb type="vol" n="533"/><pb type="running" rend="brackets" n="331"/>went and told <persName ref="http://syriaca.org/person/779">the queen</persName> about him, having
                   concocted a petition purporting to come from him that she would give him an order
                   to leave the city for a short time. And she, inasmuch as she thought that he was
                   perhaps in need of recreation, in order to gratify him, gave the order, and she
@@ -217,8 +210,7 @@
                   boldness (<foreign xml:lang="grc">παρρησία</foreign>) of the heavenly King,
                   manifesting wrath also and threats against the king and queen on account of all
                   the persecution of the believers. And, when <persName ref="http://syriaca.org/person/779">the queen</persName> saw him, she was
-                  alarmed at his wrath, and says: <quote>Who <pb n="534"/>
-                            <pb n="332"/>has injured
+                  alarmed at his wrath, and says: <quote>Who <pb type="vol" n="534"/><pb type="running" rend="brackets" n="332"/>has injured
                      you, sir? What is this affair?</quote>. And he said : <quote>Who has injured
                      and disturbed me or God's church except you and your husband?</quote> And she
                   was astonished, and said : <quote>For what reason? Who has said anything to
@@ -235,8 +227,7 @@
                      in this city</quote>. He said to her, <quote>I will not do it; and, that you
                      may know that I have no desire for this business, I was just about to request
                      your majesty to order me to go out to a villa oustide for a secret retreat of
-                     thirty or forty days, as I now <pb n="535"/>
-                            <pb n="333"/>also request, since I
+                     thirty or forty days, as I now <pb type="vol" n="535"/><pb type="running" rend="brackets" n="333"/>also request, since I
                      nam indeed ill</quote>. And she on her side gave him his will, and also
                   dismissed him, since he was indeed really weak in bodily health, and, his body
                   being greatly afflicted, he constantly suffered from diseases. But the blessed man
@@ -253,8 +244,7 @@
                   while the report of him was reaching the bishop of the district<ptr type="noteAnchor" xml:id="a25" target="#n25" n="25"/> or of the city, he himself did what
                   he required and passed from it; since before he entered a district he would learn
                   about the believers, and he would send a message two or three days beforehand that
-                  the men of every <pb n="536"/>
-                        <pb n="334"/>place should assemble and be ready
+                  the men of every <pb type="vol" n="536"/><pb type="running" rend="brackets" n="334"/>place should assemble and be ready
                   along his route<ptr type="noteAnchor" xml:id="a26" target="#n26" n="26"/> (?) at one day's
                   journey (<foreign xml:lang="grc">μανσίων</foreign>) from one another; and thus he
                   visited as far as <placeName ref="http://syriaca.org/place/196">Tarsus</placeName>, intending to go down over the whole of <placeName ref="http://syriaca.org/place/486">Syria</placeName>. And there they learned
@@ -273,8 +263,7 @@
                   king which stated, <quote>One of the bishops who are there has come out, and has
                      thrown the whole church into confusion, and has performed ordination (<foreign xml:lang="grc">χειροτονία</foreign>) and given penances (<foreign xml:lang="grc">κανόνας</foreign>) and absolution,<ptr type="noteAnchor" xml:id="a28" target="#n28" n="28"/> from the royal <placeName ref="http://syriaca.org/place/586">city</placeName> as far as <placeName ref="http://syriaca.org/place/486">Syria</placeName>
                         </quote>. And, when a
-                  great search had been made, he <pb n="537"/>
-                        <pb n="335"/>said: <quote>Perhaps it
+                  great search had been made, he <pb type="vol" n="537"/><pb type="running" rend="brackets" n="335"/>said: <quote>Perhaps it
                      is so-and-so who lhas not been in the <placeName ref="http://syriaca.org/place/586">city</placeName> all this time</quote>.
                   Then by the grace of God no ordinary person, but <persName ref="http://syriaca.org/person/779">the queen</persName> herself, came in to
                   give evidence on behalf of the blessed man, saying: <quote>That man is sick and
@@ -294,8 +283,7 @@
                      <placeName ref="http://syriaca.org/place/1534">Rhodes</placeName>, and there we
                   were privileged to see him. And, when he told us his intention, that he intended
                   to pass through <placeName ref="http://syriaca.org/place/2746">Asia</placeName> a
-                  second time about six years after the <pb n="538"/>
-                        <pb n="336"/>first, since we
+                  second time about six years after the <pb type="vol" n="538"/><pb type="running" rend="brackets" n="336"/>first, since we
                   were ourselves going up from <placeName ref="http://syriaca.org/place/2734">Alexandria</placeName> to the royal city,<ptr type="noteAnchor" xml:id="a31" target="#n31" n="31"/> he returned with us. And so, when we had travelled a
                   day's journey (<foreign xml:lang="grc">μανσίων</foreign>), at every lodging-place,
                   he would send envoys taken from the believers to go among them, and<ptr type="noteAnchor" xml:id="a32" target="#n32" n="32"/> at every place we used to find from
@@ -312,8 +300,7 @@
                   administering the oblation and dismissing them, and those below were performing
                   the service; and I was amazed at the man's courage and fortitude. In the house of
                   Mar <placeName ref="http://syriaca.org/place/2803">John</placeName> at <placeName ref="http://syriaca.org/place/623">Ephesus</placeName> again the same, more
-                  than seventy men <pb n="539"/>
-                        <pb n="337"/>were assembled; and<ptr type="noteAnchor" xml:id="a35" target="#n35" n="35"/>, they having been instructed to
+                  than seventy men <pb type="vol" n="539"/><pb type="running" rend="brackets" n="337"/>were assembled; and<ptr type="noteAnchor" xml:id="a35" target="#n35" n="35"/>, they having been instructed to
                      assemble<ptr type="noteAnchor" xml:id="a36" target="#n36" n="36"/> by night in the open
                   space in the western court of the paved precinct (?) (<foreign xml:lang="grc">πλάκια</foreign>) of the same house of Mar <placeName ref="http://syriaca.org/place/2803">John</placeName>, he there ordained them by
                   night. And so from that place we again separated, he to <placeName ref="http://syriaca.org/place/1529">Chios</placeName> and thence to <placeName ref="http://syriaca.org/place/2734">Alexandria</placeName> and to Palestine,
@@ -328,8 +315,7 @@
                   impelled us to stray into such a length of narrative, while we have repeated few
                   of his actions, such as relate to the method in which he carried out his
                   visitation, while on that which is indeed too great to tell, the subject of the
-                  rest of his brave character and his humility, we have kept silence, lest <pb n="540"/>
-                        <pb n="338"/>we exceed the fixed limit. These things which tend to
+                  rest of his brave character and his humility, we have kept silence, lest <pb type="vol" n="540"/><pb type="running" rend="brackets" n="338"/>we exceed the fixed limit. These things which tend to
                   preserve the memory of these holy and zealous men mighty in conflicts (<foreign xml:lang="grc">άγών</foreign>) on behalf of religion, the first <persName ref="http://syriaca.org/person/74">John</persName> and further this second
                      <persName ref="http://syriaca.org/person/1813">John</persName>, we have
                   committed to the record of history, in the first place in order that the world may

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -76,8 +76,7 @@
                         <ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/> the zealous, a man who was in truth zealous and humble
                   and ascetic and a teacher, and perfect in all the practices of religion. Now this
                   blessed man lived in one of the convents of the <persName>Amidenes</persName>
-                        <pb n="593"/>
-                        <pb n="391"/>which is called that of the
+                        <pb type="vol" n="593"/><pb type="running" rend="brackets" n="391"/>which is called that of the
                      <persName>Edessenes</persName>;<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/>
                   and I was also in intercourse with him for a space of some years, and during the
                   days of my association with him I was with my whole soul thoroughly amazed at his
@@ -93,8 +92,7 @@
                   that, although his trade fail in one, he can spend money on another, that an
                   opportunity may be found for profit to come in, in that he never saw a poor man
                   come to the gate of his convent without imparting to his necessity if only some
-                  small thing, or yet seeing a poor sick<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> man without associating himself in careful <pb n="594"/>
-                        <pb n="392"/>attention to his needs. So therefore one might see that this saint never ceased
+                  small thing, or yet seeing a poor sick<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> man without associating himself in careful <pb type="vol" n="594"/><pb type="running" rend="brackets" n="392"/>attention to his needs. So therefore one might see that this saint never ceased
                   bringing in profit, and every day the business of the spiritual trade was never
                   lacking to him, were it from strangers or from needy persons, or from sick persons
                   lying outside and without consolation from any quarter. And besides these things
@@ -108,8 +106,7 @@
                   further he would make entreaty of the steward, and he would give him a little oil,
                   and he would cook that rejected portion in such a way that a man would be
                   attracted by the mere smell of it, and that he would leave the choicest portion,
-                  and eat of it; and he would go and ask for a little bread, <pb n="595"/>
-                        <pb n="393"/>and wine if any was to be had, and so he would take it out to the sick
+                  and eat of it; and he would go and ask for a little bread, <pb type="vol" n="595"/><pb type="running" rend="brackets" n="393"/>and wine if any was to be had, and so he would take it out to the sick
                   and afflicted and needy persons lying by the gate. And on a day when the servitors
                   had no herbs he himself, in order not to trouble the gardeners, would go outside
                   or go into the garden, and he would pick a wild herb that was of no use and bring
@@ -124,8 +121,7 @@
                   following this course day and night, holding no conversation with men, except if
                   it was needed for the purposes of his service; but, when he was going out and when
                   he was coming in, a psalm never departed from his mouth; and, even if he was
-                  speaking to someone, <pb n="596"/>
-                        <pb n="394"/>one word and the next the man would
+                  speaking to someone, <pb type="vol" n="596"/><pb type="running" rend="brackets" n="394"/>one word and the next the man would
                   see his lips move. And, if he ever had a moment during which he was resting from
                   the service of the saints, he had recourse to the Scriptures, so that, if a night
                   and a day was devoted to his reading without interruption, it was not enough to
@@ -140,8 +136,7 @@
                   of him, because that alone was enough to console them. But, as soon as they were
                   seated at the tables, he would rise and pretend to laugh 'as to how he alone was
                   to satisfy his need (?)<ptr type="noteAnchor" xml:id="a8" target="#n8" n="8"/> saying,
-                     <quote>Who has anything to give <pb n="597"/>
-                            <pb n="395"/>to my Lord
+                     <quote>Who has anything to give <pb type="vol" n="597"/><pb type="running" rend="brackets" n="395"/>to my Lord
                         <persName>Jesus</persName>? Is there anyone who has a morsel for the
                      fledglings of my Lord <persName>Jesus</persName>?</quote>, and he would make
                   many even secretly take and give him something, so much so that some of those in
@@ -158,8 +153,7 @@
                   upon him, and threw his cups and his plates to the ground. And he on his side
                   would be in no way angry or wrathful or annoyed and would say, <quote>Why is it
                      necessary that I should be abused?</quote> But sometimes too one of the
-                  servitors or the steward would be vexed, and they would show indig<pb n="598"/>
-                        <pb n="396"/>nation against him; and he on his side would thus drink in everything
+                  servitors or the steward would be vexed, and they would show indig<pb type="vol" n="598"/><pb type="running" rend="brackets" n="396"/>nation against him; and he on his side would thus drink in everything
                   and put up with it, and laugh, so that his very patience would shame the man
                   whoever he might be; and he would by no means depart till he had supplied his need
                   from him, saying, <quote>I am grieved for my Lord <persName>Jesus</persName>,
@@ -175,8 +169,7 @@
                   zealous. But after a period of some years during which the blessed man had been
                   devoting himself to this great ministration, there came the persecution which
                   disturbed everyone,<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/> and the
-                  convents removed <pb n="599"/>
-                        <pb n="397"/>after all their property had been taken
+                  convents removed <pb type="vol" n="599"/><pb type="running" rend="brackets" n="397"/>after all their property had been taken
                   from them, and the rest<ptr type="noteAnchor" xml:id="a10" target="#n10" n="10"/> stored in
                   certain places; and they no longer had an abundance of the things which their
                   needs required in everything. And the blessed man was much distressed at this,
@@ -192,8 +185,7 @@
                   carrying out his own employment, not giving up this strenuous pursuit in peace or
                   in persecution, in the city or in exile (<foreign xml:lang="grc">έξορία</foreign>). After a time he had a brother,<ptr type="noteAnchor" xml:id="a12" target="#n12" n="12"/> and he continued pressing him to go and pray at
                   Ephesus; and he for his part was unwilling to do so, and his brother by urging him
-                  induced him to set out and go. And, since he was <pb n="600"/>
-                        <pb n="398"/>weak<ptr type="noteAnchor" xml:id="a13" target="#n13" n="13"/> from the feebleness
+                  induced him to set out and go. And, since he was <pb type="vol" n="600"/><pb type="running" rend="brackets" n="398"/>weak<ptr type="noteAnchor" xml:id="a13" target="#n13" n="13"/> from the feebleness
                   caused by asceticism and moreover from the approach of old age, he fell into a
                   serious illness for a long time, and therefore, inasmuch as some blessed men among
                   the members of their <placeName>monastery</placeName> were in the royal city,
@@ -212,8 +204,7 @@
                   afterwards by the persistent effrontery (<foreign xml:lang="grc">χρώμα</foreign>)
                   with which he would ask everyone after they had been showing resentment and
                   indignation against him and saying: <quote>Mar so-and-so the zealous</quote>, and
-                  so he would perfectly carry out all the ministration to the needy with <pb n="601"/>
-                        <pb n="399"/>superfluity, washing away the excrement of all that community
+                  so he would perfectly carry out all the ministration to the needy with <pb type="vol" n="601"/><pb type="running" rend="brackets" n="399"/>superfluity, washing away the excrement of all that community
                   and bringing them water, though he held the rank of a presbyter. And, while it was
                   said there as it had been said before that he was a lover of vain glory and acted
                   on account of men, he alone as if unaware of it sought that one object, to relieve

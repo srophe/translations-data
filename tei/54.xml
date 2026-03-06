@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -73,8 +73,7 @@
                <ab xml:id="section-54.1" n="1"> The history therefore of this woman also, great before
                   God and before men, was one that could not but excite great admiration, a woman
                   who from a great royal race<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/> brought
-                  herself down to humiliation undertaken for <pb n="186"/>
-                  <pb n="532"/>the sake of
+                  herself down to humiliation undertaken for <pb type="vol" n="186"/><pb type="running" rend="brackets" n="532"/>the sake of
                   God and the promised life and<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> to a
                   mean position, and betook herself to the habit (<foreign xml:lang="grc">σχήμα</foreign>) of the solitary and monastic life and sought refuge in
                   it.<ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/> In admiration therefore and
@@ -89,8 +88,7 @@
                   filled with great joy, and received great consolation. But we found her engaged in
                   severe labours of recitation of service and of quietude and intense supplication,
                   and constant prayers and frequent genuflexions and asceticism beyond measure, and
-                  especially in the case of a woman like this <pb n="187"/>
-                  <pb n="533"/>who had been
+                  especially in the case of a woman like this <pb type="vol" n="187"/><pb type="running" rend="brackets" n="533"/>who had been
                   reared in endless luxuries, and had grown accustomed to royal habits, who suddenly
                   came to be cut off from all these things, and subjected herself to asceticism
                   beyond measure, so that she completely cut herself off from eating bread, and
@@ -107,8 +105,7 @@
                      illnesses all the days of my life, in order that I might possess health of soul
                      only.</quote> Moreover, since she thirsted after the spiritual gain of the
                   excellent life, though she was wise and learned in the reading of the Scriptures
-                  and of all the fathers, it pleased her greatly to ask <pb n="188"/>
-                  <pb n="534"/>and inquire<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> about the passions of
+                  and of all the fathers, it pleased her greatly to ask <pb type="vol" n="188"/><pb type="running" rend="brackets" n="534"/>and inquire<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> about the passions of
                   the soul and of the body and about thoughts, so that after spiritual conversation
                   all day we spent many nights in this way in discussion and helpful speech, while
                   the blessed woman condescended to make confession and say, <quote>I have here more
@@ -125,8 +122,7 @@
                   <quote>I will not rise hence unless you give me your word before God that you
                      will agree to my request and do what I require of you.</quote> And, being
                   troubled in my mind because she was lying on her face, I said to her: <quote>Be so
-                     good <pb n="189"/>
-                     <pb n="535"/>as to rise, and what you command, if it is
+                     good <pb type="vol" n="189"/><pb type="running" rend="brackets" n="535"/>as to rise, and what you command, if it is
                      within my power and capacity, I will do.</quote> And so she reluctantly rose;
                   and she began to request me, saying: <quote>Now that I have left my house and my
                      property and come out to settle down in retreat and weep for my sins, and here
@@ -144,8 +140,7 @@
                   and showed her that these plans if put into effect by her would even bring danger
                   (<foreign xml:lang="grc">κίνδυνος</foreign>) upon her, the danger of the
                   destruction involved in the scattering of all the souls that had gone out with
-                  her. Then in distress and <pb n="190"/>
-                  <pb n="536"/>tears she said, <quote>It is
+                  her. Then in distress and <pb type="vol" n="190"/><pb type="running" rend="brackets" n="536"/>tears she said, <quote>It is
                      from these very persons above all that I seek to flee.</quote> And we continued
                   admonishing her very strongly in order to suppress her thoughts, saying,
                   <quote>Know that you are an old and feeble woman, and your nature is not strong
@@ -163,8 +158,7 @@
                   and one for <placeName ref="http://syriaca.org/place/2761">women</placeName>, in
                   which she herself also thenceforth performed severe and sublime labours, for
                   fifteen years, though she declined the headship of the same monastery, but sent to
-                  another monastery, and took thence a certain blessed woman great in <pb n="191"/>
-                  <pb n="537"/>her modes of life whose name was <persName ref="http://syriaca.org/person/3201">Cosmiana</persName>, and her she appointed
+                  another monastery, and took thence a certain blessed woman great in <pb type="vol" n="191"/><pb type="running" rend="brackets" n="537"/>her modes of life whose name was <persName ref="http://syriaca.org/person/3201">Cosmiana</persName>, and her she appointed
                   archimandritess, she herself submitting to her like an insignificant and poor
                   sister. And so she continued to labour till the end of her life, which happened
                   after fifteen years.<ptr type="noteAnchor" xml:id="a11" target="#n11" n="11"/> And so she

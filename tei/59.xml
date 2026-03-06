@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -79,8 +79,7 @@
                         <ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/>.</head>
                     <ab xml:id="section-59.1" n="1"> Since then God had mercy on his people, and sought to
                   give them help. the Lord stirred up the spirit of king
-                     <persName>Justinian</persName>, and put into his mind the plan <pb n="229"/>
-                        <pb n="575"/>of letting the patriarchs and bishops examine the subject of the faith
+                     <persName>Justinian</persName>, and put into his mind the plan <pb type="vol" n="229"/><pb type="running" rend="brackets" n="575"/>of letting the patriarchs and bishops examine the subject of the faith
                   before him and in his presence; and he ordered both parties, the orthodox
                      (<foreign xml:lang="grc">όρθόδοξος</foreign>) and the
                      <persName>Chalcedonians</persName>, to meet in the royal city of
@@ -95,8 +94,7 @@
                   city, because the king detained them for a long time. And, all the believers being
                   desirous of sending eloquent and learned men to the conference, they occupied a
                   little over a year in choosing men from the convents and the cities and sending
-                  them to the blessed <persName>Theodosius</persName> the <pb n="230"/>
-                        <pb n="576"/>patriarch. Now there was living a short time before in the small city of
+                  them to the blessed <persName>Theodosius</persName> the <pb type="vol" n="230"/><pb type="running" rend="brackets" n="576"/>patriarch. Now there was living a short time before in the small city of
                   Constantina which is <placeName>Thella d Mauzlath</placeName> among the citizens a
                   presbyter whose name was <persName>Theophilus Bar Maʿnu</persName> a good and
                   religious man, one of the reverend clergy of his city; and, since he had lawfully
@@ -113,8 +111,7 @@
                   of <persName>Fsiltha</persName> through the devout Mar
                      <persName>Eustace</persName> presbyter and archimandrite.<ptr type="noteAnchor" xml:id="a6" target="#n6" n="6"/> And, when<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> his
                   training was completed, he used to practise perfect modes of life surpassing the
-                     <pb n="231"/>
-                        <pb n="577"/>strength of men; and in the course of his employment
+                     <pb type="vol" n="231"/><pb type="running" rend="brackets" n="577"/>strength of men; and in the course of his employment
                   in the monastery he would fast three days at a time and at last seven days, and
                   again at last twenty-one; and all who saw him were held in great astonishment at
                   the way in which he repressed the powerful impulses of boyhood. But many times his
@@ -130,8 +127,7 @@
                      mother.</quote> And his master said to him: <quote>The Lord will effect
                      deliverance if he is pleased with you.</quote> And a year later his mother
                   died, and in the third year his father also; and the wealth which they possessed
-                  they left to their own son <persName>James</persName>; and they left two <pb n="232"/>
-                        <pb n="578"/>slaves and a large amount of property (<foreign xml:lang="grc">ούσία</foreign>). But the divine <persName>James</persName>, as
+                  they left to their own son <persName>James</persName>; and they left two <pb type="vol" n="232"/><pb type="running" rend="brackets" n="578"/>slaves and a large amount of property (<foreign xml:lang="grc">ούσία</foreign>). But the divine <persName>James</persName>, as
                   soon as he saw that his parents were dead, called his two slaves, and set them
                   free; and he gave them the house with the property (<foreign xml:lang="grc">ούσία</foreign>) and the chattels and he did not take even one
                      <foreign>mina</foreign>; for he used to say <quote>Let the things of the world
@@ -147,8 +143,7 @@
                   without seeing him. For he would visit many by long journeys<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/>, having seen them beforehand by the vision of the Holy
                   Spirit, and be seen by them in a dream and they would be healed of their
                      diseases<ptr type="noteAnchor" xml:id="a10" target="#n10" n="10"/>; insomuch that he often<ptr type="noteAnchor" xml:id="a11" target="#n11" n="11"/>
-                        <pb n="233"/>
-                        <pb n="579"/>showed himself to queen <persName>Theodora</persName>
+                        <pb type="vol" n="233"/><pb type="running" rend="brackets" n="579"/>showed himself to queen <persName>Theodora</persName>
                   herself wife of <persName>Justinian</persName> king of the
                      <persName>Romans</persName>
                         <ptr type="noteAnchor" xml:id="a12" target="#n12" n="12"/> as in a
@@ -167,8 +162,7 @@
                   his habit (<foreign xml:lang="grc">σχήμα</foreign>) at full morning, and said to
                      <persName>Hereth</persName>: <quote>Why, O barbarian<ptr type="noteAnchor" xml:id="a17" target="#n17" n="17"/>, did you doubt of the gift of God? Go return to your
                      land, you and your magnates, and release the man from <placeName>Mt.
-                        Sinai</placeName> whom someone is detaining in your camp, and you will <pb n="234"/>
-                            <pb n="580"/>immediately be delivered from the distress; for it is
+                        Sinai</placeName> whom someone is detaining in your camp, and you will <pb type="vol" n="234"/><pb type="running" rend="brackets" n="580"/>immediately be delivered from the distress; for it is
                      because of him that you were afflicted. But henceforth Satan will not be
                      permitted by the Lord to work destruction among you, until you enter the camp.
                      And <quote>thy money go with thee</quote>
@@ -185,8 +179,7 @@
                      Gabala</persName> was yearning to see the saint. But the blessed man would
                   quietly labour with arduous labours and exercise himself in marvellous endurance
                   in the way of modes of life and of clothing; for he would cut a thick ugly cloak
-                  into two, and he clothed himself <pb n="235"/>
-                        <pb n="581"/>with half of it and
+                  into two, and he clothed himself <pb type="vol" n="235"/><pb type="running" rend="brackets" n="581"/>with half of it and
                   covered himself with half of it;<ptr type="noteAnchor" xml:id="a22" target="#n22" n="22"/> and he
                   would not change this raiment for a considerable time, not in summer nor in
                   winter, until it appeared to be all rags;<ptr type="noteAnchor" xml:id="a23" target="#n23" n="23"/>
@@ -202,8 +195,7 @@
                   revelation was made to the saint by the divine Spirit; then (<foreign xml:lang="grc">είτα</foreign>) he sends a deacon of his to them to tell them to
                   return to the city; <quote>For our Lord</quote> (he says) <quote>will give you
                      children if you confess his holy name</quote>. And they on hearing these words
-                  returned to the <pb n="236"/>
-                        <pb n="582"/>city. And the saying of the saint was
+                  returned to the <pb type="vol" n="236"/><pb type="running" rend="brackets" n="582"/>city. And the saying of the saint was
                   accomplished; for after one year our Lord gave them children, and afterwards sons
                   and daughters, and they continued praising the name of God.<ptr type="noteAnchor" xml:id="a24" target="#n24" n="24"/>
                     </ab>
@@ -222,8 +214,7 @@
                   and set out to go on foot to <placeName>Constantinople</placeName>. And there
                   joined him from his monastery a certain well-tried and divine man who was called
                      <persName>Sergius</persName>, who after a time was made a bishop by the blessed
-                  man himself. And, when the two had gone to the royal city and arrived <pb n="237"/>
-                        <pb n="583"/>there, the report flew about in the city, <quote>Father
+                  man himself. And, when the two had gone to the royal city and arrived <pb type="vol" n="237"/><pb type="running" rend="brackets" n="583"/>there, the report flew about in the city, <quote>Father
                         <persName>James</persName> has come</quote>; and, when
                      <persName>Theodora</persName> the queen heard it, she received them with much
                   honour, and she gave them a house and the rest of what they required. But the
@@ -240,8 +231,7 @@
                         <ptr type="noteAnchor" xml:id="a33" target="#n33" n="33"/>. </ab>
                     <ab xml:id="section-59.3" n="3"> When then dense crowds of believers came to the royal
                   city, bishops and monks and clergymen, and laymen zealous for religion, they used
-                  to boast of <pb n="238"/>
-                        <pb n="584"/>the same saint, insomuch that
+                  to boast of <pb type="vol" n="238"/><pb type="running" rend="brackets" n="584"/>the same saint, insomuch that
                      <persName>Hereth Bar Gabala</persName>, king of the
                      <persName>Saracens</persName>, when he heard it, came himself also to the royal
                   city; and because the party of the believers had diminished under persecutions and
@@ -265,8 +255,7 @@
                      <placeName>Arabia</placeName> as far as <placeName>Jerusalem</placeName>. The
                   divine <persName>James</persName>, having received the bishop's office from the
                   blessed <persName>Theodosius</persName> by the advice and permission of the queen
-                  (for after he had left his see he was afraid to ordain. <pb n="239"/>
-                        <pb n="585"/>bishops<ptr type="noteAnchor" xml:id="a39" target="#n39" n="39"/> without permission of the
+                  (for after he had left his see he was afraid to ordain. <pb type="vol" n="239"/><pb type="running" rend="brackets" n="585"/>bishops<ptr type="noteAnchor" xml:id="a39" target="#n39" n="39"/> without permission of the
                      crown<ptr type="noteAnchor" xml:id="a40" target="#n40" n="40"/>), then accordingly<ptr type="noteAnchor" xml:id="a41" target="#n41" n="41"/> armed himself with religion, and clothed
                   himself in the breast plate of righteousness<ptr type="noteAnchor" xml:id="a42" target="#n42" n="42"/>, and extended his course not only in the districts of
                      <placeName>Syria</placeName> but also in those of the whole of
@@ -285,8 +274,7 @@
                   And, since there is a prudent canon that without three bishops or four no bishop
                   shall be instituted, he considered the matter and took with him two monks who had
                   a reputation. for excellence of life, one from <placeName>Cilicia</placeName>, and
-                  one from <placeName>Isauria</placeName>, and took them <pb n="240"/>
-                        <pb n="586"/>to the royal city. And he received advice and permission from the holy
+                  one from <placeName>Isauria</placeName>, and took them <pb type="vol" n="240"/><pb type="running" rend="brackets" n="586"/>to the royal city. And he received advice and permission from the holy
                      <persName>Theodosius</persName> the patriarch who was at that time residing
                   there by way of exile (<foreign xml:lang="grc">έξορία</foreign>), and he directed
                   his path to <placeName>Alexandria</placeName>, with these two blessed men<ptr type="noteAnchor" xml:id="a44" target="#n44" n="44"/>. that he might there consecrate them
@@ -309,8 +297,7 @@
                         <ptr type="noteAnchor" xml:id="a49" target="#n49" n="49"/>. And
                   accordingly the saintly bishops<ptr type="noteAnchor" xml:id="a50" target="#n50" n="50"/>
                   assembled, and made the two blessed men who were with him bishops, one whose name
-                     <pb n="241"/>
-                        <pb n="587"/>was Conon in Tarsus a city of
+                     <pb type="vol" n="241"/><pb type="running" rend="brackets" n="587"/>was Conon in Tarsus a city of
                      <placeName>Cilicia</placeName>, and the other whose name was
                      <persName>Eugene</persName> in the city of <placeName>Seleucia</placeName>
                         <ptr type="noteAnchor" xml:id="a51" target="#n51" n="51"/>; and further for
@@ -338,8 +325,7 @@
                   from the city of <placeName>Thella</placeName>, who was residing in the royal
                      city<ptr type="noteAnchor" xml:id="a58" target="#n58" n="58"/>, and was illustrious for
                   religious learning; and<ptr type="noteAnchor" xml:id="a59" target="#n59" n="59"/>, having completed
-                  three years, he departed from the world. After a time he<ptr type="noteAnchor" xml:id="a60" target="#n60" n="60"/> ordained as his successor an Alexandrine whose <pb n="242"/>
-                        <pb n="588"/>name was <persName>Paul</persName>. And in
+                  three years, he departed from the world. After a time he<ptr type="noteAnchor" xml:id="a60" target="#n60" n="60"/> ordained as his successor an Alexandrine whose <pb type="vol" n="242"/><pb type="running" rend="brackets" n="588"/>name was <persName>Paul</persName>. And in
                      <placeName>Amida</placeName> he made a man whose name was
                      <persName>Eunomius</persName> from the city of <placeName>Amida</placeName>
                   metropolitan, who had been expelled with the clergy of the same
@@ -365,8 +351,7 @@
                      <persName>John</persName> at <placeName>Amida</placeName>; and for
                      <persName>Dara</persName> he made <persName>John</persName> bishop a divine man
                   from the monastery of <placeName>Karthamin</placeName>
-                        <ptr type="noteAnchor" xml:id="a65" target="#n65" n="65"/>. And in the whole <pb n="243"/>
-                        <pb n="589"/>world he
+                        <ptr type="noteAnchor" xml:id="a65" target="#n65" n="65"/>. And in the whole <pb type="vol" n="243"/><pb type="running" rend="brackets" n="589"/>world he
                   appointed eighty-seven<ptr type="noteAnchor" xml:id="a66" target="#n66" n="66"/> bishops, and two
                   patriarchs. And, being armed with divine strength, he would go out to his
                   ministry, and would pour out the priesthood over the countries of <placeName>the
@@ -390,8 +375,7 @@
                   called <placeName>Izla</placeName>
                         <ptr type="noteAnchor" xml:id="a72" target="#n72" n="72"/>; and
                   he went into a village called <placeName>Gumtha</placeName>
-                        <ptr type="noteAnchor" xml:id="a73" target="#n73" n="73"/>; and, while he was in the village, <pb n="244"/>
-                        <pb n="590"/>a certain Jewish<ptr type="noteAnchor" xml:id="a74" target="#n74" n="74"/> sorcerer was there,
+                        <ptr type="noteAnchor" xml:id="a73" target="#n73" n="73"/>; and, while he was in the village, <pb type="vol" n="244"/><pb type="running" rend="brackets" n="590"/>a certain Jewish<ptr type="noteAnchor" xml:id="a74" target="#n74" n="74"/> sorcerer was there,
                   who was deceiving the people by his sorceries. When the blessed man heard about
                   the same Jew<ptr type="noteAnchor" xml:id="a75" target="#n75" n="75"/>, he ordered them to bring
                   him before him; and, when he came, he spake and said to him <quote>Wherefore, O
@@ -410,8 +394,7 @@
                   astray in the heresy of <placeName>Chalcedon</placeName>; and he stayed there a
                   long time in order to correct them. But afterwards he came to the city of
                      <placeName>Edessa</placeName>; and, when the believers there had been refreshed
-                  by his words, then it happened that suddenly a son of a <pb n="245"/>
-                        <pb n="591"/>great family of the place whose name was <persName>Theodore</persName> died
+                  by his words, then it happened that suddenly a son of a <pb type="vol" n="245"/><pb type="running" rend="brackets" n="591"/>great family of the place whose name was <persName>Theodore</persName> died
                      suddenly<ptr type="noteAnchor" xml:id="a77" target="#n77" n="77"/> within his chamber; and he
                   caused much sorrow to the city by his death. And, when the blessed man heard the
                   wailings and weeping and sobbing, he asked those who were near and said,
@@ -430,8 +413,7 @@
                         </quote>. And, as the
                   saint spoke, that young man woke as if from sleep and stood up; and when his
                   parents and kinsmen asked him, <quote>How did it happen to you?</quote>, he said
-                  to them; <quote>A man of fire came upon me while I <pb n="246"/>
-                            <pb n="592"/>was
+                  to them; <quote>A man of fire came upon me while I <pb type="vol" n="246"/><pb type="running" rend="brackets" n="592"/>was
                      lying on my rug, and moved his hand and took my soul from me; and I saw this
                      saint, and two old monks, who were making request of God on my behalf; and the
                      man of fire was sent with them, to obey every order that they gave him.<ptr type="noteAnchor" xml:id="a80" target="#n80" n="80"/> But believe on this saint, and receive
@@ -447,8 +429,7 @@
                   entered that convent. And, when the members of that convent asked him, and say<ptr type="noteAnchor" xml:id="a82" target="#n82" n="82"/> to him, <quote>Our father, what is this
                      miracle of the sun?</quote>, then he answered, and said to them: <quote>Are you
                      so dull that you do not remember the words of our Lord who said, <quote>If
-                        there be in you faith as a <pb n="247"/>
-                                <pb n="593"/>grain of mustard, ye
+                        there be in you faith as a <pb type="vol" n="247"/><pb type="running" rend="brackets" n="593"/>grain of mustard, ye
                         shall tell this mountain to fall into the sea and it shall be
                         done</quote>
                             <ptr type="noteAnchor" xml:id="a83" target="#n83" n="83"/>?</quote> Afterwards he
@@ -469,8 +450,7 @@
                   prayer, that demon departed from her. And, whenever the proper policy was being
                   decided, he used to tell the victorious king all the actions that were going to he
                   enacted throughout the commonwealth (<foreign xml:lang="grc">πολιτεία</foreign>)
-                  of the <persName>Romans</persName>; <pb n="248"/>
-                        <pb n="594"/>so that in
+                  of the <persName>Romans</persName>; <pb type="vol" n="248"/><pb type="running" rend="brackets" n="594"/>so that in
                   consequence of his performance of miracles his fame was wafted to all quarters
                   like choice spices (<foreign xml:lang="grc">άρωμα</foreign>), and the victorious
                   kings of the <persName>Romans</persName> and of the <persName>Persians</persName>
@@ -487,8 +467,7 @@
                   which he wished<ptr type="noteAnchor" xml:id="a89" target="#n89" n="89"/>, without wearying; for he
                   never rode an animal in his life all the time of his activity. In<ptr type="noteAnchor" xml:id="a90" target="#n90" n="90"/> the days when he was staying in his
                   convent, a certain man among the citizens of <placeName>Thella</placeName> used to
-                  go up to the <pb n="249"/>
-                        <pb n="595"/>saint in religious discretion, that he
+                  go up to the <pb type="vol" n="249"/><pb type="running" rend="brackets" n="595"/>saint in religious discretion, that he
                   might be blessed by the blessed man and ask his prayers; and he had followed this
                   practice for a long time. But this man had a co-sponsor<ptr type="noteAnchor" xml:id="a91" target="#n91" n="91"/> who was a presbyter in the order (<foreign xml:lang="grc">τάγμα</foreign>) of the church. When then the presbyter saw his co-sponsor
                   going constantly to the blessed man, he said to him: <quote>Therefore do you
@@ -503,8 +482,7 @@
                   own presence; and, when they reached the door of his cell in the monastery, they
                   saw that a girl beautiful to look at came out from his presence merry and
                   laughing, and, when, that presbyter saw her, he said to his co-sponsor: <quote>See
-                     to whom you are urging me to come and <pb n="250"/>
-                            <pb n="596"/>be
+                     to whom you are urging me to come and <pb type="vol" n="250"/><pb type="running" rend="brackets" n="596"/>be
                      blessed</quote>; for he was scandalized. And on coming in to the blessed man,
                   and seeing no one with him they were both more scandalized, since they had seen a
                   woman coming out of his cell while he was alone. But the man who was constantly
@@ -521,8 +499,7 @@
                      <quote>We shall know her well.</quote> Then he ordered them to pray; and he
                   himself, having knelt down, continued entreating God, who wishes for the life of
                   men, by his secret power to force the fiend who had appeared to these men in the
-                  form of a woman to come and appear in the same guise (<foreign xml:lang="grc">σχήμα</foreign>) which they <pb n="251"/>
-                        <pb n="597"/>had seen. And suddenly
+                  form of a woman to come and appear in the same guise (<foreign xml:lang="grc">σχήμα</foreign>) which they <pb type="vol" n="251"/><pb type="running" rend="brackets" n="597"/>had seen. And suddenly
                   that woman stood among them, looking gloomy. And the blessed man asked them,
                      <quote>Is this the woman whom you saw?</quote> And they said, <quote>It is
                      certainly she.</quote> And, while they still supposed that it was a woman clad
@@ -541,8 +518,7 @@
                      sleep a little time on a mat also</quote>. And he said to him: <quote>If, my
                         son,<ptr type="noteAnchor" xml:id="a95" target="#n95" n="95"/> you request the angels to
                      sleep, you do rightly in requesting me. The holy armies cease not from
-                        praise<ptr type="noteAnchor" xml:id="a96" target="#n96" n="96"/>, and do <pb n="252"/>
-                            <pb n="598"/>you desire me to remain silent through sleep?</quote> (for he used
+                        praise<ptr type="noteAnchor" xml:id="a96" target="#n96" n="96"/>, and do <pb type="vol" n="252"/><pb type="running" rend="brackets" n="598"/>you desire me to remain silent through sleep?</quote> (for he used
                   not to sleep like men, but kept watch all his life; and, if he happened to fall
                   asleep, he would sleep a little time while sitting<ptr type="noteAnchor" xml:id="a97" target="#n97" n="97"/>). One<ptr type="noteAnchor" xml:id="a98" target="#n98" n="98"/> day a woman
                   from a village called <placeName>Theltha</placeName>
@@ -559,8 +535,7 @@
                   him; and, when they had spoken with him, he prayed and wept, and he placed his
                   head between his knees. And, while they were standing before him, the atmosphere
                      (<foreign xml:lang="grc">άήρ</foreign>) became dark, and the clouds poured rain
-                  upon the earth, for <pb n="253"/>
-                        <pb n="599"/>three days and three nights; and all
+                  upon the earth, for <pb type="vol" n="253"/><pb type="running" rend="brackets" n="599"/>three days and three nights; and all
                   the people praised God, and departed thence rejoicing. </ab>
                     <ab xml:id="section-59.8" n="8"> What shall I say about the multitude of miracles which
                   the bondman of God performed in creation? for he used to do mighty works like the
@@ -576,8 +551,7 @@
                   any, nor money or food to eat; and every day he would travel a stage (<foreign xml:lang="grc">μανσίων</foreign>) covered at a vigorous pace, while he would
                   not consent to the fast and severe abstinence being broken; so that men could not
                   travel with him for a number of days and minister to him more than a very short
-                     <pb n="254"/>
-                        <pb n="600"/>time; for they could not endure the hardship of his
+                     <pb type="vol" n="254"/><pb type="running" rend="brackets" n="600"/>time; for they could not endure the hardship of his
                   angelic mode of life. For he used to travel on foot like an active man<ptr type="noteAnchor" xml:id="a102" target="#n102" n="102"/>, and had no need to use an animal; and,
                   while he was strengthened by divine grace, his body also was sound by nature; but
                   he was dry like a stone<ptr type="noteAnchor" xml:id="a103" target="#n103" n="103"/>. However every
@@ -589,8 +563,7 @@
                      <persName>Justinian</persName> heard of it, he promised something great to
                   those who would bring<ptr type="noteAnchor" xml:id="a105" target="#n105" n="105"/> him to his
                   presence; and many men received three hundred darics each to<ptr type="noteAnchor" xml:id="a106" target="#n106" n="106"/> bring him; and they would seek him diligently on mountains
-                  and in deserts and in villages, while they did not find the bondman of God<ptr type="noteAnchor" xml:id="a107" target="#n107" n="107"/>; and he was pouring out the priesthood <pb n="255"/>
-                        <pb n="601"/>copiously in every district and city; so that, if anyone
+                  and in deserts and in villages, while they did not find the bondman of God<ptr type="noteAnchor" xml:id="a107" target="#n107" n="107"/>; and he was pouring out the priesthood <pb type="vol" n="255"/><pb type="running" rend="brackets" n="601"/>copiously in every district and city; so that, if anyone
                   say that a hundred thousand priests were ordained by him, I do not think he will
                   stray from the truth. But he raised up the faith of the church that had almost
                   disappeared, and he contended powerfully against heresy, and lifted up the head of
@@ -608,8 +581,7 @@
                   and village and convent of monks used to repeat <quote>
                             <persName>James</persName>,
                         <persName>James</persName>
-                        </quote>; and, if the merciful<ptr type="noteAnchor" xml:id="a110" target="#n110" n="110"/> God <pb n="256"/>
-                        <pb n="602"/>had not had
+                        </quote>; and, if the merciful<ptr type="noteAnchor" xml:id="a110" target="#n110" n="110"/> God <pb type="vol" n="256"/><pb type="running" rend="brackets" n="602"/>had not had
                   pity on his church and raised him up in it, it would almost have disappeared. For
                   he stood up and preserved the faith of the apostles which was handed down by
                      <persName>James</persName> the first bishop of
@@ -638,8 +610,7 @@
                      <persName>Theodosians</persName>, and the <persName>Syrians</persName>
                         <persName>Jacobites</persName>
                         <ptr type="noteAnchor" xml:id="a114" target="#n114" n="114"/>. And the
-                  blessed man by his manner of life and by his innocence, <pb n="257"/>
-                        <pb n="603"/>and by his keen zeal against the enemies, and great contests (<foreign xml:lang="grc">άγών</foreign>) endured from his boyhood and down to his old age
+                  blessed man by his manner of life and by his innocence, <pb type="vol" n="257"/><pb type="running" rend="brackets" n="603"/>and by his keen zeal against the enemies, and great contests (<foreign xml:lang="grc">άγών</foreign>) endured from his boyhood and down to his old age
                   showed himself a cherisher and upholder of the faith, and a worker of divine
                   miracles. Once, when he was secretly travelling to <placeName>Mt.
                      Sinai</placeName> in order to visit the saints, with one of his disciples to
@@ -656,8 +627,7 @@
                   little watercourse that was near them; and he went down on his knees, and offered
                   supplication to the merciful<ptr type="noteAnchor" xml:id="a117" target="#n117" n="117"/> God, and as
                   the old man spoke that place shot out a spring of water. Then he called his
-                  disciple and said: <quote>Drink and satisfy your<pb n="258"/>
-                            <pb n="604"/>self out
+                  disciple and said: <quote>Drink and satisfy your<pb type="vol" n="258"/><pb type="running" rend="brackets" n="604"/>self out
                      of the gift of our God</quote>
                         <ptr type="noteAnchor" xml:id="a118" target="#n118" n="118"/>. And he
                   drank and was strengthened. And they travelled on thanking God for his kindness. </ab>
@@ -674,8 +644,7 @@
                   her, and took hold of her hand and said: <quote>May our Lord<ptr type="noteAnchor" xml:id="a123" target="#n123" n="123"/>
                             <persName>Jesus Christ</persName> heal you my daughter</quote>; and immediately
                   she was cured<ptr type="noteAnchor" xml:id="a124" target="#n124" n="124"/>, and went into the church.
-                     <pb n="259"/>
-                        <pb n="605"/>And having entered the church he consecrated it in
+                     <pb type="vol" n="259"/><pb type="running" rend="brackets" n="605"/>And having entered the church he consecrated it in
                   the customary way. And to many who were in the congregation God showed a miracle;
                   for, while he was standing in the holy place, they saw<ptr type="noteAnchor" xml:id="a125" target="#n125" n="125"/> hosts of angels who were dancing and uttering praise within
                   the sanctuary and rejoicing in a song of praise. And after consecrating the church
@@ -691,8 +660,7 @@
                         <ptr type="noteAnchor" xml:id="a127" target="#n127" n="127"/> and <placeName>Amida</placeName> and
                      <placeName>Maiferkat</placeName>, raging madness and blindness of heart, and
                   the population became possessed by demons, except a few, but especially at
-                     <placeName>Amida</placeName>. Men wailed and jumped, and were <pb n="260"/>
-                        <pb n="606"/>mad and ran as if horsemen were riding after them; and they barked
+                     <placeName>Amida</placeName>. Men wailed and jumped, and were <pb type="vol" n="260"/><pb type="running" rend="brackets" n="606"/>mad and ran as if horsemen were riding after them; and they barked
                   like dogs, and howled; and in their madness they bit their flesh; and, while at
                      <placeName>Maiferkat</placeName> and at <persName>Charrhae</persName> and at
                      <placeName>Edessa</placeName> it was a small matter, in the city of
@@ -707,8 +675,7 @@
                      father; only deliver us from this grievous infliction</quote>. And he granted
                   their request, and rose and went to the city of <placeName>Amida</placeName>. But,
                   when he entered<ptr type="noteAnchor" xml:id="a129" target="#n129" n="129"/> the city, those who had
-                  gone mad began to run away from the sight of him and seek refuge under <pb n="261"/>
-                        <pb n="607"/>walls; and having gone into the inside of the church he brought
+                  gone mad began to run away from the sight of him and seek refuge under <pb type="vol" n="261"/><pb type="running" rend="brackets" n="607"/>walls; and having gone into the inside of the church he brought
                   incense and set it before the altar; and he ordered them to carry it over all the
                   streets of their city and the houses, and on the walls of the city all round; and
                   the day was the first day of the week. But, after he had offered the oblation and
@@ -723,8 +690,7 @@
                   several days. And so he left the city with high reputation<ptr type="noteAnchor" xml:id="a133" target="#n133" n="133"/>, while all the multitudes praised God the lover of mankind;
                   and he went to <placeName>Maiferkat</placeName> and to
                      <placeName>Thella</placeName> and to <placeName>Edessa</placeName>, and to
-                     <persName>Charrhae</persName>; and he visited them in the same <pb n="262"/>
-                        <pb n="608"/>way; for there was not<ptr type="noteAnchor" xml:id="a134" target="#n134" n="134"/> a dead
+                     <persName>Charrhae</persName>; and he visited them in the same <pb type="vol" n="262"/><pb type="running" rend="brackets" n="608"/>way; for there was not<ptr type="noteAnchor" xml:id="a134" target="#n134" n="134"/> a dead
                   man among those who had been afflicted. And he came and went into his monastery
                   for a few days; and one night he called the<ptr type="noteAnchor" xml:id="a135" target="#n135" n="135"/> blessed men the members of his convent, and said to them <quote>My fathers and
                      my brothers, let us sorrow for the Lord's people, since it has been bereft of
@@ -744,8 +710,7 @@
                   encamped against it to take it, and, when he was unable to do so<ptr type="noteAnchor" xml:id="a138" target="#n138" n="138"/>, of craft in destruction whose name was
                   Cometas, a spy, who used to teach <persName>Khosrau</persName> all kinds of evil
                   plans against <placeName>Syria</placeName>
-                        <ptr type="noteAnchor" xml:id="a139" target="#n139" n="139"/>, advised him to order his <pb n="263"/>
-                        <pb n="609"/>forces to build houses<ptr type="noteAnchor" xml:id="a140" target="#n140" n="140"/> against the city and to reduce it to
+                        <ptr type="noteAnchor" xml:id="a139" target="#n139" n="139"/>, advised him to order his <pb type="vol" n="263"/><pb type="running" rend="brackets" n="609"/>forces to build houses<ptr type="noteAnchor" xml:id="a140" target="#n140" n="140"/> against the city and to reduce it to
                   straits as he actually did<ptr type="noteAnchor" xml:id="a141" target="#n141" n="141"/>. But, when the
                   citizens heard of this contrivance, they were running to the same holy
                      <persName>James</persName>; for he<ptr type="noteAnchor" xml:id="a142" target="#n142" n="142"/> had
@@ -761,8 +726,7 @@
                   horses of fire, and horsemen<ptr type="noteAnchor" xml:id="a147" target="#n147" n="147"/> clad in
                   flame saying to him: <quote>Rise depart from our city; and, if also you have not
                      done so when the sun rises, we will slay you and all your army</quote>. And,
-                  when this vision had appeared to <persName>Khosrau</persName>, a stern. <pb n="264"/>
-                        <pb n="610"/>voice cried<ptr type="noteAnchor" xml:id="a148" target="#n148" n="148"/> and
+                  when this vision had appeared to <persName>Khosrau</persName>, a stern. <pb type="vol" n="264"/><pb type="running" rend="brackets" n="610"/>voice cried<ptr type="noteAnchor" xml:id="a148" target="#n148" n="148"/> and
                   alarmed his forces and they retired from the city in great fear<ptr type="noteAnchor" xml:id="a149" target="#n149" n="149"/>. Then the saint's word was being carried
                   into effect, and the Lord saved that city by his prayers. Now there was in the
                   same city among the distinguished men a certain blind man; and he heard of the
@@ -778,8 +742,7 @@
                      Only one, in thy name may the pupils of this thy bondman see light</quote>. And
                   the same hour that blind man saw; and the multitudes marvelled, and they praised
                   God and continued saying: <quote>Truly this is a divine man</quote>
-                        <ptr type="noteAnchor" xml:id="a151" target="#n151" n="151"/>. And he left the city and went to <pb n="265"/>
-                        <pb n="611"/>greet the blessed men of the divine convent of Bar
+                        <ptr type="noteAnchor" xml:id="a151" target="#n151" n="151"/>. And he left the city and went to <pb type="vol" n="265"/><pb type="running" rend="brackets" n="611"/>greet the blessed men of the divine convent of Bar
                      <persName>Aphthonia</persName>
                         <ptr type="noteAnchor" xml:id="a152" target="#n152" n="152"/>; for he
                   loved it greatly on account of its virtues; and, having entered the convent, he
@@ -796,8 +759,7 @@
                   news of the gospel (<foreign xml:lang="grc">εύαγγέλλιον</foreign>) to near and
                   far. Having appeared in the world like the great <persName>Paul</persName>, and
                   completed his ministry, and perfectly kept the faith<ptr type="noteAnchor" xml:id="a157" target="#n157" n="157"/>, he assisted God's church for a space of forty years. Having
-                     <pb n="266"/>
-                        <pb n="612"/>received ordination during the years of
+                     <pb type="vol" n="266"/><pb type="running" rend="brackets" n="612"/>received ordination during the years of
                      <persName>Justinian</persName> king of the <persName>Romans</persName>, he was
                      living<ptr type="noteAnchor" xml:id="a158" target="#n158" n="158"/> down to the years of Tiberius
                   the king the successor of <persName>Justin</persName>
@@ -819,8 +781,7 @@
                         <ptr type="noteAnchor" xml:id="a165" target="#n165" n="165"/>. And, when they had gone into the
                   monastery and put up<ptr type="noteAnchor" xml:id="a166" target="#n166" n="166"/> and prayed, the
                   saint spoke and said to those with him: <quote>Pray, my brothers, since the Lord
-                     showed me that here I and three of you will depart <pb n="267"/>
-                            <pb n="613"/>from the life of time</quote>. And after he had said these words at daybreak
+                     showed me that here I and three of you will depart <pb type="vol" n="267"/><pb type="running" rend="brackets" n="613"/>from the life of time</quote>. And after he had said these words at daybreak
                   one of the bishops who were with him died, who was formerly archimandrite of the
                   convent of <placeName>Karthamin</placeName>
                         <ptr type="noteAnchor" xml:id="a167" target="#n167" n="167"/>; and the holy old man stood up and<ptr type="noteAnchor" xml:id="a168" target="#n168" n="168"/>
@@ -838,8 +799,7 @@
                   possession of him<ptr type="noteAnchor" xml:id="a174" target="#n174" n="174"/> with great honour. Then
                   the whole of <placeName>Syria</placeName> sorrowed over the old man's death; and
                   many came to his monastery and were visited. And the people of the<ptr type="noteAnchor" xml:id="a175" target="#n175" n="175"/> city of <placeName>Thella</placeName> also
-                  suffered many distresses <pb n="268"/>
-                        <pb n="614"/>at being deprived of the
+                  suffered many distresses <pb type="vol" n="268"/><pb type="running" rend="brackets" n="614"/>at being deprived of the
                   saint's bones; and so they were always asking for his prayers; and the power of
                   God would visit them; to whom be glory and honour and worship, for ever and ever.
                   Amen! </ab>

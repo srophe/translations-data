@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -72,8 +72,7 @@
                   had arisen upon the see of <persName>Peter</persName> the great<ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/>, <persName>Phocas</persName> king of the
                      <persName>Romans</persName> again expelled the orthodox (<foreign xml:lang="grc">όρθόδοξοι</foreign>) bishops from their sees and appointed
                      heretics<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/>, but by the judgments of God
-                  the Persian king Khosrau <pb n="269"/>
-                        <pb n="615"/>son of
+                  the Persian king Khosrau <pb type="vol" n="269"/><pb type="running" rend="brackets" n="615"/>son of
                      <persName>Hormizd</persName> came and took all the country east of the
                      <placeName>Euphrates</placeName> in war<ptr type="noteAnchor" xml:id="a6" target="#n6" n="6"/>; and by God's provision and queen <persName>Shirin</persName>'s advice he<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> expelled the bishops of
                      <placeName>Chalcedon</placeName> from the cities east of the
@@ -96,8 +95,7 @@
                   the <persName>Romans</persName>
                         <ptr type="noteAnchor" xml:id="a11" target="#n11" n="11"/> came, and
                   took all the country east of the <placeName>Euphrates</placeName>, and drove the
-                     <persName>Persians</persName> as far as <pb n="270"/>
-                        <pb n="616"/>
+                     <persName>Persians</persName> as far as <pb type="vol" n="270"/><pb type="running" rend="brackets" n="616"/>
                         <placeName>Nisibis</placeName> which is on the frontier<ptr type="noteAnchor" xml:id="a12" target="#n12" n="12"/>. And<ptr type="noteAnchor" xml:id="a13" target="#n13" n="13"/> the members of
                   the monastery went in the days of the devout Mar <persName>Stephen</persName> who
                   was termed Shbiliya<ptr type="noteAnchor" xml:id="a14" target="#n14" n="14"/>; and, having gone and
@@ -113,8 +111,7 @@
                   set up a wail being possessed by a demon<ptr type="noteAnchor" xml:id="a19" target="#n19" n="19"/>
                   and foaming and went out of his mind<ptr type="noteAnchor" xml:id="a20" target="#n20" n="20"/>. And
                   his companions began to be distressed and weep; and in sorrow they went on to
-                  fasten their companion to the sarcophagus of the <pb n="271"/>
-                        <pb n="617"/>holy
+                  fasten their companion to the sarcophagus of the <pb type="vol" n="271"/><pb type="running" rend="brackets" n="617"/>holy
                   Mar <persName>James</persName>, in order that he might learn how<ptr type="noteAnchor" xml:id="a21" target="#n21" n="21"/> to steal that holy body, while his
                   companions on his account slept<ptr type="noteAnchor" xml:id="a22" target="#n22" n="22"/> with him
                   close by the sarcophagus itself. But during the night they would bore, and in the
@@ -132,8 +129,7 @@
                   Mar <persName>James</persName>, and wrapped it in silk shrouds, and came on the
                   swift animal to their companions in <placeName>Palestine</placeName> according to
                   the agreement that they had made with one another. </ab>
-                    <pb n="272"/>
-                    <pb n="618"/>
+                    <pb type="vol" n="272"/><pb type="running" rend="brackets" n="618"/>
                     <ab xml:id="section-60.2" n="2"> But the blessed men the members of the monastery of
                      <placeName>Casium</placeName>, when they rose in the morning and saw that the
                   saint's body had been taken away, lifted up their voice in weeping and in sobs;
@@ -148,8 +144,7 @@
                   And then they<ptr type="noteAnchor" xml:id="a30" target="#n30" n="30"/> wrapped it round and laid
                   it in his monastery, the convent of <placeName>Fsiltha</placeName>, in the temple
                   which the saint had built in his lifetime<ptr type="noteAnchor" xml:id="a31" target="#n31" n="31"/>, and it is there for the assistance and healing of all men<ptr type="noteAnchor" xml:id="a32" target="#n32" n="32"/>, and for the honour and praise of Christ
-                     his<ptr type="noteAnchor" xml:id="a33" target="#n33" n="33"/> God; <pb n="273"/>
-                        <pb n="619"/>to
+                     his<ptr type="noteAnchor" xml:id="a33" target="#n33" n="33"/> God; <pb type="vol" n="273"/><pb type="running" rend="brackets" n="619"/>to
                   whom and to his Father with his<ptr type="noteAnchor" xml:id="a34" target="#n34" n="34"/> Holy
                   Spirit be praise and honour and worship and exaltation, now and always and<ptr type="noteAnchor" xml:id="a35" target="#n35" n="35"/> for ever and ever. Amen! </ab>
                 </div>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -76,8 +76,7 @@
                   birth (<foreign xml:lang="grc">γένος</foreign>) from <placeName ref="http://syriaca.org/place/2758">Anzetene</placeName>,<ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/> and received training from a blessed great man of God,
                   who himself also was named <persName ref="http://syriaca.org/person/1876">Mari</persName>, a man of labours and a <persName>Nazirite</persName>, besides
                   being also versed in the Scriptures and a doctor, and was at first a clergyman of
-                  the church also, but at last, <pb n="656"/>
-                  <pb n="454"/>seeing his error and the
+                  the church also, but at last, <pb type="vol" n="656"/><pb type="running" rend="brackets" n="454"/>seeing his error and the
                   course of the world's times, left all his property, and went out and sought for
                   himself a monastery outside his village, the name of which was <placeName ref="http://syriaca.org/place/2794">Hula</placeName> (<foreign xml:lang="grc">ύλη?</foreign>); so that he himself also was called <persName ref="http://syriaca.org/person/1876">Mari</persName> of <placeName ref="http://syriaca.org/place/2794">Hula</placeName>; and thus he mortified
                   himself by mighty labours, asceticism and self-abnegation, and much watching, and
@@ -93,8 +92,7 @@
                   enfeebled from the severity of the labours; and he also lived a considerable time
                   in the convent with us both in the east and in the west. And after his master's
                   decease he himself with other disciples was thenceforth gaining distinction, so
-                  that he also endured <pb n="657"/>
-                  <pb n="455"/>much persecution; who also in the
+                  that he also endured <pb type="vol" n="657"/><pb type="running" rend="brackets" n="455"/>much persecution; who also in the
                   persecution came to the same <placeName ref="http://syriaca.org/place/586">royal
                      city</placeName>, and afterwards ended his course here in the <placeName ref="http://syriaca.org/place/586">royal city</placeName>. </ab>
                <ab xml:id="section-42.2" n="2"> This blessed <persName ref="http://syriaca.org/person/2070">Sergius</persName> was archimandrite of
@@ -112,8 +110,7 @@
                   convent, together with all the other many blessed men, monks and laymen, many
                   excellent men who are not recorded, whose bodies were interred in the same place;
                   through whose prayers with those of all the saints may God grant us all
-                  forgiveness <pb n="658"/>
-                  <pb n="456"/>of since with them, and stablish this
+                  forgiveness <pb type="vol" n="658"/><pb type="running" rend="brackets" n="456"/>of since with them, and stablish this
                   convent which received their coffins with all the other holy convents to his glory
                   for ever and ever. Amen! </ab>
             </div>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -84,8 +84,7 @@
                   watching and manual work, men who had been accustomed to a high and luxurious
                   life, who suddenly came to abstinence and the other labours, so much so that all
                   the inmates of that convent great and small used to marvel at them, and were
-                  astonished at their type of life and sorrow and <pb n="198"/>
-                  <pb n="544"/>tears,
+                  astonished at their type of life and sorrow and <pb type="vol" n="198"/><pb type="running" rend="brackets" n="544"/>tears,
                   and their humility and obedience; so that at the time when we came to <placeName ref="http://syriaca.org/place/572">Alexandria</placeName>
                   <ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> we went to that convent to see them for the sake of
                   the blessed men themselves, inasmuch as we were acquainted with them, and moreover
@@ -103,8 +102,7 @@
                   pure life, so that all that city used to marvel at them and at their practices.
                   They therefore used to write and worry the blessed <persName ref="http://syriaca.org/person/2011">Peter</persName> to come and visit them
                   and encourage them, and let them be consoled and comforted by one another, which
-                  the blessed man was also constrained to do, not for the sake of bodily <pb n="199"/>
-                  <pb n="545"/>relationship, but because he knew that they were spiritual
+                  the blessed man was also constrained to do, not for the sake of bodily <pb type="vol" n="199"/><pb type="running" rend="brackets" n="545"/>relationship, but because he knew that they were spiritual
                   persons in manner of life. But, when he had come and seen them and comforted them,
                   he set his face to return to his monastery, and they would not let him, weeping
                   and adjuring him by the living God not to leave them; and thus he was constrained

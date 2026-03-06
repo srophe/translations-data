@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -78,8 +78,7 @@
                   approach the task of compiling histories concerning their ways of life and
                   their brave triumphs and the characters of their good deeds, that, we
                   may draw, though obscurely, by means the vile and common pigments of
-                  <pb n="2"/>
-                  <pb n="2"/>our poor words, the pattern of their likenesses for posterity, [and] leave it
+                  <pb type="vol" n="2"/><pb type="running" rend="brackets" n="2"/>our poor words, the pattern of their likenesses for posterity, [and] leave it
                   in the memorial of our writings; so that, when they read and see their good
                   deeds and marvellous ways of life, by this means we opine that two beneficial 
                   results will be produced, one that when they see their good deeds
@@ -98,8 +97,7 @@
                   that I have seen and known and clearly learned in heroic and divine persons,
                   and I am confident of bearing true witness without fear and without hesitation; 
                   having first formed this resolution in my mind, that, though I hear
-                  <pb n="3"/>
-                  <pb n="3"/>that a few days ago and now also there have been and indeed are in the
+                  <pb type="vol" n="3"/><pb type="running" rend="brackets" n="3"/>that a few days ago and now also there have been and indeed are in the
                   districts round us heroic and brave men, for my rart except those of whom
                   I have been an eye-witness in every one of their actions for a long time and<ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/>
                   a witness of the truth of them I will in no case commit any the of to the
@@ -114,8 +112,7 @@
                   signs, to another beauty of heart and purity, to another ready sorrow and
                   copious tears, to another self-denial and perfect pilgrim life, in addition
                   to the other distributions of gifts, consisting in the beauties that each
-                  one of them severally used to depict upon his person. These marvel<pb n="4"/>
-                  <pb n="4"/>lous and 
+                  one of them severally used to depict upon his person. These marvel<pb type="vol" n="4"/><pb type="running" rend="brackets" n="4"/>lous and 
                   divine beauties therefore I have set myself to bring to the
                   record of narratives, while the spiritual beauties and great triumphs 
                   themselves, without the interposition of elegant language, are related by their

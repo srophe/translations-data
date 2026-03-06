@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -73,8 +73,7 @@
                   Who Despised the World and All That Is in It and Lived a Holy Life in It in
                   Poverty of Spirit in an Assumed Garb (<foreign xml:lang="grc">σχήμα</foreign>)</head>
                     <ab xml:id="section-52.1" n="1"> It did not seem to be a right thing to withhold this
-                  spiritual traffic also <pb n="165"/>
-                        <pb n="511"/>besides and the great abundance
+                  spiritual traffic also <pb type="vol" n="165"/><pb type="running" rend="brackets" n="511"/>besides and the great abundance
                   of massed profits which spring from many persons to all who are desirous of the
                   good traffic that is concerned with their lives and rejoice in the double
                   spiritual profits which will arise from the persons (<foreign xml:lang="grc">πρόσωπον</foreign>) whose marvellous likenesses we are about though obscurely
@@ -90,8 +89,7 @@
                      (<foreign xml:lang="grc">σχήμα</foreign>) of a clergymnn, and his name was
                      <persName ref="http://syriaca.org/person/3225">John</persName>. This man
                   therefore during the whole of the residence with us in the royal city<ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/> we always saw shedding copious tears
-                  and sobbing, so that, when we questioned him closely as to the reason of these <pb n="166"/>
-                        <pb n="512"/>things, and especially with adjurations, he would weep
+                  and sobbing, so that, when we questioned him closely as to the reason of these <pb type="vol" n="166"/><pb type="running" rend="brackets" n="512"/>things, and especially with adjurations, he would weep
                   bitterly, saying, <quote>What have I to say to you? for I, unhappy man that I am,
                      suffered a spiritual loss, and to-day it is now a space of seven years that I
                      have been going out and going round the peoples and the countries and the
@@ -110,8 +108,7 @@
                      comely and marvellous accompanied him in the garb (<foreign xml:lang="grc">σχήμα</foreign>) of a courtezan (<foreign xml:lang="grc">πόρνη</foreign>),
                      and they used to go about the city in that assumed garb (<foreign xml:lang="grc">σχήμα</foreign>) in order to deceive the spectators, lest
                      anyone should perceive and know what they were, and they used constantly to
-                     perform <pb n="167"/>
-                            <pb n="513"/>drolleries (<foreign xml:lang="grc">παιγνίδια</foreign>) and buffooneries, being constantly in the courts of
+                     perform <pb type="vol" n="167"/><pb type="running" rend="brackets" n="513"/>drolleries (<foreign xml:lang="grc">παιγνίδια</foreign>) and buffooneries, being constantly in the courts of
                      the church like strangers, jesting at the clergymen and everyone, and being
                      boxed on their heads by everyone as mime-actors (<foreign xml:lang="grc">μίμος</foreign>), while at all hours of the day a large number of people
                      surrounded them, chiefly on account of their marvellous appearance, and the
@@ -127,8 +124,7 @@
                      the street, which he indeed did immediately, and he sent and seized her to
                      force her to stand in the street, so that when the man dressed like a
                      mime-actor (<foreign xml:lang="grc">μίμος</foreign>) who was with her saw it he
-                     wailed <pb n="168"/>
-                            <pb n="514"/>with a loud voice, and ran crying <quote>She
+                     wailed <pb type="vol" n="168"/><pb type="running" rend="brackets" n="514"/>with a loud voice, and ran crying <quote>She
                         is my wife, and I do not wish her to stand in the street</quote>. But a
                      great and distinguished devout and God-fearing woman whose name was <persName ref="http://syriaca.org/person/3202">Cosmo</persName>
                             <ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/> on learning it was distressed, and she seut and
@@ -149,8 +145,7 @@
                   (the blessed <persName ref="http://syriaca.org/person/3225">John</persName> would
                   say), <quote>and no one succeeded in discovering or learning the resting-place
                      where they slept at nights, I myself as if by the grace of God discovered it by
-                     my reasonings, inasmuch as I reasoned <quote>These <pb n="169"/>
-                                <pb n="515"/>persons who in garb (<foreign xml:lang="grc">σχήμα</foreign>) appear to he
+                     my reasonings, inasmuch as I reasoned <quote>These <pb type="vol" n="169"/><pb type="running" rend="brackets" n="515"/>persons who in garb (<foreign xml:lang="grc">σχήμα</foreign>) appear to he
                         mime-actors (<foreign xml:lang="grc">μίμος</foreign>) are in actions
                         spiritual persons</quote>, and from that time I began to observe them, and
                      at evening time I posted myself behind them, keeping close opposite to them,
@@ -166,8 +161,7 @@
                      their arms to heaven prayer in the form of a cross, and after a time they fell
                      upon their faces in prayer, and they stood up and again fell upon their faces
                      in prayer, and they stood up again and fell down and they went through the same
-                     form for <pb n="170"/>
-                            <pb n="516"/>a long time, and afterwards they sat down to
+                     form for <pb type="vol" n="170"/><pb type="running" rend="brackets" n="516"/>a long time, and afterwards they sat down to
                      rest, and thus I on my part ran and fell on my face before them, adjuring them
                      by God the All-Ruler not to hide from me the truth as to what and whence they
                      were. And they on their side were alarmed and very greatly annoyed, saying,
@@ -183,8 +177,7 @@
                         brother has found us out, because perhaps the Lord wished it so, since he
                         himself also has regard to his life together with his sister, for it is
                         twenty-four years that they have been living together, and he is supposed to
-                        have taken her to wife, but both have been preserved <pb n="171"/>
-                                <pb n="517"/>in the purity and holiness of virginity to the present time,
+                        have taken her to wife, but both have been preserved <pb type="vol" n="171"/><pb type="running" rend="brackets" n="517"/>in the purity and holiness of virginity to the present time,
                         therefore speak with him, and be under no restraint</quote>. But I on
                      hearing these things was the more frightened and alarmed, and I knew that they
                      were in truth great spiritual persons and knowers of secrets. But the blessed
@@ -201,8 +194,7 @@
                      down from that place, saying, <quote>Depart and go down, our brother, for we
                         also are going down while it is dark, lest anyone perceive or recognise
                         us</quote>. And so I begged them to allow me to go up to them by night
-                     without <pb n="172"/>
-                            <pb n="518"/>restraint; and, having strictly cautioned me,
+                     without <pb type="vol" n="172"/><pb type="running" rend="brackets" n="518"/>restraint; and, having strictly cautioned me,
                      they gave me permission. And so I went down from them, in fear and in great
                      joy, as they too went down to the court of the church, and when day broke they
                      were to be seen acting mimes before everyone. But on the second night I waited
@@ -221,8 +213,7 @@
                            (<foreign xml:lang="grc">σχήμα</foreign>) hear for your edification and
                         for God's glory. When I <persName ref="http://syriaca.org/person/2121">Theophilus</persName> the sinner was a little lad of about fifteen
                         years, I was ordered by my father to take five horses and some slaves, and
-                        go out to the village before daylight. And, when I on my side <pb n="173"/>
-                                <pb n="519"/>had risen during the night to go down to our stable
+                        go out to the village before daylight. And, when I on my side <pb type="vol" n="173"/><pb type="running" rend="brackets" n="519"/>had risen during the night to go down to our stable
                            (<foreign xml:lang="grc">στάβλον</foreign>) in which were many horses to
                         take some and go out as I had been ordered, and when I had arrived at the
                         door, I looked and saw alarming rays of light coming out from the chinks of
@@ -239,8 +230,7 @@
                         had already buried himself, since he was in fact naked, and was clad in rags
                         only, and he had begged the stablemen (<foreign xml:lang="grc">σταβλάριος</foreign>) on account of the severity (<foreign xml:lang="grc">άνάγκη</foreign>) of the cold of winter that he might come
                         in and bury himself in the horses' dung, in order that he might warm himself
-                        in it and <pb n="174"/>
-                                <pb n="520"/>sleep. But, when he heard our voice,
+                        in it and <pb type="vol" n="174"/><pb type="running" rend="brackets" n="520"/>sleep. But, when he heard our voice,
                         mine and that of the slaves, and threw himself down and drew in his hands,
                         then that great light was obscured, and darkness fell over the whole
                         building. And, the stablemen (<foreign xml:lang="grc">σταβλάριος</foreign>)
@@ -258,8 +248,7 @@
                            truth</quote>, and when I continued to press him greatly and he saw that
                         I would not leave his feet he said to me, <quote>Dismiss your slaves and let
                            them withdraw and I will speak with you</quote>. And, when I had
-                        dismissed the slaves and the stablemen (<foreign xml:lang="grc">σταβλάριος</foreign>) telling them to go outside, he began <pb n="175"/>
-                                <pb n="521"/>to say, <quote>What, my son, did you see in me that you
+                        dismissed the slaves and the stablemen (<foreign xml:lang="grc">σταβλάριος</foreign>) telling them to go outside, he began <pb type="vol" n="175"/><pb type="running" rend="brackets" n="521"/>to say, <quote>What, my son, did you see in me that you
                            were so insistent with me? And I said to him, <quote>A vision of rays of
                               fire proceeding from your mouth while you were praying</quote>. He on
                            his side said to me, <quote>It is not my son, who am anything of this
@@ -280,8 +269,7 @@
                               as you see me for no small number of years. And now, my son, hear from
                               me myself the poor man, and know what is in store for you. Lo! you are
                               the only child of your parents, and they betrothed a bride to you who
-                              is also the only child of her parents. Know <pb n="176"/>
-                                        <pb n="522"/>therefore that during this year the parents of both of you will die,
+                              is also the only child of her parents. Know <pb type="vol" n="176"/><pb type="running" rend="brackets" n="522"/>therefore that during this year the parents of both of you will die,
                               and both the properties (<foreign xml:lang="grc">ούσίας</foreign>)
                               will fall into your hands; and, if you wish to live a religious life
                               and without care and the ruin of sins which much real and personal
@@ -301,8 +289,7 @@
                               the appearance (<foreign xml:lang="grc">πρόσωπον</foreign>) of any
                               respect, or show that you have any regard for me, and leave me as I
                               am, that I may sleep in this dung, and are not constantly speaking
-                              with me or approaching <pb n="177"/>
-                                        <pb n="523"/>me before onlookers,
+                              with me or approaching <pb type="vol" n="177"/><pb type="running" rend="brackets" n="523"/>me before onlookers,
                               you shall see me as long as you observe these things. But, if you
                               practise any of these things toward me, you will not see me again in
                               this life.</quote> And so I used to observe times, and make obeisance
@@ -319,8 +306,7 @@
                            words of our holy father <persName ref="http://syriaca.org/person/3247">Procopius</persName>, that, as long as you keep faith with us, and do
                            not look upon us before men except in the guise (<foreign xml:lang="grc">σχήμα</foreign>) of mime-actors (<foreign xml:lang="grc">μίμος</foreign>), under which we are concealing our traffic, lo! we
                            shall be in this city and you shall see us, but, if you show any other
-                           behaviour toward us, know that you have been deprived of the <pb n="178"/>
-                                    <pb n="524"/>sight of us in the body</quote>, which indeed
+                           behaviour toward us, know that you have been deprived of the <pb type="vol" n="178"/><pb type="running" rend="brackets" n="524"/>sight of us in the body</quote>, which indeed
                         happened.</quote>
                         </quote>
                         <!-- The 2nd close quote not in Brooks but required by the sense -->
@@ -337,8 +323,7 @@
                   the desert of <placeName ref="http://syriaca.org/place/715">Egypt</placeName>,<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> gained the privilege of seeing them,
                   and of passing a night with them<ptr type="noteAnchor" xml:id="a8" target="#n8" n="8"/>
                   outside the city of <placeName ref="http://syriaca.org/place/200">Thella</placeName>Thella,<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/> and
-                  we enjoyed their holy conversation, while that young woman also said to us <pb n="179"/>
-                        <pb n="525"/>three times, <quote>Fear not for the Lord is with you
+                  we enjoyed their holy conversation, while that young woman also said to us <pb type="vol" n="179"/><pb type="running" rend="brackets" n="525"/>three times, <quote>Fear not for the Lord is with you
                      wherever you go</quote>, and thus we departed from one another. </ab>
                 </div>
                 <div type="trailer" xml:id="trailer-52">

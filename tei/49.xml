@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -79,8 +79,7 @@
                   beauties. This saint therefore and veritable man of God from his boyhood, while he
                   also was by his birth (<foreign xml:lang="grc">γένος</foreign>) from <placeName ref="http://syriaca.org/place/200">Thella</placeName>,<ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/> was trained in the celebrated convent of the monastery
                   called that of Fsiltha,<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/> but some
-                  cause <pb n="691"/>
-                        <pb n="489"/>summoned him together with the blessed <persName ref="http://syriaca.org/person/3258">Sergius</persName> whom we mentioned
+                  cause <pb type="vol" n="691"/><pb type="running" rend="brackets" n="489"/>summoned him together with the blessed <persName ref="http://syriaca.org/person/3258">Sergius</persName> whom we mentioned
                      above,<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> who also attained the
                   honour of the high-priesthood through the blessed <persName ref="http://syriaca.org/person/69">James</persName>, with him first to go up to
                   the royal city on account of the faith.<ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/> And, when they had been received with great honour by the believing
@@ -95,8 +94,7 @@
                   short of the standard of his retirement and his severe practices, on account of
                   the communications brought by many who used to come to them and with whom he was
                   required to speak; but the blessed <persName ref="http://syriaca.org/person/69">James</persName> entirely refused to take part in these things, and refused
-                  also to appear during the <pb n="692"/>
-                        <pb n="490"/>day outside his cell. But,
+                  also to appear during the <pb type="vol" n="692"/><pb type="running" rend="brackets" n="490"/>day outside his cell. But,
                   when he had been engaged for a period of about fifteen years in these labours in
                   the same royal city in his cell, then by the provision and at the instigation of
                   the believing queen he was under great pressure summoned to the episcopacy,
@@ -114,8 +112,7 @@
                   while in accordance with the saying of the apostle he clothed himself in the
                   breastplate of righteousness, and girded his loins with the perfection of faith,
                   and took hold of the shield of salvation,<ptr type="noteAnchor" xml:id="a8" target="#n8" n="8"/> while he was at all times. carrying on a contest on behalf of the truth
-                     <quote>on the right hand and on the left, <pb n="693"/>
-                            <pb n="491"/>in glory
+                     <quote>on the right hand and on the left, <pb type="vol" n="693"/><pb type="running" rend="brackets" n="491"/>in glory
                      and in dishonour</quote>.<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/> And so
                   in the upper and lower countries, while he was running the vigorous course of
                   heroism without ceasing from the Persian frontier even as for as the royal city of
@@ -134,8 +131,7 @@
                   district, he would complete all the work of his ministry in one night perhaps and
                   one day, and would pass the next night thirty or forty miles or more farther on;
                   and, whenever news of him was heard in one district, and his pursuers went out
-                  after him, the brave man would be found in his heroism fulfilling his work in <pb n="694"/>
-                        <pb n="492"/>another district, while those who were running after him
+                  after him, the brave man would be found in his heroism fulfilling his work in <pb type="vol" n="694"/><pb type="running" rend="brackets" n="492"/>another district, while those who were running after him
                   to the right and to the left were found beating the air (<foreign xml:lang="grc">άήρ</foreign>), and,<ptr type="noteAnchor" xml:id="a12" target="#n12" n="12"/>
                   exasperated and biting their fingers, they would turn back with great shame,
                   filled with bitterness and confusion and gnashing their molars against the man
@@ -151,8 +147,7 @@
                   animal for riding or for driving, but he used to accomplish his travelling on
                   foot, since besides being strengthened by divine grace he further also possessed a
                   sound body by nature. And thus he would accomplish the course along the road of
-                     <pb n="695"/>
-                        <pb n="493"/>righteousness, and would make an addition to the
+                     <pb type="vol" n="695"/><pb type="running" rend="brackets" n="493"/>righteousness, and would make an addition to the
                   party of the believers every day in every place, among <persName>Greeks</persName>
                   and among <persName>Syrians</persName>; so that his fame which was in every place
                   sorely exasperated the adversaries, and disturbed them and made them run after him
@@ -170,8 +165,7 @@
                   and supposing him<ptr type="noteAnchor" xml:id="a15" target="#n15" n="15"/> to be a partisan,
                   they would leave him himself, and run after him in accordance with the story that
                   he had told them.<ptr type="noteAnchor" xml:id="a16" target="#n16" n="16"/> And so their
-                  outward eyes were closed <pb n="696"/>
-                        <pb n="494"/>as well as their inner ones,
+                  outward eyes were closed <pb type="vol" n="696"/><pb type="running" rend="brackets" n="494"/>as well as their inner ones,
                   that they might not recognise the blessed man, while it was not these only who
                   were exasperated and disturbed by the news of him, but also the king himself, who
                   gave no small amount of gold to those who promised to capture the blessed man,
@@ -189,8 +183,7 @@
                   and was confident like a lion, and accomplished his ministry, causing the
                   priesthood to flow like great rivers over the whole world of the Roman dominions;
                   so that, if a man take upon himself to say that a hundred thousand were ordained
-                  by him, <pb n="697"/>
-                        <pb n="495"/>I do not think he will depart from the truth;
+                  by him, <pb type="vol" n="697"/><pb type="running" rend="brackets" n="495"/>I do not think he will depart from the truth;
                   even as no small number of bishops and two patriarchs<ptr type="noteAnchor" xml:id="a18" target="#n18" n="18"/> also received ordination (<foreign xml:lang="grc">χειροντονία</foreign>) from him and from others who were with him as is
                   enjoined in the canons. First he took two admirable blessed men whose names are
                      <persName>Eugene</persName> and <persName>Conon</persName> and entered the city

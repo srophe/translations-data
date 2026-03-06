@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -72,8 +72,7 @@
                   Were Chamberlains of the Same Glorious Patrician,<ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/> Whose Names Are <persName ref="http://syriaca.org/person/1820">John</persName> and <persName ref="http://syriaca.org/person/3020">Sosiana</persName>, Who Lived Lives of
                   Excellence.</head>
                <ab xml:id="section-55.1" n="1"> This perfect woman <persName ref="http://syriaca.org/person/3020">Sosiana</persName> therefore, when her
-                  husband departed from <pb n="192"/>
-                  <pb n="538"/>the world, whose name was
+                  husband departed from <pb type="vol" n="192"/><pb type="running" rend="brackets" n="538"/>the world, whose name was
                   <persName ref="http://syriaca.org/person/1820">John</persName>,<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/> after they had lived together thirty
                   years, and as is said lived all these years in purity, never holding carnal
                   intercourse with one another, but living in devoutness and honour and holiness,
@@ -88,8 +87,7 @@
                   splendid clothes, great cloaks (<foreign xml:lang="grc">χλαινίδια</foreign>) of
                   pure silk (<foreign xml:lang="grc">όλοσηρικόν</foreign>) and valuable raw silk
                   garments (<foreign xml:lang="grc">μέταξα</foreign>), with colours - and pictures
-                  (<foreign xml:lang="grc">πικτούρα</foreign>),<ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/> and <pb n="193"/>
-                  <pb n="539"/>the other clothes of
+                  (<foreign xml:lang="grc">πικτούρα</foreign>),<ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/> and <pb type="vol" n="193"/><pb type="running" rend="brackets" n="539"/>the other clothes of
                   high price, and sent them to our meanness,<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> adjuring and beseeching us, <quote>Let all these be cut into such sizes
                      as you think fit, sir, and let handsome crosses and corners (<foreign xml:lang="grc">γωνία</foreign>) be put upon them, and let them be made into
                      cloths and veils, and distributed among the holy altars as you shall decide,
@@ -106,8 +104,7 @@
                      and crosses and gilded corners (<foreign xml:lang="grc">γωνία</foreign>) should
                      be put upon them, and they should be distributed among the holy altars of God,
                      together with all the silver which God gave us, for the sake of the love of God
-                     whom I have loved be my helper, <pb n="194"/>
-                     <pb n="540"/>and perform this
+                     whom I have loved be my helper, <pb type="vol" n="194"/><pb type="running" rend="brackets" n="540"/>and perform this
                      service for me also as well, because this also as well is of God; and divide
                      these among all the churches and monasteries which God established through
                      you,<ptr type="noteAnchor" xml:id="a8" target="#n8" n="8"/> or wherever God puts it
@@ -125,8 +122,7 @@
                      and given to the poor</quote>, and were saying so to her and she on her part
                   was insisting on cutting them up, we were frightened by our Lord's expression in
                   the gospel (<foreign xml:lang="grc">εύαγγέλιον</foreign>) about the fine ointment
-                  of <pb n="195"/>
-                  <pb n="541"/>great price which the woman poured on his head, when
+                  of <pb type="vol" n="195"/><pb type="running" rend="brackets" n="541"/>great price which the woman poured on his head, when
                   also the advice and desire of <persName>Judas</persName> the traitor which he
                   proferred contrary to what was right and proper was blamed,<ptr type="noteAnchor" xml:id="a11" target="#n11" n="11"/> and we ceased advising that woman so and standing in
                   the way of her wish. And, when all her valuable clothes had been used up, until
@@ -143,8 +139,7 @@
                   multitude of them to distribute to the east and to the west everything that came
                   to hand, then she brought her silver which amounted to many pounds (<foreign xml:lang="grc">λίτρα</foreign>), and it was given up and chalices and patens
                   were made, and many dishes (<foreign xml:lang="grc">πίνακα</foreign>) and spoons,
-                  and they were distributed by <pb n="196"/>
-                  <pb n="542"/>us everywhere, as God
+                  and they were distributed by <pb type="vol" n="196"/><pb type="running" rend="brackets" n="542"/>us everywhere, as God
                   knows, while she also with her own hands distributed all the rest of the contents
                   of her house to all who were in need, while the blessed woman rejoiced and gave
                   thanks to God. But we on our side were noting the time which she fixed beforehand

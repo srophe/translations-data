@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -84,8 +84,7 @@
                   contests of combatants (<foreign xml:lang="grc">άγωνιστής</foreign>), a brave
                   combatant (<foreign xml:lang="grc">άγωνιστής</foreign>) and a hero, and, if again
                   in the series of martyrs, a true martyr for the truth of his faith; and this is
-                  the consummation of all his <pb n="514"/>
-                        <pb n="312"/>beauties. This saint, for
+                  the consummation of all his <pb type="vol" n="514"/><pb type="running" rend="brackets" n="312"/>beauties. This saint, for
                   whom also, I think, the appellation 'God-clad’ is not inappropriate, after the
                   pattern of the ancient <persName ref="http://syriaca.org/person/544">Ignatius</persName>, the saint and bishop and martyr, who earned this name
                   (and, if perhaps it is not audacious to say it and to presume so far, this man
@@ -102,8 +101,7 @@
                      lie</quote>.<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> When therefore this
                   troublous time came to this blessed man, and sought<ptr type="noteAnchor" xml:id="a6" target="#n6" n="6"/> to unsettle him like many and turn him away from his
                   steadfastness, he on his side was more resplendent and beautiful; and, having
-                  repelled the <pb n="515"/>
-                        <pb n="313"/>heretical communion from him, he was driven
+                  repelled the <pb type="vol" n="515"/><pb type="running" rend="brackets" n="313"/>heretical communion from him, he was driven
                   from his see with all the other holy bishops, about twelve from his neighbourhood;
                   and thenceforth they endured the severe labours and grievous hardships of
                   banishment, and wanderings in every place. But this blessed <persName ref="http://syriaca.org/person/50">John</persName> joyfully resorted to his
@@ -120,8 +118,7 @@
                   rejoicing and exulting that they had been thought worthy to suffer persecution
                   with Christ,<ptr type="noteAnchor" xml:id="a8" target="#n8" n="8"/> since the other
                   bishops also were scattered over all the <placeName ref="http://syriaca.org/place/2736">convents</placeName>. But, when the period
-                  of persecution had lasted about ten years,<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/> the rest of the <pb n="516"/>
-                        <pb n="314"/>believers everywhere were in
+                  of persecution had lasted about ten years,<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/> the rest of the <pb type="vol" n="516"/><pb type="running" rend="brackets" n="314"/>believers everywhere were in
                   difficulties about ordinations (<foreign xml:lang="grc">χειροτονία</foreign>); and
                   they began to have recourse to the believing bishops. But the blessed men,
                   inasmuch as they were troubled by fear of lighting the furnace of persecution more
@@ -139,8 +136,7 @@
                      the son of <persName>Jozadak</persName> the high-priest to stand up and build
                      the Lord's house</quote>,<ptr type="noteAnchor" xml:id="a11" target="#n11" n="11"/> so
                   also here it were fitting to say that the Lord stirred up the spirit of <persName ref="http://syriaca.org/person/50">John</persName> to stand up and visit the
-                  Lord's <pb n="517"/>
-                        <pb n="315"/>church, which is the persecuted in every quarter.
+                  Lord's <pb type="vol" n="517"/><pb type="running" rend="brackets" n="315"/>church, which is the persecuted in every quarter.
                   Then he was moved with indignation in his spirit and argued against his
                   fellow-bishops, saying: <quote>Lo! see that henceforth we are not perfect in the
                      love of God, since according to the saying of Scripture, <quote>He who feareth
@@ -158,8 +154,7 @@
                      yourselves; and I for my part will be persecuted, and I am ready even to die
                      also a thousand times, if it were possible, for the sake of the believing
                      people</quote>. The bishops rejoiced at this, and said: <quote>It is better
-                     that one of us only should be known by this in <pb n="518"/>
-                            <pb n="316"/>the
+                     that one of us only should be known by this in <pb type="vol" n="518"/><pb type="running" rend="brackets" n="316"/>the
                      affair, and not all of us; and take also authority and licence from ourselves;
                      and we will refer this by letter to our saintly father the patriarch,<ptr type="noteAnchor" xml:id="a13" target="#n13" n="13"/> and he will issue a mandate to
                      us, that it shall be permitted to give a hand to all expelled men who come to
@@ -177,8 +172,7 @@
                   ability to write their names and signatures, not admitting anyone whomsoever who
                   did not sign his name, and, if anyone was incapable of doing so, he would bid him
                   learn, and his companion would write for him,<ptr type="noteAnchor" xml:id="a14" target="#n14" n="14"/>
-                        <pb n="519"/>
-                        <pb n="317"/>and thus therefore they were received and dismissed;
+                        <pb type="vol" n="519"/><pb type="running" rend="brackets" n="317"/>and thus therefore they were received and dismissed;
                   while he also inquired and learned who were the men of knowledge in all the
                   districts (<foreign xml:lang="grc">χώρας</foreign>), and he would send and fetch
                   them, and give them instructions, and hand them the impress of his name and his
@@ -196,8 +190,7 @@
                   the <persName>Persians</persName>, and at <placeName ref="http://syriaca.org/place/579">Alexandria</placeName>. When the whole
                   earth, so to speak, had been filled with tlhe ordination (ysporovia) of believers,
                   in the cities and the monasteries and the villages and everywhere, insomuch that
-                  some of those <pb n="520"/>
-                        <pb n="318"/>that were in communion with the heretics
+                  some of those <pb type="vol" n="520"/><pb type="running" rend="brackets" n="318"/>that were in communion with the heretics
                   would every day arrive and come to repentance, then these things exasperated those
                   that held authority both in the churches and in the world, so that they did not
                   shrink from writing a report of these things even to the wielder of the royal
@@ -215,8 +208,7 @@
                         <ptr type="noteAnchor" xml:id="a20" target="#n20" n="20"/> When
                   they saw the man's readiness and courage, they threatened the more; and
                   thenceforth he did not show himself openly with the former freedom (<foreign xml:lang="grc">παρρησία</foreign>), but at the time when believers arrived he
-                  on his side <pb n="521"/>
-                        <pb n="319"/>would spring up there, and therefore he
+                  on his side <pb type="vol" n="521"/><pb type="running" rend="brackets" n="319"/>would spring up there, and therefore he
                   would dismiss many at night, as he was the first to admit our meanness also with
                   the rest of our brothers, the members of our convent, to the order of the
                   diaconate, in the year eight hundred and forty,<ptr type="noteAnchor" xml:id="a21" target="#n21" n="21"/> when we came down to him and received the privilege of
@@ -232,8 +224,7 @@
                         cease not</quote>,<ptr type="noteAnchor" xml:id="a24" target="#n24" n="24"/> for a time
                      is coming when men to give a hand to believers shall be wanting and shall not
                      be found</quote>. And so we received his blessing, and returned, and his
-                  prophecy also was in truth fulfilled, and they were sought and not <pb n="522"/>
-                        <pb n="320"/>found, so that for many years a man would go into <placeName ref="http://syriaca.org/place/579">Alexandria</placeName> to become a
+                  prophecy also was in truth fulfilled, and they were sought and not <pb type="vol" n="522"/><pb type="running" rend="brackets" n="320"/>found, so that for many years a man would go into <placeName ref="http://syriaca.org/place/579">Alexandria</placeName> to become a
                      priest<ptr type="noteAnchor" xml:id="a25" target="#n25" n="25"/> and thence to <placeName ref="http://syriaca.org/place/586">Constantinople</placeName>, and return
                   perhaps after a year of days without gaining any satisfaction from his labour, as
                   I saw happen to many; and at the time when I was in the royal city (and the same
@@ -250,8 +241,7 @@
                   on their side carried him up to <placeName ref="http://syriaca.org/place/10">Antioch</placeName>, and he fell into the hands of the man that one would
                   perhaps not go wrong if one were to name the <persName ref="http://syriaca.org/person/2274">executioner</persName> (<foreign xml:lang="grc">κυαιστιωνάριος</foreign>) of the believers, who was <persName ref="http://syriaca.org/person/2274">Ephraim</persName> of <placeName ref="http://syriaca.org/place/2737">Amida</placeName>; and he inflicted on him
                   severe tortures<ptr type="noteAnchor" xml:id="a27" target="#n27" n="27"/> and close painful
-                     impri<pb n="523"/>
-                        <pb n="321"/>sonments, and thus he suffered martyrdom and
+                     impri<pb type="vol" n="523"/><pb type="running" rend="brackets" n="321"/>sonments, and thus he suffered martyrdom and
                   died at their hands there, after a period of such-and-such a number of<ptr type="noteAnchor" xml:id="a28" target="#n28" n="28"/> years during which he had been
                   undergoing the conflicts (<foreign xml:lang="grc">àgών</foreign>) of martyrdom
                   inflicted upon him there, and the successions of tortures and torturers that were
@@ -269,8 +259,7 @@
                   was committed that they might conduct and convey him to
                      <placeName>Rome</placeName> to be martyred there : <quote>Ten cruel savage
                      beasts were committed<ptr type="noteAnchor" xml:id="a32" target="#n32" n="32"/> to me,
-                     between whom I was bound for my <pb n="524"/>
-                            <pb n="322"/>custody that I might
+                     between whom I was bound for my <pb type="vol" n="524"/><pb type="running" rend="brackets" n="322"/>custody that I might
                      go to <placeName>Rome</placeName>
                         </quote>. So therefore in the same way there
                   were committed<ptr type="noteAnchor" xml:id="a33" target="#n33" n="33"/> to this man not ten
@@ -289,8 +278,7 @@
                   stripes; and some were burnt with fire in the sight of the peoples of the
                      cities.<ptr type="noteAnchor" xml:id="a35" target="#n35" n="35"/> A thing which perhaps
                   even the ancient pagans would have been afraid to do, Christians were here thrown
-                  into the fire and <pb n="525"/>
-                        <pb n="323"/>burnt in the sight of those who also
+                  into the fire and <pb type="vol" n="525"/><pb type="running" rend="brackets" n="323"/>burnt in the sight of those who also
                   were reckoned and called Christians; and the steam of the savour of their flesh
                   was woefully wafted to heaven and also into the air breathed by men; and so few
                   were left <quote>like doves upon ledges</quote>
@@ -308,8 +296,7 @@
                   length; while we have also not sought to comprise any of the rest of the
                   afflictions of this saint and of his conflicts (<foreign xml:lang="grc">àgών</foreign>) and of his asceticism, and of his conduct moreover and of his
                   abstinence in our history, inasmuch as it is endless, but we have rapidly run
-                  through these points, which are patent to him who knows all. By the <pb n="526"/>
-                        <pb n="324"/>prayer of him who presents them<ptr type="noteAnchor" xml:id="a38" target="#n38" n="38"/> and of all saints like him, who present propiatory
+                  through these points, which are patent to him who knows all. By the <pb type="vol" n="526"/><pb type="running" rend="brackets" n="324"/>prayer of him who presents them<ptr type="noteAnchor" xml:id="a38" target="#n38" n="38"/> and of all saints like him, who present propiatory
                   fruits to God, may he visit his church in mercy, and be gracious to us her
                   children, who through our sins have made ourselves sons who provoke, and may they
                   be expiated by the blood of the only God over all for ever and ever. </ab>

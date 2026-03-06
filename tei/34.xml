@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -72,8 +72,7 @@
                   <placeName ref="http://syriaca.org/place/8">Amida</placeName>.]<ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/>
                </head>
                <ab xml:id="section-34.1" n="1"> [....] he used to expend upon them, until for many days
-                  nothing succeeded in <pb n="602"/>
-                  <pb n="400"/>reaching his own particular table
+                  nothing succeeded in <pb type="vol" n="602"/><pb type="running" rend="brackets" n="400"/>reaching his own particular table
                   and those with him, while everyone was overpowered with great astonishment at the
                   abounding willingness of this man of God, how he was not wearied or annoyed and
                   vexed by all that great number of poor who were constantly with him, though often
@@ -93,8 +92,7 @@
                         piece of dust of his formation, should open my mouth to him in insult? or do we
                         not believe what he told us in his preaching, saying, <quote>To me ye did
                            it</quote>;<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/>
-                        <pb n="603"/>
-                        <pb n="401"/>whether it be what is good or what is evil? And he
+                        <pb type="vol" n="603"/><pb type="running" rend="brackets" n="401"/>whether it be what is good or what is evil? And he
                         said not <quote>To vile and feeble men</quote>, but <quote>To me ye did
                            it</quote>.</quote>
                </ab>
@@ -113,8 +111,7 @@
                   patriarch, when he possessed all that host of bondmen and servants, when he saw
                   the men who were received by him as guests, did not order someone else to run to
                   the herd to fetch the calf, but ran himself in his old age that he might be the
-                  receiver of the blessing and not another, so this man with all that advanced <pb n="604"/>
-                  <pb n="402"/>old age used himself to perform all the service of the
+                  receiver of the blessing and not another, so this man with all that advanced <pb type="vol" n="604"/><pb type="running" rend="brackets" n="402"/>old age used himself to perform all the service of the
                   whole day, though many were then living with him in the cell, and he did not allow
                   them to wait either upon him or upon anyone, but he himself would wait upon them,
                   and often, whenever any necessary service was required, he would himself rise from
@@ -132,8 +129,7 @@
                   came and went, but he brought <persName ref="http://syriaca.org/person/3685">four
                      blind men</persName>, and placed them in his cell at his table; and thenceforth
                   he was not to be seen except distributing the food and placing it in the mouth of
-                  each <pb n="605"/>
-                  <pb n="403"/>one of them by his name,<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/>; and, if it were a portion of bread (?)<ptr type="noteAnchor" xml:id="a10" target="#n10" n="10"/> or some herbs, or a cup, he would
+                  each <pb type="vol" n="605"/><pb type="running" rend="brackets" n="403"/>one of them by his name,<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/>; and, if it were a portion of bread (?)<ptr type="noteAnchor" xml:id="a10" target="#n10" n="10"/> or some herbs, or a cup, he would
                   grasp each of them with his hand, calling them by their names, and entreating and
                   pressing them to eat, while he also grasped the hand of each one of them and made
                   it feel the dish; and again that,<ptr type="noteAnchor" xml:id="a11" target="#n11" n="11"/>
@@ -150,8 +146,7 @@
                   himself would wait both on them and on everyone, and would pour out wine and bring
                   hot water, and himself mix it, everyone disliking this on account of his venerable
                   old age; and, if anyone made any answer to him or wished to do anything instead of
-                  him, this is what he would say to him: <quote>I, my brother, <pb n="606"/>
-                     <pb n="404"/>have not insulted you or done you any harm. Wherefore do you insult
+                  him, this is what he would say to him: <quote>I, my brother, <pb type="vol" n="606"/><pb type="running" rend="brackets" n="404"/>have not insulted you or done you any harm. Wherefore do you insult
                      me?</quote>. When then this saint had completed about ten years in the royal
                   city itself, since, inasmuch as he had found material for his trade in it, and
                   inasmuch moreover as the persecution which was always everywhere did not cease, he

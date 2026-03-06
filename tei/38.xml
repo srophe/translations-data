@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/translations-app/refs/heads/main/documentation/schema/out/translations.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -75,8 +75,7 @@
                </head>
                <ab xml:id="section-38.1" n="1"> This excellent blessed man therefore <persName ref="http://syriaca.org/person/1533">Aaron</persName> the presbyter was by his
                   birth (<foreign xml:lang="grc">γένος</foreign>) from the country of <placeName ref="http://syriaca.org/place/2743">Armenia</placeName>; but from his childhood
-                  he had left <pb n="642"/>
-                  <pb n="440"/>his country and had also made himself alien
+                  he had left <pb type="vol" n="642"/><pb type="running" rend="brackets" n="440"/>his country and had also made himself alien
                   to his kin (<foreign xml:lang="grc">γένος</foreign>) and his acquaintances, and he
                   chose for himself to pass the days of his life in a monastic convent in retreat
                   and religion, from the early age of his youth. And besides the fact that
@@ -95,8 +94,7 @@
                   body and bring it into subjection<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/>
                   by the bodily labours of agriculture, in the vineyard and the garden, and the
                   reception of strangers, and all the other tasks inside the monastery, so much so
-                  that late in the evening when he <pb n="643"/>
-                  <pb n="441"/>came of necessity to
+                  that late in the evening when he <pb type="vol" n="643"/><pb type="running" rend="brackets" n="441"/>came of necessity to
                   rest his body, he could scarcely turn his body round, from weariness and also from
                   the labour of standing at the service. But sometimes he would stand on a
                   standing-post<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> at night, and
@@ -114,8 +112,7 @@
                   diseases, did he shrink from divine labours. Once he fell under the severe pain of
                   a gangrene that was formed in his loins; and in this way he bore this distress
                   with great devoutness, until his loin was eaten up, and was cut away and vanished
-                  down to the root of it, and his trouble began to <pb n="644"/>
-                  <pb n="442"/>pass
+                  down to the root of it, and his trouble began to <pb type="vol" n="644"/><pb type="running" rend="brackets" n="442"/>pass
                   inside him. And we, seeing him distressed by a sore disease and grievously
                   lacerated in secret, would ask of him to tell us what his trouble was; and he,
                   until his affliction became intense, stoutly endured, being constant in prayer and
@@ -132,8 +129,7 @@
                   Theshrin, on the twenty-second of it, in the year eight<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> hundred and seventy-two; and he was laid in the
                   <placeName ref="http://syriaca.org/place/2816">sepulchre</placeName> that was
                   built by the blessed <persName ref="http://syriaca.org/person/1875">Mare</persName>. And these things we have recorded in few words for a
-                  remembrance <pb n="645"/>
-                  <pb n="443"/>and memorial of the strenuous worker of
+                  remembrance <pb type="vol" n="645"/><pb type="running" rend="brackets" n="443"/>and memorial of the strenuous worker of
                   <persName>Christ</persName>, about the matters connected with his beautiful
                   mode of life of which we are witnesses. </ab>
             </div>
