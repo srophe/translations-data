@@ -5,14 +5,16 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a" ref="http://syriaca.org/work/229">Ḥabib</title>
-            <author><persName ref="http://syriaca.org/person/42">Jacob of Sarug</persName></author>
+            <title ref="http://syriaca.org/work/229" level="a" xml:lang="en">Ḥabib (text) — <foreign xml:lang="syr">ܚܒܝܒ</foreign>
+        </title>
+            <author><persName ref="http://syriaca.org/person/42">Jacob of Serugh — <foreign xml:lang="syr">ܝܥܩܘܒ ܕܣܪܘܓ</foreign>
+          </persName></author>
             <editor role="translator">Benjamin Plummer Pratten</editor>
             <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
          </titleStmt>
          <publicationStmt>
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI"><!-- URI NEEDED --></idno>
+            <idno type="URI">https://syriac-sourcebook.org/229/tei</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0//">
                   <p>This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).</p>
@@ -35,9 +37,9 @@
             <date>2026-03-02</date>
          </publicationStmt>
          <seriesStmt>
-            <title><!--The Syriac Library--></title>
+            <title>The Syriac Sourcebook</title>
             <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-            <idno type="URI"><!-- URI NEEDED! --></idno>
+            <idno type="URI">https://syriac-sourcebook.org</idno>
          </seriesStmt>
          <sourceDesc>
             <p>Jacob of Sarug, <title>Homily on Habib the Martyr</title>. In <title>Ante-Nicene Fathers Vol. VIII, Memoirs of 

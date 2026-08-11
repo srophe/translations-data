@@ -5,7 +5,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title ref="http://syriaca.org/work/8559">Chronicle of Edessa</title>
+            <title ref="http://syriaca.org/work/8559" level="m">Chronicle of Edessa</title>
             <editor role="translator">Benjamin Harris Cowper</editor>
             <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#eboyd">Ethan Boyd</editor>
