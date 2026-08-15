@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" ref="http://syriaca.org/work/841">Jacob and Theodore</title>
+                <title level="a" ref="http://syriaca.org/work/841">Jacob and Theodore</title>
                 <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
                     <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -177,12 +177,12 @@
                   knowledge of posterity; but of the sublime manner of life of the blessed <persName ref="http://syriaca.org/person/69">James</persName>, and his courage and
                   perfection, we have made a record in the preceding history. </ab>
                 </div>
-            </div>
-            <div type="trailer" xml:id="trailer-50">
-                <ab xml:id="trailer-50.1" n="2"> The history of two bishops the excellent and divine
-               blessed men, <persName ref="http://syriaca.org/person/69">James</persName> and
-               <persName ref="http://syriaca.org/person/3266">Theodore</persName>, is ended.
-            </ab>
+                <div type="trailer" xml:id="trailer-50">
+                    <ab xml:id="trailer-50.1" n="2"> The history of two bishops the excellent and divine
+                        blessed men, <persName ref="http://syriaca.org/person/69">James</persName> and
+                        <persName ref="http://syriaca.org/person/3266">Theodore</persName>, is ended.
+                    </ab>
+                </div>
             </div>
             <noteGrp>
                 <note xml:id="n1" target="#a1" n="1">

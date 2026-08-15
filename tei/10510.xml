@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title ref="http://syriaca.org/work/10510">History of the Monastery of John
+                <title level="a" ref="http://syriaca.org/work/10510">History of the Monastery of John
                     Urtaya</title>
                 <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
@@ -461,7 +461,7 @@
                   year stated above. </ab>
                 </div>
                 <div type="trailer" xml:id="trailer-58">
-                    <ab xml:id="trailer-58.1" n="1"> The history of the original foundation of the holy
+                    <ab xml:id="trailer-58.1" n="3"> The history of the original foundation of the holy
                   <placeName ref="http://syriaca.org/place/399">convent</placeName> of the house
                   of Mar <persName ref="http://syriaca.org/person/3218">John</persName> at
                   <placeName ref="http://syriaca.org/place/8">Amida</placeName>, and who were its

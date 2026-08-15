@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="m" ref="http://syriaca.org/work/835">Tribunus</title>
+            <title level="a" ref="http://syriaca.org/work/835">Tribunus</title>
             <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
             <author>
                <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -251,7 +251,7 @@
                   <reg/>
                   <orig>p. 464, n. 1</orig>
                </choice>This was perh. used of any house where rooms were to be left; but in Bar
-               'All (quoted in P. Smith. s. V. ) (<foreign>ostiarius</foreign>) is rendered
+               'All (quoted in P. Smith. s. V. ) (<foreign xml:lang="la">ostiarius</foreign>) is rendered
                (innkeeper).</note>
             <note xml:id="n11" target="#a11" n="11">
                <choice>

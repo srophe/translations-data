@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" ref="http://syriaca.org/work/808">Simeon the Mountaineer</title>
+                <title level="a" ref="http://syriaca.org/work/808">Simeon the Mountaineer</title>
                 <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
                     <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -85,7 +85,7 @@
                      is sunk and our mind blinded, and we do not consider the bounties of him who
                      created us, and brought us into existence out of nothing, how we, feeble dust
                      of the earth, <quote>live and move and exist</quote>,<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/> how the good Creator gave us the breath of this
-                     pure air (<foreign xml:base="grc">άήρ</foreign>) to sustain our life without
+                     pure air (<foreign xml:lang="grc">άήρ</foreign>) to sustain our life without
                      anxiety, how he put together for us an organ (<foreign xml:lang="grc">όργανον</foreign>) for speech, and a voice and a mouth and lips and a
                      tongue and a palate, how he infused light into the pupils of our eyes, that it
                      might be an informant and a director to the whole body, how again he bestowed

@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="m" ref="http://syriaca.org/work/836">Isaac</title>
+            <title level="a" ref="http://syriaca.org/work/836">Isaac</title>
             <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
             <author>
                <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -75,7 +75,7 @@
                   perfect men who <pb type="vol" n="669"/><pb type="running" rend="brackets" n="467"/>have employed themselves in works of
                   excellence cannot be concealed. This blessed <persName ref="http://syriaca.org/person/1788">Isaac</persName> therefore was by his
                   birth (<foreign xml:lang="grc">γένος</foreign>) from the city of <placeName ref="http://syriaca.org/place/67">Dara</placeName>, and he had also a <persName ref="http://syriaca.org/person/3690">wife</persName> and <persName ref="http://syriaca.org/person/3692">children</persName> and a house, and the
-                  office of a <foreign>protector</foreign>,<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> while he was constantly occupied in fasting and prayer and constant
+                  office of a <foreign xml:lang="la">protector</foreign>,<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> while he was constantly occupied in fasting and prayer and constant
                   vigil, and in perpetual alms, so that out of the fervour of divine zeal he left
                   house and <persName ref="http://syriaca.org/person/3690">wife</persName> and
                   <persName ref="http://syriaca.org/person/3692">children</persName> as it is

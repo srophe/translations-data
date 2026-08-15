@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="m" ref="http://syriaca.org/work/847">Peter and Photius</title>
+            <title level="a" ref="http://syriaca.org/work/847">Peter and Photius</title>
             <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
             <author>
                <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -113,11 +113,11 @@
                   remained in the bodily life a long time, down to the writing of this history,
                   having further multiplied her spiritual practices many times. </ab>
             </div>
-         </div>
-         <div type="trailer" xml:id="trailer-56">
-            <ab xml:id="trailer-56.1" n="2"> The history of the blessed <persName ref="http://syriaca.org/person/2011">Peter</persName> the chancellor and
-               <persName ref="http://syriaca.org/person/3014">Photius</persName> the
-               chartulary is ended. </ab>
+            <div type="trailer" xml:id="trailer-56">
+               <ab xml:id="trailer-56.1" n="2"> The history of the blessed <persName ref="http://syriaca.org/person/2011">Peter</persName> the chancellor and
+                  <persName ref="http://syriaca.org/person/3014">Photius</persName> the
+                  chartulary is ended. </ab>
+            </div>
          </div>
          <noteGrp>
             <note xml:id="n1" target="#a1" n="1">

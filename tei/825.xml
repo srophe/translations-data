@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" ref="http://syriaca.org/work/825">Hala</title>
+                <title level="a" ref="http://syriaca.org/work/825">Hala</title>
                 <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
                     <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -193,7 +193,7 @@
                   take the old man, and so he entered the community gathered together at that time
                   by the queen who<ptr type="noteAnchor" xml:id="a15" target="#n15" n="15"/> had been gathering
                   together persecuted men from all quarters and looking after them, in that they had
-                  been placed by her in the palace (<foreign>παλάτιον</foreign>) called <placeName ref="http://syriaca.org/place/2793">Hormisda</placeName>, where many distressed
+                  been placed by her in the palace (<foreign xml:lang="grc">παλάτιον</foreign>) called <placeName ref="http://syriaca.org/place/2793">Hormisda</placeName>, where many distressed
                   and poor persons and strangers lay by the gate night and day.<ptr type="noteAnchor" xml:id="a16" target="#n16" n="16"/> But the blessed man, when he saw
                   these, and an opening had been found for him also to give, thenceforth like a poor
                   man who loses one of his great possessions, and decides in his mind that it will

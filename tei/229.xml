@@ -5,10 +5,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title ref="http://syriaca.org/work/229" level="a" xml:lang="en">Ḥabib (text) — <foreign xml:lang="syr">ܚܒܝܒ</foreign>
-        </title>
+            <title ref="http://syriaca.org/work/229" level="m" xml:lang="en">Ḥabib (text) — <foreign xml:lang="syr">ܚܒܝܒ</foreign>
+            </title>
             <author><persName ref="http://syriaca.org/person/42">Jacob of Serugh — <foreign xml:lang="syr">ܝܥܩܘܒ ܕܣܪܘܓ</foreign>
-          </persName></author>
+               </persName></author>
             <editor role="translator">Benjamin Plummer Pratten</editor>
             <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
          </titleStmt>
@@ -45,12 +45,9 @@
             <p>Jacob of Sarug, <title>Homily on Habib the Martyr</title>. In <title>Ante-Nicene Fathers Vol. VIII, Memoirs of 
                   Edessa And Other Ancient Syriac Documents, Homilies, Composed by Mar Jacob Various</title>.
                Translated by Benjamin Plummer Pratten. Translation in the public domain.</p>
-            <p>Original transcription of the text downloaded from Wikisource on 9/15/2024: <ref
-                  target="https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Memoirs_of_Edessa_And_Other_Ancient_Syriac_Documents/Homilies,_Composed_by_Mar_Jacob/Homily_on_Habib_the_Martyr"
-                  >
+            <p>Original transcription of the text downloaded from Wikisource on 9/15/2024: <ref target="https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Memoirs_of_Edessa_And_Other_Ancient_Syriac_Documents/Homilies,_Composed_by_Mar_Jacob/Homily_on_Habib_the_Martyr">
                   https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Memoirs_of_Edessa_And_Other_Ancient_Syriac_Documents/Homilies,_Composed_by_Mar_Jacob/Homily_on_Habib_the_Martyr
-               </ref>. This Wikisource transcription was made available under a <ref
-                  target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+               </ref>. This Wikisource transcription was made available under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution-ShareAlike License</ref>.</p>
          </sourceDesc>
       </fileDesc>
@@ -58,9 +55,9 @@
    <text>
       <body>
          <div type="work" xml:id="work">
-         <head type="main">Homily on <persName>Habib the Martyr</persName>, Composed
+            <head type="main">Homily on <persName>Habib the Martyr</persName>, Composed
             by Mar <persName>Jacob</persName>.<ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/>
-         </head>
+            </head>
             <lg xml:id="section-1" n="1">
                <l xml:id="line-1.1" n="1"><persName>Habib</persName> the martyr, clad in flame, hath called to me out of the fire,</l>
                <l xml:id="line-1.2" n="2">That for him likewise I should fashion an image of beauty among the glorious.</l>

@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="m" ref="http://syriaca.org/work/848">Theodore Castrensis</title>
+            <title level="a" ref="http://syriaca.org/work/848">Theodore Castrensis</title>
             <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
             <author>
                <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -69,13 +69,13 @@
          <div type="work" xml:id="work-57" n="57">
             <div type="section" xml:id="section-57">
                <head type="main">Next the Fifty-Seventh History, of the Blessed <persName ref="http://syriaca.org/person/2108">Theodore</persName> the Kings Chamberlain
-                  and <foreign>Castrensis</foreign>, Who, While He Was in the Body, Practised A
+                  and <foreign xml:lang="la">Castrensis</foreign>, Who, While He Was in the Body, Practised A
                   Heavenly and Divine Mode of Life.</head>
                <ab xml:id="section-57.1" n="1"> This blessed <persName ref="http://syriaca.org/person/2108">Theodore</persName> therefore held a high
                   office in the royal palace (<foreign xml:lang="grc">παλάτιον</foreign>), having
                   previously been in the service of a great man before God (and he was great among
                   men also) whose name was <persName ref="http://syriaca.org/person/2558">Mishael</persName>,<ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/> who also
-                  was further the king's <foreign>praepositus</foreign>,<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/> a Christian and merciful and ascetic man, and was
+                  was further the king's <foreign xml:lang="la">praepositus</foreign>,<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/> a Christian and merciful and ascetic man, and was
                   moreover perfect in all spiritual things, insomuch that he underwent exile
                   (<foreign xml:lang="grc">έξορία</foreign>) for the sake of the truth of the
                   right faith, that he might not communicate with the <persName>synod of
@@ -94,12 +94,12 @@
                   blessed man was feeble and sickly of body, and the more so from watching and
                   fasting and abstinence, he asked king <persName ref="http://syriaca.org/person/2284">Justinian</persName>, who was also edified
                   by him and loved him and in whose eyes he was honoured, that he might retire as
-                  <foreign>castrensis</foreign>,<ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/>
+                  <foreign xml:lang="la">castrensis</foreign>,<ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/>
                   in order that he might escape and retire from the turmoil of the palace (<foreign xml:lang="grc">παλάτιον</foreign>), and settle down in quietude, and devote
                   himself to the practice of religion only; insomuch that the king assented to his
                   request and carried out his desire, and ordered him to retire as
-                  <foreign>castrensis</foreign>, because he,<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> serves two years only<ptr type="noteAnchor" xml:id="a6" target="#n6" n="6"/> many offices being subordinate <pb type="vol" n="202"/><pb type="running" rend="brackets" n="548"/>to him,<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> and large
-                  profits coming in to him, and in two years like the <foreign>praepositus</foreign>
+                  <foreign xml:lang="la">castrensis</foreign>, because he,<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> serves two years only<ptr type="noteAnchor" xml:id="a6" target="#n6" n="6"/> many offices being subordinate <pb type="vol" n="202"/><pb type="running" rend="brackets" n="548"/>to him,<ptr type="noteAnchor" xml:id="a7" target="#n7" n="7"/> and large
+                  profits coming in to him, and in two years like the <foreign xml:lang="la">praepositus</foreign>
                   he retires, and like him expends<ptr type="noteAnchor" xml:id="a8" target="#n8" n="8"/>
                   much wealth. The illustrious blessed man therefore retired, and completed two
                   years; and he was released and retired with much gold and great wealth. And then
@@ -173,10 +173,10 @@
                   imitated his mode of life, lived a long time after him; and he also ended his
                   course in the practices of religion. </ab>
             </div>
-         </div>
-         <div type="trailer" xml:id="trailer-57">
-            <ab xml:id="trailer-57.1" n="3">The history of the blessed <persName ref="http://syriaca.org/person/2108">Theodore</persName> the king's chamberlain
-               and <foreign rend="italics">castrensis</foreign> is ended. </ab>
+            <div type="trailer" xml:id="trailer-57">
+               <ab xml:id="trailer-57.1" n="3">The history of the blessed <persName ref="http://syriaca.org/person/2108">Theodore</persName> the king's chamberlain
+                  and <foreign rend="italics">castrensis</foreign> is ended. </ab>
+            </div>
          </div>
          <noteGrp>
             <note xml:id="n1" target="#a1" n="1">

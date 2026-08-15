@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="m" ref="http://syriaca.org/work/844">Priscus</title>
+            <title level="a" ref="http://syriaca.org/work/844">Priscus</title>
             <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
             <author>
                <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -75,22 +75,22 @@
                   a blessing is given by our Lord,<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/>
                   and he conducted himself in this way in spiritual knowledge in order to attain to
                   excellence. Then, having learned that he did not beg for anything from anyone, we
-                  sent him a <pb type="vol" n="180"/><pb type="running" rend="brackets" n="526"/>present of one <foreign>tremissis</foreign>
+                  sent him a <pb type="vol" n="180"/><pb type="running" rend="brackets" n="526"/>present of one <foreign xml:lang="la">tremissis</foreign>
                   by a <persName ref="http://syriaca.org/person/3720">certain gentlemen</persName>
                   who was occupied with us in God's service, that it might assist him to supply his
                   needs, and in order that we might thereby discover the object that he had before
                   him. But this man who was in very truth poor in spirit on seeing the
-                  <foreign>tremissis</foreign> began to run away at a rapid pace, since he was in
+                  <foreign xml:lang="la">tremissis</foreign> began to run away at a rapid pace, since he was in
                   fact not advanced in years; and the man who brought the
-                  <foreign>tremissis</foreign> to him began to run after him, adjuring him to
+                  <foreign xml:lang="la">tremissis</foreign> to him began to run after him, adjuring him to
                   stop. But the blessed man, having put a distance between himself and many (?),<ptr type="noteAnchor" xml:id="a3" target="#n3" n="3"/> stopped on account of the
                   adjurations, saying to him, <quote>Wherefore, man, are you worrying yourself and
                      worrying me the poor man?</quote> He said to him, <quote>The abbot (<foreign xml:lang="grc">άββάς</foreign>) sent you this present because he heard that
                         you were in need. Take it and supply your need</quote>. That man said
                   <quote>For my part I do not need this. But say to the abbot (<foreign xml:lang="grc">άββάς</foreign>), Run that you may attain.<ptr type="noteAnchor" xml:id="a4" target="#n4" n="4"/> If you have one follis, I will
                      take it</quote>. Then, having seen that he had run away from the
-                  <foreign>tremissis</foreign>, he gave him ten <foreign>folles</foreign>; and he
-                  on his side stretched out his hand and took one <foreign>follis</foreign>, and ran
+                  <foreign xml:lang="la">tremissis</foreign>, he gave him ten <foreign xml:lang="la">folles</foreign>; and he
+                  on his side stretched out his hand and took one <foreign xml:lang="la">follis</foreign>, and ran
                   away. And so that man came, and related all these things to us. Then we were
                   assured that that poor man was a spiritual person, and a bondman of God, and was
                   poor of his own will for the sake of eternal life. After these things in the time
@@ -233,7 +233,7 @@
                <choice>
                   <reg/>
                   <orig>p. 530, n. 3</orig>
-               </choice>This word (= <foreign>posca</foreign>) is not known in Gk., but the Syr.
+               </choice>This word (= <hi rend="italics">posca</hi>) is not known in Gk., but the Syr.
                implies in a Gk. form.</note>
             <note xml:id="n10" target="#a10" n="10">
                <choice>

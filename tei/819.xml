@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" ref="http://syriaca.org/work/819">Susan</title>
+                <title level="a" ref="http://syriaca.org/work/819">Susan</title>
                 <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
                     <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -354,7 +354,7 @@
                   that place, praising God. </ab>
                 </div>
                 <div type="trailer" xml:id="trailer-27">
-                    <ab xml:id="trailer-27.1" n=""> The history of a blessed virgin of
+                    <ab xml:id="trailer-27.1" n="4"> The history of a blessed virgin of
                   <persName>Christ</persName> whose name 
                   was <persName ref="http://syriaca.org/person/2092">Susan</persName>
                         <ptr type="noteAnchor" xml:id="a34" target="#n34" n="34"/> 
@@ -528,11 +528,11 @@
                     <choice>
                         <reg/>
                         <orig>p. 352, n. 3</orig>
-                    </choice>must come from root (<foreign>se movit</foreign>) which P. Smith gives to
+                    </choice>must come from root (<foreign xml:lang="la">se movit</foreign>) which P. Smith gives to
                Neo-Syr. only (V. D. and L <hi rend="singleQuotes">
-                        <foreign>arrepentos</foreign>
+                        <foreign xml:lang="la">arrepentos</foreign>
                     </hi>). P. S. refers to this passage under =
-                  <foreign>insipidus</foreign>; but this makes no sense.</note>
+                  <foreign xml:lang="la">insipidus</foreign>; but this makes no sense.</note>
                 <note xml:id="n31" target="#a31" n="31">
                     <choice>
                         <reg/>

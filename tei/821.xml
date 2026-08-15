@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" ref="http://syriaca.org/work/821">Malka</title>
+                <title level="a" ref="http://syriaca.org/work/821">Malka</title>
                 <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
                     <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -333,9 +333,9 @@
                         <orig>p. 361, n. 3</orig>
                     </choice>Lit. <hi rend="singleQuotes">those of my lord's house</hi>. V. D. and L.
                render <hi rend="singleQuotes">
-                        <foreign>domestici</foreign>
+                        <foreign xml:lang="la">domestici</foreign>
                     </hi>; but were there
-                  <foreign>domestici</foreign> in a monastery? From p. 365 they seem to have been an
+                  <foreign xml:lang="la">domestici</foreign> in a monastery? From p. 365 they seem to have been an
                inferior class of men, yet at p. 363 they associated with the archimandrite. The
                lexx. give no help. They were perh. novices or lay monks who were required to perform
                certain menial offices; cf. p. 280. The fact that they recited service (p. 363) is

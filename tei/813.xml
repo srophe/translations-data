@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" ref="http://syriaca.org/work/813">Thomas the Armenian</title>
+                <title level="a" ref="http://syriaca.org/work/813">Thomas the Armenian</title>
                 <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
                     <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -397,7 +397,7 @@
                         <reg/>
                         <orig>p. 292, n. 2</orig>
                     </choice>I do not understand this. V. D. and L.'s translation <hi rend="singleQuotes">
-                        <foreign>omnes qualia die 1' facere coeperant, etiam postremo die talia
+                        <foreign>omnes qualia die 1° facere coeperant, etiam postremo die talia
                      agentes vidi</foreign>
                     </hi> may express the meaning intended, but is not in the
                text.</note>

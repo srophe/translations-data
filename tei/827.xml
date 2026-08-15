@@ -5,14 +5,13 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" ref="http://syriaca.org/work/827">Monks of Amida</title>
+                <title level="a" ref="http://syriaca.org/work/827">Monks of Amida</title>
                 <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
                     <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
                 </author>
                 <editor role="translator">E. W. Brooks</editor>
-                <editor role="creator"
-                        ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
@@ -23,11 +22,11 @@
                      License (CC BY 4.0).</p>
                         <p>This work incorporates public domain material from the following work(s): <listBibl>
                                 <bibl>
-                           <!-- What goes here and what goes in the sourceDesc? -->
-                        </bibl>
+                                    <!-- What goes here and what goes in the sourceDesc? -->
+                                </bibl>
                                 <bibl>
-                           <!-- What goes here and what goes in the sourceDesc? -->
-                        </bibl>
+                                    <!-- What goes here and what goes in the sourceDesc? -->
+                                </bibl>
                             </listBibl>
                             <note type="license"> used under a Creative Commons Attribution license <ptr target="http://creativecommons.org/licenses/by/4.0"/>
                             </note>
@@ -38,14 +37,12 @@
             </publicationStmt>
             <seriesStmt>
                 <title><!--The Syriac Library--></title>
-                <editor role="general"
-                        ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
                 <idno type="URI"><!-- URI NEEDED! --></idno>
             </seriesStmt>
             <seriesStmt>
                 <title>The Lives of the Eastern Saints</title>
-                <editor role="general"
-                        ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
                 <idno type="URI"><!-- URI NEEDED! --></idno>
                 <idno type="syriacaWork">http://syriaca.org/work/9501</idno>
             </seriesStmt>
@@ -65,7 +62,7 @@
     </teiHeader>
     <text>
         <body>
-         <!-- See spear/827 -->
+            <!-- See spear/827 -->
             <div type="work" xml:id="work-35" n="35">
                 <div type="section" xml:id="section-35" n="35">
                     <head type="main">Next the Thirty-Fifth History, of the Great, Admirable, and Renowned <persName ref="http://syriaca.org/person/1934">Community of the Holy Convents of the
@@ -527,12 +524,11 @@
                     <choice>
                         <reg/>
                         <orig>p. 417, n. 1</orig>
-                    </choice>Ms. <hi rend="singleQuotes">Altar</hi>, for which I adopt V. D. and L.'s
-               emendation; cf. 58 (f. 134 V'b). Clearly the <title>
-                        <foreign>dioecesis
-                     Orientis</foreign>
-                    </title> is not meant, nor the eastern part of it, but a
-               district lying E. of Amida.</note>
+                    </choice>
+                    Ms. <hi rend="singleQuotes">Altar</hi>, for which I adopt V. D. and L.'s
+                    emendation; cf. 58 (f. 134 V'b). Clearly the <foreign xml:lang="la">diocesis Orientis</foreign>
+                    is not meant, nor the eastern part of it, but a
+                    district lying E. of Amida.</note>
                 <note xml:id="n30" target="#a30" n="30">
                     <choice>
                         <reg/>

@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" ref="http://syriaca.org/work/795">John the Nazarite</title>
+                <title level="a" ref="http://syriaca.org/work/795">John the Nazarite</title>
                 <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
                     <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -118,7 +118,8 @@
                   fervent zeal decided for himself that he would eat no food at all of any
                   kind except ordinary bread, and water and salt or ordinary lentils, while
                   in place of herbs he used to mix with these the leaves of a certain large
-                  <pb type="vol" n="39"/><pb type="running" rend="brackets" n="39"/>tree that was inside the court of that monastery called <foreign>shigra</foreign>,<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> eating from
+                  <pb type="vol" n="39"/><pb type="running" rend="brackets" n="39"/>tree 
+                        that was inside the court of that monastery called <foreign>shigra</foreign>,<ptr type="noteAnchor" xml:id="a5" target="#n5" n="5"/> eating from
                   it all the summer, and in the winter again drying the produce of it and
                   eating what was left, while all the members of his convent would urge
                   him to desist from this distressing practice that was distressing his body,

@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" ref="http://syriaca.org/work/816">John of Tella</title>
+                <title level="a" ref="http://syriaca.org/work/816">John of Tella</title>
                 <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
                     <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -314,10 +314,10 @@
                         <orig>p. 311, n. 1</orig>
                     </choice>Constantina. See the longer life by Elijah in C. S. O. tom. XXV (1), and cf.
                'Zach Rh'., VIII, 5. He was commonly called Bar Q (wr s w s (C. S. C. O., IV, p. 144;
-               cf. 'Dion'. ap. Kleyn, <foreign>Bijdrage</foreign>, p.70), and is author of 2 sets of
-               canons published by Lamy (<foreign>Diss. de Symporum fide</foreign>. Louvain, 1859)
-               and Kuberczyk (Berlin, 1901) and translated by F. Nau (<foreign>Anc. Litt. Can.
-                  Syr.</foreign>, fasc. 2, 1906).</note>
+               cf. 'Dion'. ap. Kleyn, <title>Bijdrage</title>, p.70), and is author of 2 sets of
+               canons published by Lamy (<title>Diss. de Symporum fide</title>. Louvain, 1859)
+               and Kuberczyk (Berlin, 1901) and translated by F. Nau (<title>Anc. Litt. Can.
+                  Syr.</title>, fasc. 2, 1906).</note>
                 <note xml:id="n2" target="#a2" n="2">
                     <choice>
                         <reg/>

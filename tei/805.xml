@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" ref="http://syriaca.org/work/805">Thomas, Stephen, and Zota</title>
+                <title level="a" ref="http://syriaca.org/work/805">Thomas, Stephen, and Zota</title>
                 <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
                     <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -68,10 +68,14 @@
          <!-- See spear/805.xml -->
             <div type="work" xml:id="work-13" n="13">
                 <div type="section" xml:id="section-13">
-                    <head type="main">Next the Thirteenth History, of Certain Saints and Servants of God, <persName ref="http://syriaca.org/person/2127">Thomas</persName> and <persName ref="http://syriaca.org/person/3010">Stephen</persName> and <persName ref="http://syriaca.org/person/3011">Zwṭʾ</persName> the Notaries (<foreign xml:lang="grc">νοτάριος</foreign>) and <foreign>syncelli</foreign> of the Holy
-                     <persName ref="http://syriaca.org/person/48">Mare</persName>
-                        <ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/> Metropolitan of the City of
-                  Amida</head>
+                    <head type="main">Next the Thirteenth History, of Certain Saints and Servants of God, 
+                        <persName ref="http://syriaca.org/person/2127">Thomas</persName> and 
+                        <persName ref="http://syriaca.org/person/3010">Stephen</persName> and 
+                        <persName ref="http://syriaca.org/person/3011">Zwṭʾ</persName> the Notaries 
+                        (<foreign xml:lang="grc">νοτάριος</foreign>) and <foreign>syncelli</foreign> of the Holy
+                        <persName ref="http://syriaca.org/person/48">Mare</persName><ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/> 
+                        Metropolitan of the City of <placeName ref="http://syriaca.org/place/8">Amida</placeName>
+                    </head>
                     <ab xml:id="section-13.1" n="1"> After the decease of the believing king <persName ref="http://syriaca.org/person/2265">Anastasius</persName> who is among the
                   saints, when <persName ref="http://syriaca.org/person/2268">Justin</persName>
                         <ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/> was set over the kingdom, he was
@@ -518,12 +522,12 @@
                         <reg/>
                         <orig>p. 188, n. 1</orig>
                     </choice>The verb is not in the syr., and the sentence in ungrammatical.</note>
-                <note xml:id="n4" target="#a4" n="4">
+                <note xml:id="n5" target="#a5" n="5">
                     <choice>
                         <reg/>
                         <orig>p. 188, n. 1</orig>
                     </choice>The verb is not in the syr., and the sentence in ungrammatical.</note>
-                <note xml:id="n5" target="#a5" n="5">
+                <note xml:id="n6" target="#a6" n="6">
                     <choice>
                         <reg/>
                         <orig>p. 188, n. 2</orig>
@@ -531,178 +535,178 @@
                expulsion, and his successor, Nonnus, lived only 3 months, after which Mare was
                appointed ('Zach. Rh.', VIII, 5; Assem., B.O., II, 349). His expulsion was probably
                in 521..</note>
-                <note xml:id="n6" target="#a6" n="6">
+                <note xml:id="n7" target="#a7" n="7">
                     <choice>
                         <reg/>
                         <orig>p. 188, n. 3</orig>
                     </choice>Sic. syr. From the sequel it is clear that M. only was banished, and the
                others accompanied him voluntarily. Sergius is not again mentioned, and from the
                return to Amida we find Zwt' in his place.</note>
-                <note xml:id="n7" target="#a7" n="7">
+                <note xml:id="n8" target="#a8" n="8">
                     <choice>
                         <reg/>
                         <orig>p. 189, n. 1</orig>
                     </choice>I Cor., X, 13.</note>
-                <note xml:id="n8" target="#a8" n="8">
+                <note xml:id="n9" target="#a9" n="9">
                     <choice>
                         <reg/>
                         <orig>p. 189, n. 2</orig>
                     </choice>See Proc., Hist. Arc., IX, Justinian's marriage followed upon <title>Cod.
                   Just.</title>, V, IV, 23, which, being addressed <hi rend="singleQuotes">Demostheni pp.</hi>, must be dated 520-524..</note>
-                <note xml:id="n9" target="#a9" n="9">
+                <note xml:id="n10" target="#a10" n="10">
                     <choice>
                         <reg/>
                         <orig>p. 189, n. 3</orig>
                     </choice>Syr. <hi rend="singleQuotes">sister's son</hi>.</note>
-                <note xml:id="n10" target="#a10" n="10">
+                <note xml:id="n11" target="#a11" n="11">
                     <choice>
                         <reg/>
                         <orig>p. 189, n. 4</orig>
                     </choice>Chalcis. For I. see Severus, <title>Selected Letters</title>, p. 58, 66,
                153, 166, 369.</note>
-                <note xml:id="n11" target="#a11" n="11">
+                <note xml:id="n12" target="#a12" n="12">
                     <choice>
                         <reg/>
                         <orig>p. 190, n. 1</orig>
                     </choice>W. of the Nile, now Mendishe (Yakut, <title>Geogr, Wörterb.</title>, ed.
                Wüstenfeld, IV, p. 661).</note>
-                <note xml:id="n12" target="#a12" n="12">
+                <note xml:id="n13" target="#a13" n="13">
                     <choice>
                         <reg/>
                         <orig>p. 190, n. 2</orig>
                     </choice>Cf. ch. 27.</note>
-                <note xml:id="n13" target="#a13" n="13">
+                <note xml:id="n14" target="#a14" n="14">
                     <choice>
                         <reg/>
                         <orig>p. 191, n. 1</orig>
                     </choice>This must be the name of the utensil which they required. It probably
                represents some Greek word.</note>
-                <note xml:id="n14" target="#a14" n="14">
+                <note xml:id="n15" target="#a15" n="15">
                     <choice>
                         <reg/>
                         <orig>p. 191, n. 2</orig>
                     </choice>The same is stated in Susan's case (ch. 27), and it is perh. the same cave,
                though one would have expected Susan to be mentioned as the last occupant.</note>
-                <note xml:id="n15" target="#a15" n="15">
+                <note xml:id="n16" target="#a16" n="16">
                     <choice>
                         <reg/>
                         <orig>p. 191, n. 3</orig>
                     </choice>Cf. 'Zach. Rh.', VII, 4. Nöldeke's conjecture <hi rend="singleQuotes">Arsacids</hi> (Arshakuni), hesitatingly adopted by V. D. and L., is quite out of
                place.</note>
-                <note xml:id="n16" target="#a16" n="16">
+                <note xml:id="n17" target="#a17" n="17">
                     <choice>
                         <reg/>
                         <orig>p. 192, n. 1</orig>
                     </choice>I. e. without Mare knowing his purpose (?).</note>
-                <note xml:id="n17" target="#a17" n="17">
+                <note xml:id="n18" target="#a18" n="18">
                     <choice>
                         <reg/>
                         <orig>p. 193, n. 1</orig>
                     </choice>This must have been in 534 (p. 209); but the words though given in the
                present, appear as spoken at the beginning of his ascetic life.</note>
-                <note xml:id="n18" target="#a18" n="18">
+                <note xml:id="n19" target="#a19" n="19">
                     <choice>
                         <reg/>
                         <orig>p. 194, n. 1</orig>
                     </choice>If 8 years after his deprivation is meant, the date is probably 529. In this
                case, as Th. was in the pit 6 years, the removal to Egypt was not later than
                523.</note>
-                <note xml:id="n19" target="#a19" n="19">
+                <note xml:id="n20" target="#a20" n="20">
                     <choice>
                         <reg/>
                         <orig>p. 194, n. 2</orig>
                     </choice>Cf. 'Zach. Rh.' VIII, .</note>
-                <note xml:id="n20" target="#a20" n="20">
+                <note xml:id="n21" target="#a21" n="21">
                     <choice>
                         <reg/>
                         <orig>p. 194, n. 3</orig>
                     </choice>In B thename has the vowel points; see p. 187, n. 1.</note>
-                <note xml:id="n21" target="#a21" n="21">
+                <note xml:id="n22" target="#a22" n="22">
                     <choice>
                         <reg/>
                         <orig>p. 195, n. 1</orig>
                     </choice>1 Apr., 527.</note>
-                <note xml:id="n22" target="#a22" n="22">
+                <note xml:id="n23" target="#a23" n="23">
                     <choice>
                         <reg/>
                         <orig>p. 197, n. 1</orig>
                     </choice>Sc. <hi rend="singleQuotes">house of eye-film (?)</hi>. L. wrongly reads <hi rend="singleQuotes">Beth Shur'a</hi> (house of ruin). The reading of both mss. is
                clear.</note>
-                <note xml:id="n23" target="#a23" n="23">
+                <note xml:id="n24" target="#a24" n="24">
                     <choice>
                         <reg/>
                         <orig>p. 197, n. 2</orig>
                     </choice>522-540 (?). John's figures are not always quite accurate; see
                Introd.</note>
-                <note xml:id="n24" target="#a24" n="24">
+                <note xml:id="n25" target="#a25" n="25">
                     <choice>
                         <reg/>
                         <orig>p. 197, n. 3</orig>
                     </choice>As the monks were in exile till the end of 530 (see Introd.), the arrival of
                Amida cannot be earlier than that time.</note>
-                <note xml:id="n25" target="#a25" n="25">
+                <note xml:id="n26" target="#a26" n="26">
                     <choice>
                         <reg/>
                         <orig>p. 197, n. 4</orig>
                     </choice>s. LXXXIV, 11. The word for <hi rend="singleQuotes">habitation</hi> is the
                same as that for <hi rend="singleQuotes">monestary</hi>.</note>
-                <note xml:id="n26" target="#a26" n="26">
+                <note xml:id="n27" target="#a27" n="27">
                     <choice>
                         <reg/>
                         <orig>p. 198, n. 1</orig>
                     </choice>The sentence is finished in a different way.</note>
-                <note xml:id="n27" target="#a27" n="27">
+                <note xml:id="n28" target="#a28" n="28">
                     <choice>
                         <reg/>
                         <orig>p. 199, n. 1</orig>
                     </choice>Luke, XVI, 13.</note>
-                <note xml:id="n28" target="#a28" n="28">
+                <note xml:id="n29" target="#a29" n="29">
                     <choice>
                         <reg/>
                         <orig>p. 200, n. 1</orig>
                     </choice>Sic syr. Perh. ins. a negative , and render <hi rend="singleQuotes">on which
                   our... requests are not</hi>.</note>
-                <note xml:id="n29" target="#a29" n="29">
+                <note xml:id="n30" target="#a30" n="30">
                     <choice>
                         <reg/>
                         <orig>p. 204, n. 1</orig>
                     </choice>The hours seem to be reckoned from midnight. He could hardly begin at 7
                P.M., and, if he did, he would get no sleep at all. Cf. p. 215, n. 1.</note>
-                <note xml:id="n30" target="#a30" n="30">
+                <note xml:id="n31" target="#a31" n="31">
                     <choice>
                         <reg/>
                         <orig>p. 204, n. 2</orig>
                     </choice>A division of the Psalms (gr. <foreign xml:lang="grc">στάσις</foreign>). Of
                these were usually 15, so that we should probably understand that he made 50
                genuflexions during matins</note>
-                <note xml:id="n31" target="#a31" n="31">
+                <note xml:id="n32" target="#a32" n="32">
                     <choice>
                         <reg/>
                         <orig>p. 204, n. 3</orig>
                     </choice>Prostrations in token of penitence.</note>
-                <note xml:id="n32" target="#a32" n="32">
+                <note xml:id="n33" target="#a33" n="33">
                     <choice>
                         <reg/>
                         <orig>p. 207, n. 1</orig>
-                    </choice>Officials of the staff of the <foreign>magister officorum</foreign>.</note>
-                <note xml:id="n33" target="#a33" n="33">
+                    </choice>Officials of the staff of the <foreign xml:lang="la">magister officorum</foreign>.</note>
+                <note xml:id="n34" target="#a34" n="34">
                     <choice>
                         <reg/>
                         <orig>p. 208, n. 1</orig>
                     </choice>Or <hi rend="singleQuotes">solitary life</hi>.</note>
-                <note xml:id="n34" target="#a34" n="34">
+                <note xml:id="n35" target="#a35" n="35">
                     <choice>
                         <reg/>
                         <orig>p. 209, n. 1</orig>
                     </choice>Since Th. stayed at least 2 years in Amida, we may probably place this visit
                in 534; see Introd. and Dyakanov, p. 47.</note>
-                <note xml:id="n35" target="#a35" n="35">
+                <note xml:id="n36" target="#a36" n="36">
                     <choice>
                         <reg/>
                         <orig>p. 209, n. 2</orig>
                     </choice>The celebrated monastery; see <title>Journ. As.</title>, ser. V, tom. XII
                (1858), p. 414. PATR. OR. - T. XVII. - F.1.</note>
-                <note xml:id="n36" target="#a36" n="36">
+                <note xml:id="n37" target="#a37" n="37">
                     <choice>
                         <reg/>
                         <orig>p. 210, n. 1</orig>
@@ -711,18 +715,18 @@
                visit to 551-554. J. however was in Alexandria in 541 (ch. 25. see Introd. and
                Dyakonov, p. 63), and there is no evidence that he was there later; and we may
                therefore take 26 as an error for '16', and place Th.'s death in 537-8.</note>
-                <note xml:id="n37" target="#a37" n="37">
+                <note xml:id="n38" target="#a38" n="38">
                     <choice>
                         <reg/>
                         <orig>p. 211, n. 1</orig>
                     </choice>J. probably here returns to the narrative on p. 210 and refers to his first
                visit to CP. in 535 (see Introd.).</note>
-                <note xml:id="n38" target="#a38" n="38">
+                <note xml:id="n39" target="#a39" n="39">
                     <choice>
                         <reg/>
                         <orig>p. 212, n. 1</orig>
                     </choice>The plague of 542.</note>
-                <note xml:id="n39" target="#a39" n="39">
+                <note xml:id="n40" target="#a40" n="40">
                     <choice>
                         <reg/>
                         <orig>p. 212, n. 2</orig>

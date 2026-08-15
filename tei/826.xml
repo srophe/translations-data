@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="m" ref="http://syriaca.org/work/826">Simeon the Scribe</title>
+            <title level="a" ref="http://syriaca.org/work/826">Simeon the Scribe</title>
             <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
             <author>
                <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -96,7 +96,7 @@
                         said not <quote>To vile and feeble men</quote>, but <quote>To me ye did
                            it</quote>.</quote>
                </ab>
-               <ab xml:id="section-34.2" n="3"> And these things this true bondman of God would say with
+               <ab xml:id="section-34.2" n="2"> And these things this true bondman of God would say with
                   sorrow and tears besides many others. But at first he was indeed actually in great
                   straits, because he had not supplies sufficient for his abounding willingness; but
                   at last, when he had continued for several years, and the fame of his practices

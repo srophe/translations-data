@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" ref="http://syriaca.org/work/817">John of Hephaestopolis</title>
+                <title level="a" ref="http://syriaca.org/work/817">John of Hephaestopolis</title>
                 <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
                     <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -66,7 +66,7 @@
     <text>
         <body>
          <!-- See spear/817 -->
-            <div type="work" xml:id="work-52" n="25">
+            <div type="work" xml:id="work-25" n="25">
                 <div type="section" xml:id="section-25">
                     <head type="main">Next the Twenty-Fifth History, of the Blessed <persName ref="http://syriaca.org/person/74">John</persName> Bishop of the City Of
                      <placeName ref="http://syriaca.org/place/2788">Hephaestu</placeName>

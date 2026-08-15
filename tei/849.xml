@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" ref="http://syriaca.org/work/849">Jacob Baradaeus</title>
+                <title level="a" ref="http://syriaca.org/work/849">Jacob Baradaeus</title>
                 <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
                     <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
@@ -130,7 +130,7 @@
                   they left to their own son <persName>James</persName>; and they left two <pb type="vol" n="232"/><pb type="running" rend="brackets" n="578"/>slaves and a large amount of property (<foreign xml:lang="grc">ούσία</foreign>). But the divine <persName>James</persName>, as
                   soon as he saw that his parents were dead, called his two slaves, and set them
                   free; and he gave them the house with the property (<foreign xml:lang="grc">ούσία</foreign>) and the chattels and he did not take even one
-                     <foreign>mina</foreign>; for he used to say <quote>Let the things of the world
+                     mina; for he used to say <quote>Let the things of the world
                      be given to the world.</quote> And after a short time, when he had received
                   deacon's orders in his same monastery, he would cause himself to copy the pattern
                   of the angels' watchfulness, embracing the immaterial observances of the angels
