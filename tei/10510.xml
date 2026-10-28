@@ -38,10 +38,10 @@
                 <date>2026-03-02</date>
             </publicationStmt>
             <seriesStmt>
-                <title><!--The Syriac Library--></title>
+                <title>The Syriac Sourcebook</title>
                 <editor role="general"
                         ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI"><!-- URI NEEDED! --></idno>
+                <idno type="URI">https://syriac-sourcebook.org</idno>
             </seriesStmt>
             <seriesStmt>
                 <title>The Lives of the Eastern Saints</title>
@@ -52,10 +52,10 @@
             </seriesStmt>
             <notesStmt>
                 <relatedItem type="previous">
-                    <ptr target="https://syriac-library/848"/>
+                    <ptr target="https://syriac-sourcebook.org/848"/>
                 </relatedItem>
                 <relatedItem type="next">
-                    <ptr target="https://syriac-library/849"/>
+                    <ptr target="https://syriac-sourcebook.org/849"/>
                 </relatedItem>
             </notesStmt>
             <sourceDesc>
@@ -65,8 +65,7 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body>
-         <!-- See spear/10510 -->
+        <body>       
             <div type="work" xml:id="work-58" n="58">
                 <div type="section" xml:id="section-58">
                     <head type="main">Next the Fifty-Eighth History, Concerning the Original Foundation of The

@@ -37,10 +37,10 @@
                 <date>2026-03-02</date>
             </publicationStmt>
             <seriesStmt>
-                <title><!--The Syriac Library--></title>
+                <title>The Syriac Sourcebook</title>
                 <editor role="general"
                         ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI"><!-- URI NEEDED! --></idno>
+                <idno type="URI">https://syriac-sourcebook.org</idno>
             </seriesStmt>
             <seriesStmt>
                 <title>The Lives of the Eastern Saints</title>
@@ -51,10 +51,10 @@
             </seriesStmt>
             <notesStmt>
                 <relatedItem type="previous">
-                    <ptr target="https://syriac-library/803"/>
+                    <ptr target="https://syriac-sourcebook.org/803"/>
                 </relatedItem>
                 <relatedItem type="next">
-                    <ptr target="https://syriac-library/805"/>
+                    <ptr target="https://syriac-sourcebook.org/805"/>
                 </relatedItem>
             </notesStmt>
             <sourceDesc>
@@ -65,7 +65,7 @@
     </teiHeader>
     <text>
         <body>
-         <!-- See spear/804.xml -->
+         
             <div type="work" xml:id="work">
                 <div type="section" xml:id="section-12" n="12">
                     <head type="main">Next the Twelfth History, of Two Holy Sisters, Who Were Called <persName ref="http://syriaca.org/person/1880">Daughters of the Gazelle</persName>,<ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/> and One Performed Her Task In

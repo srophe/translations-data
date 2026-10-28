@@ -37,10 +37,10 @@
                 <date>2026-03-02</date>
             </publicationStmt>
             <seriesStmt>
-                <title><!--The Syriac Library--></title>
+                <title>The Syriac Sourcebook</title>
                 <editor role="general"
                         ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI"><!-- URI NEEDED! --></idno>
+                <idno type="URI">https://syriac-sourcebook.org</idno>
             </seriesStmt>
             <seriesStmt>
                 <title>The Lives of the Eastern Saints</title>
@@ -51,10 +51,10 @@
             </seriesStmt>
             <notesStmt>
                 <relatedItem type="previous">
-                    <ptr target="https://syriac-library/808"/>
+                    <ptr target="https://syriac-sourcebook.org/808"/>
                 </relatedItem>
                 <relatedItem type="next">
-                    <ptr target="https://syriac-library/810"/>
+                    <ptr target="https://syriac-sourcebook.org/810"/>
                 </relatedItem>
             </notesStmt>
             <sourceDesc>
@@ -65,7 +65,7 @@
     </teiHeader>
     <text>
         <body>
-         <!-- See spear/809.xml -->
+         
             <div type="work" xml:id="work-17" n="17">
                 <div type="section" xml:id="section-17">
                     <head type="main">Next the Seventeenth History Which Is That of One Of The Saints Who Would Not

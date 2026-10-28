@@ -37,10 +37,10 @@
             <date>2026-03-02</date>
          </publicationStmt>
          <seriesStmt>
-            <title><!--The Syriac Library--></title>
+            <title>The Syriac Sourcebook</title>
             <editor role="general"
                ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-            <idno type="URI"><!-- URI NEEDED! --></idno>
+            <idno type="URI">https://syriac-sourcebook.org</idno>
          </seriesStmt>
          <seriesStmt>
             <title>The Lives of the Eastern Saints</title>
@@ -51,10 +51,10 @@
          </seriesStmt>
          <notesStmt>
             <relatedItem type="previous">
-               <ptr target="https://syriac-library/837"/>
+               <ptr target="https://syriac-sourcebook.org/837"/>
             </relatedItem>
             <relatedItem type="next">
-               <ptr target="https://syriac-library/839"/>
+               <ptr target="https://syriac-sourcebook.org/839"/>
             </relatedItem>
          </notesStmt>
          <sourceDesc>
@@ -65,7 +65,7 @@
    </teiHeader>
    <text>
       <body>
-         <!-- See spear/838 -->
+         
          <div type="work" xml:id="work-47" n="47">
             <div type="section" xml:id="section-47">
                <head type="main">Next the Fourty-Seventh History, Concerning the Holy Comunnities Which

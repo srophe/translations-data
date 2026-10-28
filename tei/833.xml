@@ -37,10 +37,10 @@
             <date>2026-03-02</date>
          </publicationStmt>
          <seriesStmt>
-            <title><!--The Syriac Library--></title>
+            <title>The Syriac Sourcebook</title>
             <editor role="general"
                ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-            <idno type="URI"><!-- URI NEEDED! --></idno>
+            <idno type="URI">https://syriac-sourcebook.org</idno>
          </seriesStmt>
          <seriesStmt>
             <title>The Lives of the Eastern Saints</title>
@@ -51,10 +51,10 @@
          </seriesStmt>
          <notesStmt>
             <relatedItem type="previous">
-               <ptr target="https://syriac-library/832"/>
+               <ptr target="https://syriac-sourcebook.org/832"/>
             </relatedItem>
             <relatedItem type="next">
-               <ptr target="https://syriac-library/834"/>
+               <ptr target="https://syriac-sourcebook.org/834"/>
             </relatedItem>
          </notesStmt>
          <sourceDesc>
@@ -65,7 +65,7 @@
    </teiHeader>
    <text>
       <body>
-         <!-- See spear/833 -->
+         
          <div type="work" xml:id="work-42" n="42">
             <div type="section" xml:id="section-42">
                <head type="main">Next the Forty-Second History, of the Three Blessed Archimandrites, <persName ref="http://syriaca.org/person/1876">Mari</persName>, <persName ref="http://syriaca.org/person/2070">Sergius</persName>, and <persName ref="http://syriaca.org/person/1672">Daniel</persName>, Who Themselves Also as

@@ -37,10 +37,10 @@
                 <date>2026-03-02</date>
             </publicationStmt>
             <seriesStmt>
-                <title><!--The Syriac Library--></title>
+                <title>The Syriac Sourcebook</title>
                 <editor role="general"
                         ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI"><!-- URI NEEDED! --></idno>
+                <idno type="URI">https://syriac-sourcebook.org</idno>
             </seriesStmt>
             <seriesStmt>
                 <title>The Lives of the Eastern Saints</title>
@@ -51,10 +51,10 @@
             </seriesStmt>
             <notesStmt>
                 <relatedItem type="previous">
-                    <ptr target="https://syriac-library/824"/>
+                    <ptr target="https://syriac-sourcebook.org/824"/>
                 </relatedItem>
                 <relatedItem type="next">
-                    <ptr target="https://syriac-library/826"/>
+                    <ptr target="https://syriac-sourcebook.org/826"/>
                 </relatedItem>
             </notesStmt>
             <sourceDesc>
@@ -65,7 +65,7 @@
     </teiHeader>
     <text>
         <body>
-         <!-- See spear/825 -->
+         
             <div type="work" xml:id="work-33" n="33">
                 <div type="section" xml:id="section-33">
                     <head type="main">Next the Thirty-Third History, of a Blessed Man Whose Name Was <persName ref="http://syriaca.org/person/1769">Hala</persName> the Zealous From the

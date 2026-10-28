@@ -37,10 +37,10 @@
             <date>2026-03-02</date>
          </publicationStmt>
          <seriesStmt>
-            <title><!--The Syriac Library--></title>
+            <title>The Syriac Sourcebook</title>
             <editor role="general"
                ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-            <idno type="URI"><!-- URI NEEDED! --></idno>
+            <idno type="URI">https://syriac-sourcebook.org</idno>
          </seriesStmt>
          <seriesStmt>
             <title>The Lives of the Eastern Saints</title>
@@ -51,10 +51,10 @@
          </seriesStmt>
          <notesStmt>
             <relatedItem type="previous">
-               <ptr target="https://syriac-library/817"/>
+               <ptr target="https://syriac-sourcebook.org/817"/>
             </relatedItem>
             <relatedItem type="next">
-               <ptr target="https://syriac-library/819"/>
+               <ptr target="https://syriac-sourcebook.org/819"/>
             </relatedItem>
          </notesStmt>
          <sourceDesc>
@@ -65,7 +65,7 @@
    </teiHeader>
    <text>
       <body>
-         <!-- See spear/818 -->
+         
          <div type="work" xml:id="work-26" n="26">
             <div type="section" xml:id="section-26">
                <head type="main">Next the Twenty-Sixth History, of the Holy <persName ref="http://syriaca.org/person/2125">Thomas</persName> the Persecuted Man and

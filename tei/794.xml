@@ -39,10 +39,10 @@
                 <date>2026-03-02</date>
             </publicationStmt>
             <seriesStmt>
-                <title><!--The Syriac Library--></title>
+                <title>The Syriac Sourcebook</title>
                 <editor role="general"
                         ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI"><!-- URI NEEDED! --></idno>
+                <idno type="URI">https://syriac-sourcebook.org</idno>
             </seriesStmt>
             <seriesStmt>
                 <title>The Lives of the Eastern Saints</title>
@@ -53,10 +53,10 @@
             </seriesStmt>
             <notesStmt>
                 <relatedItem type="previous">
-                    <ptr target="https://syriac-library/793"/>
+                    <ptr target="https://syriac-sourcebook.org/793"/>
                 </relatedItem>
                 <relatedItem type="next">
-                    <ptr target="https://syriac-library/795"/>
+                    <ptr target="https://syriac-sourcebook.org/795"/>
                 </relatedItem>
             </notesStmt>
             <sourceDesc>
@@ -66,7 +66,7 @@
     </teiHeader>
     <text>
         <body>
-         <!-- See spear/794.xml -->
+         
             <div type="work" xml:id="work-2" n="2">
                 <div type="section" xml:id="section-2">
                     <head type="main">Next the Second History, Of the Divine Blessed Man <persName ref="http://syriaca.org/person/1524">Zʿura</persName>.</head>

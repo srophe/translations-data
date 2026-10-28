@@ -37,10 +37,10 @@
                 <date>2026-03-02</date>
             </publicationStmt>
             <seriesStmt>
-                <title><!--The Syriac Library--></title>
+                <title>The Syriac Sourcebook</title>
                 <editor role="general"
                         ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI"><!-- URI NEEDED! --></idno>
+                <idno type="URI">https://syriac-sourcebook.org</idno>
             </seriesStmt>
             <seriesStmt>
                 <title>The Lives of the Eastern Saints</title>
@@ -51,10 +51,10 @@
             </seriesStmt>
             <notesStmt>
                 <relatedItem type="previous">
-                    <ptr target="https://syriac-library/812"/>
+                    <ptr target="https://syriac-sourcebook.org/812"/>
                 </relatedItem>
                 <relatedItem type="next">
-                    <ptr target="https://syriac-library/814"/>
+                    <ptr target="https://syriac-sourcebook.org/814"/>
                 </relatedItem>
             </notesStmt>
             <sourceDesc>
@@ -65,7 +65,7 @@
     </teiHeader>
     <text>
         <body>
-         <!-- See spear/813.xml -->
+         
             <div type="work" xml:id="work-21" n="21">
                 <div type="section" xml:id="section-21">
                     <head type="main">Next the Twenty-First History, of the Great Blessed Man <persName ref="http://syriaca.org/person/2126">Thomas</persName> From <placeName ref="http://syriaca.org/place/576">Armenia</placeName>, Who From Great Riches

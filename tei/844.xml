@@ -37,10 +37,10 @@
             <date>2026-03-02</date>
          </publicationStmt>
          <seriesStmt>
-            <title><!--The Syriac Library--></title>
+            <title>The Syriac Sourcebook</title>
             <editor role="general"
                ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-            <idno type="URI"><!-- URI NEEDED! --></idno>
+            <idno type="URI">https://syriac-sourcebook.org</idno>
          </seriesStmt>
          <seriesStmt>
             <title>The Lives of the Eastern Saints</title>
@@ -51,10 +51,10 @@
          </seriesStmt>
          <notesStmt>
             <relatedItem type="previous">
-               <ptr target="https://syriac-library/843"/>
+               <ptr target="https://syriac-sourcebook.org/843"/>
             </relatedItem>
             <relatedItem type="next">
-               <ptr target="https://syriac-library/845"/>
+               <ptr target="https://syriac-sourcebook.org/845"/>
             </relatedItem>
          </notesStmt>
          <sourceDesc>
@@ -65,7 +65,7 @@
    </teiHeader>
    <text>
       <body>
-         <!-- See spear/844 -->
+         
          <div type="work" xml:id="work-53" n="53">
             <div type="section" xml:id="section-53">
                <head type="main">Next the Fifty-Third History, of the Divine Blessed Man <persName ref="http://syriaca.org/person/2024">Priscus</persName>.<ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/>

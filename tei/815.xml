@@ -37,10 +37,10 @@
             <date>2026-03-02</date>
          </publicationStmt>
          <seriesStmt>
-            <title><!--The Syriac Library--></title>
+            <title>The Syriac Sourcebook</title>
             <editor role="general"
                ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-            <idno type="URI"><!-- URI NEEDED! --></idno>
+            <idno type="URI">https://syriac-sourcebook.org</idno>
          </seriesStmt>
          <seriesStmt>
             <title>The Lives of the Eastern Saints</title>
@@ -51,10 +51,10 @@
          </seriesStmt>
          <notesStmt>
             <relatedItem type="previous">
-               <ptr target="https://syriac-library/814"/>
+               <ptr target="https://syriac-sourcebook.org/814"/>
             </relatedItem>
             <relatedItem type="next">
-               <ptr target="https://syriac-library/816"/>
+               <ptr target="https://syriac-sourcebook.org/816"/>
             </relatedItem>
          </notesStmt>
          <sourceDesc>
@@ -65,7 +65,7 @@
    </teiHeader>
    <text>
       <body>
-         <!-- See spear/815.xml -->
+         
          <div type="work" xml:id="work-23" n="23">
             <div type="section" xml:id="section-23">
                <head type="main">Next the Twenty-Third History, of the Blessed <persName ref="http://syriaca.org/person/2099">Simeon</persName> the Solitary,</head>

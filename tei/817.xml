@@ -37,10 +37,10 @@
                 <date>2026-03-02</date>
             </publicationStmt>
             <seriesStmt>
-                <title><!--The Syriac Library--></title>
+                <title>The Syriac Sourcebook</title>
                 <editor role="general"
                         ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI"><!-- URI NEEDED! --></idno>
+                <idno type="URI">https://syriac-sourcebook.org</idno>
             </seriesStmt>
             <seriesStmt>
                 <title>The Lives of the Eastern Saints</title>
@@ -51,10 +51,10 @@
             </seriesStmt>
             <notesStmt>
                 <relatedItem type="previous">
-                    <ptr target="https://syriac-library/816"/>
+                    <ptr target="https://syriac-sourcebook.org/816"/>
                 </relatedItem>
                 <relatedItem type="next">
-                    <ptr target="https://syriac-library/818"/>
+                    <ptr target="https://syriac-sourcebook.org/818"/>
                 </relatedItem>
             </notesStmt>
             <sourceDesc>
@@ -65,7 +65,7 @@
     </teiHeader>
     <text>
         <body>
-         <!-- See spear/817 -->
+         
             <div type="work" xml:id="work-25" n="25">
                 <div type="section" xml:id="section-25">
                     <head type="main">Next the Twenty-Fifth History, of the Blessed <persName ref="http://syriaca.org/person/74">John</persName> Bishop of the City Of

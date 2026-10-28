@@ -37,10 +37,10 @@
             <date>2026-03-02</date>
          </publicationStmt>
          <seriesStmt>
-            <title><!--The Syriac Library--></title>
+            <title>The Syriac Sourcebook</title>
             <editor role="general"
                ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-            <idno type="URI"><!-- URI NEEDED! --></idno>
+            <idno type="URI">https://syriac-sourcebook.org</idno>
          </seriesStmt>
          <seriesStmt>
             <title>The Lives of the Eastern Saints</title>
@@ -51,10 +51,10 @@
          </seriesStmt>
          <notesStmt>
             <relatedItem type="previous">
-               <ptr target="https://syriac-library/844"/>
+               <ptr target="https://syriac-sourcebook.org/844"/>
             </relatedItem>
             <relatedItem type="next">
-               <ptr target="https://syriac-library/846"/>
+               <ptr target="https://syriac-sourcebook.org/846"/>
             </relatedItem>
          </notesStmt>
          <sourceDesc>
@@ -65,7 +65,7 @@
    </teiHeader>
    <text>
       <body>
-         <!-- See spear/845 -->
+         
          <div type="work" xml:id="work-54" n="54">
             <div type="section" xml:id="section-54">
                <head type="main">Next the Fifty-Fourth History, of the Blessed <persName ref="http://syriaca.org/person/2621">Caesaria</persName> the Patrician,<ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/> Who Began and Through God's Help

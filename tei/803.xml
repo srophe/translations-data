@@ -37,10 +37,10 @@
             <date>2026-03-02</date>
          </publicationStmt>
          <seriesStmt>
-            <title><!--The Syriac Library--></title>
+            <title>The Syriac Sourcebook</title>
             <editor role="general"
                ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-            <idno type="URI"><!-- URI NEEDED! --></idno>
+            <idno type="URI">https://syriac-sourcebook.org</idno>
          </seriesStmt>
          <seriesStmt>
             <title>The Lives of the Eastern Saints</title>
@@ -51,10 +51,10 @@
          </seriesStmt>
          <notesStmt>
             <relatedItem type="previous">
-               <ptr target="https://syriac-library/802"/>
+               <ptr target="https://syriac-sourcebook.org/802"/>
             </relatedItem>
             <relatedItem type="next">
-               <ptr target="https://syriac-library/804"/>
+               <ptr target="https://syriac-sourcebook.org/804"/>
             </relatedItem>
          </notesStmt>
          <sourceDesc>
@@ -65,7 +65,7 @@
    </teiHeader>
    <text>
       <body>
-         <!-- See spear/803.xml -->
+         
          <div type="work" xml:id="work-11" n="11">
             <div type="section" xml:id="section-11">
                <head type="main">Next the Eleventh History, of <persName ref="http://syriaca.org/person/1771">Harfat</persName> the Chorepiscopus From the Country of <placeName ref="http://syriaca.org/place/2758">Anzetene</placeName>

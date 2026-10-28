@@ -37,10 +37,10 @@
             <date>2026-03-02</date>
          </publicationStmt>
          <seriesStmt>
-            <title><!--The Syriac Library--></title>
+            <title>The Syriac Sourcebook</title>
             <editor role="general"
                ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-            <idno type="URI"><!-- URI NEEDED! --></idno>
+            <idno type="URI">https://syriac-sourcebook.org</idno>
          </seriesStmt>
          <seriesStmt>
             <title>The Lives of the Eastern Saints</title>
@@ -51,10 +51,10 @@
          </seriesStmt>
          <notesStmt>
             <relatedItem type="previous">
-               <ptr target="https://syriac-library/846"/>
+               <ptr target="https://syriac-sourcebook.org/846"/>
             </relatedItem>
             <relatedItem type="next">
-               <ptr target="https://syriac-library/848"/>
+               <ptr target="https://syriac-sourcebook.org/848"/>
             </relatedItem>
          </notesStmt>
          <sourceDesc>
@@ -65,7 +65,7 @@
    </teiHeader>
    <text>
       <body>
-         <!-- See spear/847 -->
+         
          <div type="work" xml:id="work-56" n="56">
             <div type="section" xml:id="section-56">
                <head type="main">Next the Fifty-Sixth History, of the Blessed <persName ref="http://syriaca.org/person/2011">Peter</persName>, Who Himself Also Was

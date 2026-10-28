@@ -37,10 +37,10 @@
             <date>2026-03-02</date>
          </publicationStmt>
          <seriesStmt>
-            <title><!--The Syriac Library--></title>
+            <title>The Syriac Sourcebook</title>
             <editor role="general"
                ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-            <idno type="URI"><!-- URI NEEDED! --></idno>
+            <idno type="URI">https://syriac-sourcebook.org</idno>
          </seriesStmt>
          <seriesStmt>
             <title>The Lives of the Eastern Saints</title>
@@ -51,10 +51,10 @@
          </seriesStmt>
          <notesStmt>
             <relatedItem type="previous">
-               <ptr target="https://syriac-library/834"/>
+               <ptr target="https://syriac-sourcebook.org/834"/>
             </relatedItem>
             <relatedItem type="next">
-               <ptr target="https://syriac-library/836"/>
+               <ptr target="https://syriac-sourcebook.org/836"/>
             </relatedItem>
          </notesStmt>
          <sourceDesc>
@@ -65,7 +65,7 @@
    </teiHeader>
    <text>
       <body>
-         <!-- See spear/835 -->
+         
          <div type="work" xml:id="work-44" n="44">
             <div type="section" xml:id="section-44">
                <head type="main">Next the Forty-Fourth History, of <persName ref="http://syriaca.org/person/3155">Tribunus</persName> Who in Habit (<foreign xml:lang="grc">σχήμα</foreign>) Was A Layman and a Count, but in the

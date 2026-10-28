@@ -39,10 +39,10 @@
                 <date>2026-03-02</date>
             </publicationStmt>
             <seriesStmt>
-                <title><!--The Syriac Library--></title>
+                <title>The Syriac Sourcebook</title>
                 <editor role="general"
                         ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI"><!-- URI NEEDED! --></idno>
+                <idno type="URI">https://syriac-sourcebook.org</idno>
             </seriesStmt>
             <seriesStmt>
                 <title>The Lives of the Eastern Saints</title>
@@ -59,7 +59,7 @@
     </teiHeader>
     <text>
         <body>
-         <!-- See spear/850 -->
+         
          <!-- eb, I cannot find spear/850 so I have merely attached persNames and placeNames for now. -->
             <div type="work" xml:id="work-60" n="60">
                 <div type="section" xml:id="section-60">
