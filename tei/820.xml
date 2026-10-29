@@ -65,7 +65,6 @@
    </teiHeader>
    <text>
       <body>
-         
          <div type="work" xml:id="work-28" n="28">
             <div type="section" xml:id="section-28">
                <head type="main">Next the Twenty-Eighth<ptr type="noteAnchor" xml:id="a1" target="#n1" n="1"/> History,
@@ -85,7 +84,7 @@
                   with all that is in it, meditating in herself and saying: <quote>Lo! they are rich
                      who <pb type="vol" n="560"/><pb type="running" rend="brackets" n="358"/>possess the world that passes not away for ever
                      and ever, not we wretched persons among whom, as soon as a man has become rich
-                     and proud<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/> and boastful, and
+                     and<ptr type="noteAnchor" xml:id="a2" target="#n2" n="2"/> proud and boastful, and
                      believed himself to be lord of his own riches, death has come and cast him down
                      into <foreign>sheol</foreign>, and others have taken away his toil in which he
                      toiled from his childhood even to his death, and which has perhaps been amassed
@@ -124,11 +123,6 @@
                   even a week, and ten days, and then she would taste something. And, when she had
                   walked strongly and heroically in the road of righteousness for thirty years, she
                   finished her course and received the crown<ptr type="noteAnchor" xml:id="a8" target="#n8" n="8"/> earned by her life, and fell asleep in peace. </ab>
-            </div>
-            <div type="trailer" xml:id="trailer-28">
-               <ab xml:id="trailer-28.1" n="3"> The history of the 
-                  blessed <persName ref="http://syriaca.org/person/1881">Mary</persName> the 
-                  anchorite<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/> is ended. </ab>
             </div>
          </div>
          <noteGrp>
