@@ -16,7 +16,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI"><!-- URI NEEDED --></idno>
+                <idno type="URI">https://syriac-sourcebook.org/.xml</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0//">
                         <p>This work is licensed under a Creative Commons Attribution 4.0 International
@@ -425,7 +425,7 @@
                         <reg/>
                         <orig>p. 166, n. 1</orig>
                     </choice>The ref. is to Acts, IX, 36 (see p. 174); but, as the word is in the
-               absolute (<foreign>tabya</foreign>), not the emphatic (Tabitha), it must not be
+               absolute (<foreign>tabya</foreign>), not the emphatic (<foreign>Tabitha</foreign>), it must not be
                rendered as a proper name.</note>
                 <note xml:id="n2" target="#a2" n="2">
                     <choice>
