@@ -65,7 +65,6 @@
    </teiHeader>
    <text>
       <body>
-         
          <div type="work" xml:id="work-34" n="34">
             <div type="section" xml:id="section-34">
                <head type="main">[Next the Thirty-Fourth History, of <persName ref="http://syriaca.org/person/2098">Simeon</persName> the Old, the Scribe of
@@ -129,7 +128,8 @@
                   came and went, but he brought <persName ref="http://syriaca.org/person/3685">four
                      blind men</persName>, and placed them in his cell at his table; and thenceforth
                   he was not to be seen except distributing the food and placing it in the mouth of
-                  each <pb type="vol" n="605"/><pb type="running" rend="brackets" n="403"/>one of them by his name,<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/>; and, if it were a portion of bread (?)<ptr type="noteAnchor" xml:id="a10" target="#n10" n="10"/> or some herbs, or a cup, he would
+                  each <pb type="vol" n="605"/><pb type="running" rend="brackets" n="403"/>one of them by his name,<ptr type="noteAnchor" xml:id="a9" target="#n9" n="9"/>; 
+                  and, if it were a portion of bread (?)<ptr type="noteAnchor" xml:id="a10" target="#n10" n="10"/> or some herbs, or a cup, he would
                   grasp each of them with his hand, calling them by their names, and entreating and
                   pressing them to eat, while he also grasped the hand of each one of them and made
                   it feel the dish; and again that,<ptr type="noteAnchor" xml:id="a11" target="#n11" n="11"/>
@@ -223,9 +223,14 @@
             <note xml:id="n11" target="#a11" n="11">
                <choice>
                   <reg/>
-                  <orig>p. 403, n. 3</orig>
+                  <orig>p. 403, n. 1</orig>
                </choice>Sic syr.</note>
             <note xml:id="n12" target="#a12" n="12">
+               <choice>
+                  <reg/>
+                  <orig>p. 403, n. 3</orig>
+               </choice>Sic syr.</note>
+            <note xml:id="n13" target="#a13" n="13">
                <choice>
                   <reg/>
                   <orig>p. 404, n. 1</orig>
