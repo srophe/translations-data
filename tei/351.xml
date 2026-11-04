@@ -30,22 +30,59 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <p>Publication Information</p>
+                <authority>Syriaca.org: The Syriac Reference Portal</authority>
+                <idno type="URI">https://syriac-sourcebook.org/351/tei</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).</p>
+                        <p>This work encodes material from: 
+                            <listBibl>
+                                <bibl>
+                                    <editor>Frederick Lent</editor>
+                                    <title level="a">The Life of St. Simeon Stylites: A Translation of the Syriac Text in Bedjan’s Acta Martyrum et Sanctorum, Vol. IV</title>
+                                    <title level="m">Journal of the American Oriental Society</title>
+                                    <biblScope unit="vol">35</biblScope>
+                                    <date>1915</date>
+                                    <biblScope unit="p">103-98</biblScope>
+                                    <ref target="https://doi.org/10.2307/592644"/>
+                                    <note>This work is in the public domain.</note>
+                                </bibl>
+                                <bibl>
+                                    <title level="a" ref="https://www.tertullian.org/fathers/simeon_stylites_vita_01_trans.htm">
+                                        The Life of Simeon Stylites.  Journal of the American Oriental Society 35 (1915) pp.111-198.  Translation.
+                                    </title>
+                                    <title level="s">Early Church Fathers - Additional Texts</title>
+                                    <note>This work is in the public domain.</note>
+                                </bibl>
+                            </listBibl>
+                        </p>
+                    </licence>
+                </availability>
+                <date>2026-03-02</date>
             </publicationStmt>
             <sourceDesc>
-                <p>Lent, Frederick. <title>The Life of St. Simeon Stylites: A Translation of the
-                        Syriac Text in Bedjan’s Acta Martyrum et Sanctorum, Vol. IV.</title> Journal
-                    of the American Oriental Society 35 (1915): 103–98. <ref
-                        target="https://doi.org/10.2307/592644"
-                    >https://doi.org/10.2307/592644</ref>.</p>
-                <p>Initial transcription of the text by Roger Pearse, downloaded from Tertullian.org
-                    on 05/15/2025: <ref
-                        target="https://www.tertullian.org/fathers/simeon_stylites_vita_01_trans.htm"
-                        > https://www.tertullian.org/fathers/simeon_stylites_vita_01_trans.htm
-                    </ref>. The present transcription has followed Roger Pearse in including only a
+                <p>This encoding is based on the following edition:
+                    <bibl>
+                        <editor>Frederick Lent</editor>
+                        <title level="a">The Life of St. Simeon Stylites: A Translation of the Syriac Text in Bedjan’s Acta Martyrum et Sanctorum, Vol. IV</title>
+                        <title level="m">Journal of the American Oriental Society</title>
+                        <biblScope unit="vol">35</biblScope>
+                        <date>1915</date>
+                        <biblScope unit="p">103-98</biblScope>
+                        <ref target="https://doi.org/10.2307/592644"/>
+                        <note>This work is in the public domain.</note>
+                    </bibl></p>
+                <p>Initial transcription of the text upon which this encoding was based was downloaded 
+                    from Tertullian.org on 15 May 2025: 
+                    <bibl>
+                        <title level="a" ref="https://www.tertullian.org/fathers/simeon_stylites_vita_01_trans.htm">
+                            The Life of Simeon Stylites.  Journal of the American Oriental Society 35 (1915) pp.111-198.  Translation.
+                        </title>
+                        <title level="s">Early Church Fathers - Additional Texts</title>
+                        <note>This work is in the public domain.</note>
+                    </bibl>.</p>
+                <p>The present transcription has followed Roger Pearse in including only a
                     selection of the footnotes in the original translation by Lent.</p>
-                <p>Both the original translation by Lent and the transcription by Pearse are in the
-                    public domain.</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -65,7 +102,7 @@
                     consummation of life eternal—the blessed <persName>Mar Simeon</persName>.</ab>
                 <ab xml:id="section-2" n="2">This glorious man, then, came from the region of
                         <placeName>Nicopolis</placeName>, and the name of his town was
-                        <placeName>Ṣīṣ</placeName><!-- this word doesn't appear italicized in the original but it has some unique aspects wasn't sure if it was foreign translation -->. Now he had Christian parents who gave him
+                        <placeName>Ṣīṣ</placeName>. Now he had Christian parents who gave him
                     baptism when he was small. He had a brother whose name was <persName>Mar
                         Shemshi</persName>, and they alone remained to their parents of the many
                     children whom they had had. This blessed one from his boyhood loved to shepherd

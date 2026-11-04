@@ -16,21 +16,33 @@
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
             <idno type="URI">https://syriac-sourcebook.org/229/tei</idno>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0//">
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).</p>
-                  <p>This work incorporates public domain material from the following work(s): 
+                  <p>This work encodes material from: 
                      <listBibl>
                         <bibl>
-                           <!-- What goes here and what goes in the sourceDesc? -->
+                           <author>Jacob of Sarug</author>
+                           <editor>Benjamin Plummer Pratten</editor>
+                           <title level="a">Homily on Habib the Martyr</title>
+                           <title level="m">
+                              Memoirs of Edessa And Other Ancient Syriac Documents, Homilies, Composed by Mar Jacob Various</title>
+                           <title level="s" ref="http://syriaca.org/cbss/4A2BY6VI">Ante-Nicene Fathers</title>
+                           <biblScope unit="vol">8</biblScope>
+                           <date>1886</date>
+                           <biblScope unit="p">645-743</biblScope>
+                           <note>This work is in the public domain.</note>
                         </bibl>
                         <bibl>
-                           <!-- What goes here and what goes in the sourceDesc? -->
+                           <title level="a" ref="https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Memoirs_of_Edessa_And_Other_Ancient_Syriac_Documents/Homilies,_Composed_by_Mar_Jacob/Homily_on_Habib_the_Martyr">
+                              Homily on Habib the Martyr</title>
+                           <title level="s">Wikisource</title>
+                           <availability>
+                              <licence target="https://creativecommons.org/licenses/by/4.0/">
+                                 This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+                              </licence>
+                           </availability>
                         </bibl>
                      </listBibl>
-                     <note type="license">
-                        used under a Creative Commons Attribution license 
-                        <ptr target="http://creativecommons.org/licenses/by/4.0"/>
-                     </note>
                   </p>
                </licence>
             </availability>
@@ -42,13 +54,30 @@
             <idno type="URI">https://syriac-sourcebook.org</idno>
          </seriesStmt>
          <sourceDesc>
+            <p>This encoding is based on the following edition:
+               <bibl>
+                  <author>Jacob of Sarug</author>
+                  <editor>Benjamin Plummer Pratten</editor>
+                  <title level="a">Homily on Habib the Martyr</title>
+                  <title level="m">
+                     Memoirs of Edessa And Other Ancient Syriac Documents, Homilies, Composed by Mar Jacob Various</title>
+                  <title level="s" ref="http://syriaca.org/cbss/4A2BY6VI">Ante-Nicene Fathers</title>
+                  <biblScope unit="vol">8</biblScope>
+                  <date>1886</date>
+                  <biblScope unit="p">645-743</biblScope>
+                  <note>This work is in the public domain.</note>
+               </bibl>
+            </p>
             <p>Jacob of Sarug, <title>Homily on Habib the Martyr</title>. In <title>Ante-Nicene Fathers Vol. VIII, Memoirs of 
                   Edessa And Other Ancient Syriac Documents, Homilies, Composed by Mar Jacob Various</title>.
                Translated by Benjamin Plummer Pratten. Translation in the public domain.</p>
-            <p>Original transcription of the text downloaded from Wikisource on 9/15/2024: <ref target="https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Memoirs_of_Edessa_And_Other_Ancient_Syriac_Documents/Homilies,_Composed_by_Mar_Jacob/Homily_on_Habib_the_Martyr">
-                  https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Memoirs_of_Edessa_And_Other_Ancient_Syriac_Documents/Homilies,_Composed_by_Mar_Jacob/Homily_on_Habib_the_Martyr
-               </ref>. This Wikisource transcription was made available under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
-                  Attribution-ShareAlike License</ref>.</p>
+            <p>Initial transcription of the text upon which this encoding was based was downloaded from Wikisource.org on 15 September 2024,
+               edited for accuracy, and marked up with Syriaca.org metadata:
+               <bibl>
+                  <title level="a" ref="https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Memoirs_of_Edessa_And_Other_Ancient_Syriac_Documents/Homilies,_Composed_by_Mar_Jacob/Homily_on_Habib_the_Martyr">
+                     Homily on Habib the Martyr</title>
+                  <title level="s">Wikisource</title>
+               </bibl>.</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>

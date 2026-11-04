@@ -15,21 +15,25 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">https://syriac-sourcebook.org/.xml</idno>
+                <idno type="URI">https://syriac-sourcebook.org/827/tei</idno>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0//">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under a Creative Commons Attribution 4.0 International
-                     License (CC BY 4.0).</p>
-                        <p>This work incorporates public domain material from the following work(s): <listBibl>
+                            License (CC BY 4.0).</p>
+                        <p>This work encodes material from: 
+                            <listBibl>
                                 <bibl>
-                                    <!-- What goes here and what goes in the sourceDesc? -->
-                                </bibl>
-                                <bibl>
-                                    <!-- What goes here and what goes in the sourceDesc? -->
+                                    <author>John of Ephesus</author>
+                                    <editor>Ernest Walter Brooks</editor>
+                                    <title ref="http://syriaca.org/cbss/U78B4C66">John of Ephesus. Lives of the Eastern Saints II</title>
+                                    <title level="m">Patrologia Orientalis</title>
+                                    <biblScope unit="vol">18.4</biblScope>
+                                    <ref target="https://archive.org/stream/patrologiaorient18pariuoft#page/n521/mode/2up"/>
+                                    <date when="1924">1924</date>
+                                    <citedRange unit="p">607 [405] - 623 [421]</citedRange>
+                                    <note>This work is in the public domain.</note>
                                 </bibl>
                             </listBibl>
-                            <note type="license"> used under a Creative Commons Attribution license <ptr target="http://creativecommons.org/licenses/by/4.0"/>
-                            </note>
                         </p>
                     </licence>
                 </availability>
@@ -43,7 +47,7 @@
             <seriesStmt>
                 <title>The Lives of the Eastern Saints</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI"><!-- URI NEEDED! --></idno>
+                <idno type="URI">https://syriac-sourcebook.org/9501</idno>
                 <idno type="syriacaWork">http://syriaca.org/work/9501</idno>
             </seriesStmt>
             <notesStmt>
@@ -55,14 +59,21 @@
                 </relatedItem>
             </notesStmt>
             <sourceDesc>
-                <p>John of Ephesus. Lives of the Eastern Saints. Translated and edited by E. W. Brooks.
-               Patrologia Orientalis 17–19. Firmin-Didot, 1923.</p>
+                <bibl>
+                    <author>John of Ephesus</author>
+                    <editor>Ernest Walter Brooks</editor>
+                    <title ref="http://syriaca.org/cbss/U78B4C66">John of Ephesus. Lives of the Eastern Saints II</title>
+                    <title level="m">Patrologia Orientalis</title>
+                    <biblScope unit="vol">18.4</biblScope>
+                    <ref target="https://archive.org/stream/patrologiaorient18pariuoft#page/n521/mode/2up"/>
+                    <date when="1924">1924</date>
+                    <citedRange unit="p">607 [405] - 623 [421]</citedRange>
+                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            
             <div type="work" xml:id="work-35" n="35">
                 <div type="section" xml:id="section-35" n="35">
                     <head type="main">Next the Thirty-Fifth History, of the Great, Admirable, and Renowned <persName ref="http://syriaca.org/person/1934">Community of the Holy Convents of the
@@ -231,7 +242,7 @@
                   observed it, all marvelled and were astonished, and were excited. And the whole
                   brotherhood stood on the tables themselves together with all the old heads of the
                   convents, and they cry <quote>
-                            <foreign>Kyrie eleeson</foreign>
+                            <hi rend="italics">Kyrie eleeson</hi>
                         </quote>. with great
                   awe many times, with many tears; insomuch that these holy old men addressed many
                   words to the brotherhood with emotion, saying; <quote>Lo! see, our sons, our lack
@@ -508,7 +519,7 @@
                         <reg/>
                         <orig>p. 416, n. 1</orig>
                     </choice>We should perhaps understand that there were usually 50
-                  <foreign>hebdomadarii</foreign> in each monastery, and that in the combined
+                  <hi rend="italics">hebdomadarii</hi> in each monastery, and that in the combined
                convent 20 out of each 50 were taken.</note>
                 <note xml:id="n27" target="#a27" n="27">
                     <choice>

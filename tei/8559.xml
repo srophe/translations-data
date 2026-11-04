@@ -12,36 +12,48 @@
          </titleStmt>
          <publicationStmt>
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI">https://syriac-sourcebook.org/.xml</idno>
+            <idno type="URI">https://syriac-sourcebook.org/8559/tei</idno>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0//">
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).</p>
-                  <p>This work incorporates public domain material from the following work(s): 
+                  <p>This work encodes material from: 
                      <listBibl>
                         <bibl>
-                           <!-- What goes here and what goes in the sourceDesc? -->
+                           <editor>Benjamin Harris Cowper</editor>
+                           <title level="a" ref="http://syriaca.org/cbss/IRKW44YC">Selections from the Syriac. No. I: The Chronicle of Edessa</title>
+                           <title level="j">Journal of Sacred Literature and Biblical Record</title>
+                           <biblScope unit="vol">NS V, 9</biblScope>
+                           <date>1864</date>
+                           <biblScope unit="p">28-45</biblScope>
+                           <note>This work is in the public domain.</note>
                         </bibl>
                         <bibl>
-                           <!-- What goes here and what goes in the sourceDesc? -->
+                           <title level="a" ref="https://www.tertullian.org/fathers/chronicle_of_edessa.htm">The Chronicle of Edessa</title>
+                           <title level="s">Early Church Fathers - Additional Texts</title>
+                           <note>This work is in the public domain.</note>
                         </bibl>
                      </listBibl>
-                     <note type="license">
-                        used under a Creative Commons Attribution license 
-                        <ptr target="http://creativecommons.org/licenses/by/4.0"/>
-                     </note>
                   </p>
                </licence>
             </availability>
             <date>2026-03-02</date>
          </publicationStmt>
          <sourceDesc>
-            <p><title>Chronicle of Edessa</title>. In <title>Journal of Sacred Literature and Biblical Recors, NS.</title>. V, 9(1864): 28-45.
-               Translated by Benjamin Harris Cowper. Translation in the public domain.</p>
-            <p>Original transcription of the text downloaded from Tertullian.org on 5 June 2024: 
-               <ref target="https://www.tertullian.org/fathers/chronicle_of_edessa.htm">
-                  https://www.tertullian.org/fathers/chronicle_of_edessa.htm
-               </ref>. 
-               This transcription by Rober Pearse was released into the public domain.
+            <p>This encoding is based on the following edition:
+               <bibl>
+                  <editor>Benjamin Harris Cowper</editor>
+                  <title level="a" ref="http://syriaca.org/cbss/IRKW44YC">Selections from the Syriac. No. I: The Chronicle of Edessa</title>
+                  <title level="j">Journal of Sacred Literature and Biblical Record</title>
+                  <biblScope unit="vol">NS V, 9</biblScope>
+                  <date>1864</date>
+                  <biblScope unit="p">28-45</biblScope>
+               </bibl>.
+            </p>
+            <p>Initial transcription of the text upon which this encoding was based was downloaded from Tertullian.org on 5 June 2024: 
+               <bibl>
+                  <title level="a" ref="https://www.tertullian.org/fathers/chronicle_of_edessa.htm">The Chronicle of Edessa</title>
+                  <title level="s">Early Church Fathers - Additional Texts</title>
+               </bibl>.
             </p>
          </sourceDesc>
       </fileDesc>

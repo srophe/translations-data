@@ -16,21 +16,25 @@
          </titleStmt>
          <publicationStmt>
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI">https://syriac-sourcebook.org/.xml</idno>
+            <idno type="URI">https://syriac-sourcebook.org/810/tei</idno>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0//">
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under a Creative Commons Attribution 4.0 International
                      License (CC BY 4.0).</p>
-                  <p>This work incorporates public domain material from the following work(s): <listBibl>
+                  <p>This work encodes material from: 
+                     <listBibl>
                         <bibl>
-                           <!-- What goes here and what goes in the sourceDesc? -->
+                           <author>John of Ephesus</author>
+                           <editor>Ernest Walter Brooks</editor>
+                           <title level="a" ref="http://syriaca.org/cbss/2IBLUVC7">John of Ephesus. Lives of the Eastern Saints I</title>
+                           <title level="m">Patrologia Orientalis</title>
+                           <biblScope unit="vol">17.1</biblScope>
+                           <ref target="https://archive.org/stream/patrologiaorient17pariuoft#page/n7/mode/2up"/>
+                           <date when="1923">1923</date>
+                           <citedRange unit="p">260 [260] - 265 [265]</citedRange>
+                           <note>This work is in the public domain.</note>
                         </bibl>
-                        <bibl>
-                           <!-- What goes here and what goes in the sourceDesc? -->
-                        </bibl>
-                  </listBibl>
-                     <note type="license"> used under a Creative Commons Attribution license <ptr target="http://creativecommons.org/licenses/by/4.0"/>
-                     </note>
+                     </listBibl>
                   </p>
                </licence>
             </availability>
@@ -46,7 +50,7 @@
             <title>The Lives of the Eastern Saints</title>
             <editor role="general"
                ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-            <idno type="URI"><!-- URI NEEDED! --></idno>
+            <idno type="URI">https://syriac-sourcebook.org/9501</idno>
             <idno type="syriacaWork">http://syriaca.org/work/9501</idno>
          </seriesStmt>
          <notesStmt>
@@ -58,14 +62,21 @@
             </relatedItem>
          </notesStmt>
          <sourceDesc>
-            <p>John of Ephesus. Lives of the Eastern Saints. Translated and edited by E. W. Brooks.
-               Patrologia Orientalis 17–19. Firmin-Didot, 1923.</p>
+            <bibl>
+               <author>John of Ephesus</author>
+               <editor>Ernest Walter Brooks</editor>
+               <title level="a" ref="http://syriaca.org/cbss/2IBLUVC7">John of Ephesus. Lives of the Eastern Saints I</title>
+               <title level="m">Patrologia Orientalis</title>
+               <biblScope unit="vol">17.1</biblScope>
+               <ref target="https://archive.org/stream/patrologiaorient17pariuoft#page/n7/mode/2up"/>
+               <date when="1923">1923</date>
+               <citedRange unit="p">260 [260] - 265 [265]</citedRange>
+            </bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         
          <div type="work" xml:id="work-18" n="18">
             <div type="section" xml:id="section-18">
                <head type="main">Next the Eighteenth History, of a Certain Brother Who Left A Convent Without
