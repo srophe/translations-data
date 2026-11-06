@@ -5,8 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" ref="http://syriaca.org/work/849">Jacob Baradaeus</title>
-                <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
+                <title level="m" ref="http://syriaca.org/work/849">Jacob Baradaeus</title>
                 <author>
                     <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
                 </author>
@@ -46,21 +45,6 @@
                         ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
                 <idno type="URI">https://syriac-sourcebook.org</idno>
             </seriesStmt>
-            <seriesStmt>
-                <title>The Lives of the Eastern Saints</title>
-                <editor role="general"
-                        ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">https://syriac-sourcebook.org/9501</idno>
-                <idno type="syriacaWork">http://syriaca.org/work/9501</idno>
-            </seriesStmt>
-            <notesStmt>
-                <relatedItem type="previous">
-                <ptr target="https://syriac-sourcebook.org/848"/>
-                </relatedItem>
-                <relatedItem type="next">
-                    <ptr target="https://syriac-sourcebook.org/10510"/><!-- Is this correct? Is 850 properly part of JoE Lives of the Eastern Saints -->
-                </relatedItem>
-            </notesStmt>
             <sourceDesc>
                 <bibl>
                     <author>John of Ephesus</author>

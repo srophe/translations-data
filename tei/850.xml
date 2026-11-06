@@ -5,9 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" ref="http://syriaca.org/work/850">Jacob Baradaeus (Translation of His
+                <title level="m" ref="http://syriaca.org/work/850">Jacob Baradaeus (Translation of His
                     Body)</title>
-                <title level="s" ref="http://syriaca.org/work/9501">Lives of the Eastern Saints</title>
                 <author>
                     <persName ref="http://syriaca.org/person/85">Cyriacus of
                Amida</persName>
@@ -26,7 +25,7 @@
                         <p>This work encodes material from: 
                             <listBibl>
                                 <bibl>
-                                    <author>John of Ephesus</author>
+                                    <author>Cyriacus of Amida</author>
                                     <editor>Ernest Walter Brooks</editor>
                                     <title ref="http://syriaca.org/cbss/PHMZMM3R">John of Ephesus. Lives of the Eastern Saints III</title>
                                     <title level="m">Patrologia Orientalis</title>
@@ -48,16 +47,9 @@
                         ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
                 <idno type="URI">https://syriac-sourcebook.org</idno>
             </seriesStmt>
-            <seriesStmt>
-                <title>The Lives of the Eastern Saints</title>
-                <editor role="general"
-                        ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">https://syriac-sourcebook.org/9501</idno>
-                <idno type="syriacaWork">http://syriaca.org/work/9501</idno>
-            </seriesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>John of Ephesus</author>
+                    <author>Cyriacus of Amida</author>
                     <editor>Ernest Walter Brooks</editor>
                     <title ref="http://syriaca.org/cbss/PHMZMM3R">John of Ephesus. Lives of the Eastern Saints III</title>
                     <title level="m">Patrologia Orientalis</title>
